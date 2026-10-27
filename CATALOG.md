@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 76 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 91 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -58,6 +58,14 @@
 - 位置: ~/workspace/custom-skills/local-anatomy/
 - 调用: 「用 anatomy 画一张 XX 原理图」
 
+### [kaomei/stickman-video-director（火柴人视频导演）](cards/video-visual/kaomei-stickman-video-director.md)
+
+- 一句话: 把主题、文章或脚本变成火柴人视频：导演模式出分镜脚本和逐场生成提示词，Autopilot 模式本地渲染带配音、字幕、微动效的成片。
+- 来源: 外部（已安装本地）
+- 许可: MIT
+- 位置: ~/workspace/custom-skills/local-stickman-video-director/（技能名 directing-stickman-videos；上游 https://github.com/kaomei/stickman-video-director）
+- 调用: 「用火柴人导演模式做一段 XX」「用 Autopilot 模式把这篇稿子成片」
+
 ### [sweety-handdraw-video（手绘讲解视频）](cards/video-visual/sweety-handdraw-video.md)
 
 - 一句话: 根据主题或讲解稿制作带封面的完整手绘讲解视频，按实际配音逐字安排描线与填色。
@@ -65,6 +73,14 @@
 - 许可: MIT（上游 LICENSE）
 - 位置: ~/workspace/custom-skills/local-sweety-handdraw-video/
 - 调用: 「做一个手绘讲解视频」（每日 08:00 手绘 cron 亦走此管线）
+
+### [video-kb（短视频知识库）](cards/video-visual/video-kb.md)
+
+- 一句话: 把短视频转写并提炼成可搜索的知识库笔记，接进个人档案馆。
+- 来源: 自建
+- 许可: 自有
+- 位置: ~/workspace/custom-skills/local-video-kb/
+- 调用: 「把这个视频收进知识库」「抖音视频提炼」「把这条群分享视频入库」
 
 ## 行为与决策
 
@@ -112,6 +128,14 @@
 - 位置: https://github.com/ComposioHQ/awesome-claude-skills
 - 调用: 未安装，收藏备查
 
+### [Cotal-AI/Cotal（Agent 协同开放标准）](cards/external-collection/cotal-ai-cotal.md)
+
+- 一句话: 面向 agent 协同的开放标准与技能包，7 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/Cotal-AI/Cotal
+- 调用: 未安装，收藏备查
+
 ### [DietrichGebert/ponytail（懒人程序员思维技能）](cards/external-collection/dietrichgebert-ponytail.md)
 
 - 一句话: 让 AI agent「像最懒的老程序员一样思考」——review/audit/debt/gain 四件套加主技能，共 13 个 SKILL.md。
@@ -134,6 +158,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Egonex-AI/Understand-Anything
+- 调用: 未安装，收藏备查
+
+### [JetBrains/thinkrail（轻量 IDE 氛围编程）](cards/external-collection/jetbrains-thinkrail.md)
+
+- 一句话: JetBrains 出品的轻量真实 IDE，用 pi 做氛围编程，IDE 会围绕使用者工作方式自我定制，12 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/JetBrains/thinkrail
 - 调用: 未安装，收藏备查
 
 ### [JimLiu/baoyu-skills（中文自媒体技能集）](cards/external-collection/jimliu-baoyu-skills.md)
@@ -182,6 +214,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/MSKazemi/reachweaver
+- 调用: 未安装，收藏备查
+
+### [NevaMind-AI/memU（跨 Agent 个人记忆）](cards/external-collection/nevamind-ai-memu.md)
+
+- 一句话: 跨 agent 的个人记忆技能，让不同 agent 共享同一份个人记忆，1 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/NevaMind-AI/memU
 - 调用: 未安装，收藏备查
 
 ### [OthmanAdi/planning-with-files（文件型持久规划）](cards/external-collection/othmanadi-planning-with-files.md)
@@ -238,6 +278,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/addyosmani/agent-skills
+- 调用: 未安装，收藏备查
+
+### [aiskillstore/marketplace（技能市场）](cards/external-collection/aiskillstore-marketplace.md)
+
+- 一句话: 技能市场仓库，树内含 6,183 个 SKILL.md，规模异常大，疑为批量收录。
+- 来源: 外部
+- 许可: 未标注
+- 位置: https://github.com/aiskillstore/marketplace
 - 调用: 未安装，收藏备查
 
 ### [alchaincyf/huashu-design（花叔设计技能）](cards/external-collection/alchaincyf-huashu-design.md)
@@ -368,6 +416,14 @@
 - 位置: https://github.com/dcc-mcp/dcc-asset-godot-store
 - 调用: 未安装，收藏备查
 
+### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
+
+- 一句话: AI 短剧制作的 7 个技能：小说改编大纲、角色设定、角色参考图、场景道具设定、剧本、分镜场位、分镜，一路做到可投产的分镜包。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/eternityspring/shuohao-skills
+- 调用: 未安装，收藏备查
+
 ### [f-o-x11/deed-page-skill（deed.page 发布技能）](cards/external-collection/f-o-x11-deed-page-skill.md)
 
 - 一句话: 一个 curl 把文件或文件夹发布成永久网址的 agent 技能，1 个 SKILL.md。
@@ -376,12 +432,36 @@
 - 位置: https://github.com/f-o-x11/deed-page-skill
 - 调用: 未安装，收藏备查
 
+### [fliqrlabs/instagram-creator-skills（Instagram 创作者技能包）](cards/external-collection/fliqrlabs-instagram-creator-skills.md)
+
+- 一句话: 30 个 Instagram 创作者技能：爆款钩子、Reel 脚本、文案、轮播图与评论转私信玩法，33 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/fliqrlabs/instagram-creator-skills
+- 调用: 未安装，收藏备查
+
 ### [fortunto2/solo-factory（独立开发者创业流水线）](cards/external-collection/fortunto2-solo-factory.md)
 
 - 一句话: 一人公司的整条流水线——调研、验证、脚手架、搭建、规划、构建、部署、上线、复盘，51 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/fortunto2/solo-factory
+- 调用: 未安装，收藏备查
+
+### [github/awesome-copilot（Copilot 社区合集）](cards/external-collection/github-awesome-copilot.md)
+
+- 一句话: GitHub 官方社区合集：帮你用好 GitHub Copilot 的指令、agent、技能与配置，树内含 465 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/github/awesome-copilot
+- 调用: 未安装，收藏备查
+
+### [kambleakash0/agent-skills（精选 Agent 技能 + 省 token MCP）](cards/external-collection/kambleakash0-agent-skills.md)
+
+- 一句话: 精选的自定义 Agent 技能合集，附省 token 的 MCP 服务器配置，13 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kambleakash0/agent-skills
 - 调用: 未安装，收藏备查
 
 ### [karefined-eng/information-is-beautiful-skill（可信图表技能）](cards/external-collection/karefined-eng-information-is-beautiful-skill.md)
@@ -488,6 +568,14 @@
 - 位置: https://github.com/naorsabag/openhop
 - 调用: 未安装，收藏备查
 
+### [newsbubbles/ismail（高带宽 Agent 界面）](cards/external-collection/newsbubbles-ismail.md)
+
+- 一句话: 高带宽 agent 界面 Ismail，含 Agentic DAW 与 Agentic VR 舞台，1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/newsbubbles/ismail
+- 调用: 未安装，收藏备查
+
 ### [nexu-io/open-design（协作式 AI 设计工作台技能）](cards/external-collection/nexu-io-open-design.md)
 
 - 一句话: 「The 1st Collaborative AI Design Agent Workspace」——local-first 开源设计 agent 工作台，仓内 552 个 SKILL.md。
@@ -512,6 +600,14 @@
 - 位置: https://github.com/paperclipai/paperclip
 - 调用: 未安装，收藏备查
 
+### [product-on-purpose/critique-skills（按量规出机器可读评审）](cards/external-collection/product-on-purpose-critique-skills.md)
+
+- 一句话: 按评分量规做评审的技能包，输出机器可解析的结论而非自由发挥的意见，8 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/product-on-purpose/critique-skills
+- 调用: 未安装，收藏备查
+
 ### [qjzzsky/lyric-onset-montage（歌词起音剪辑技能）](cards/external-collection/qjzzsky-lyric-onset-montage.md)
 
 - 一句话: 按唱词的实测起音点切画面——不是卡节拍、不是卡字幕，1 个 SKILL.md。
@@ -526,6 +622,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/rediumvex/meta-facebook-ads-optimizer-claude
+- 调用: 未安装，收藏备查
+
+### [reticlehq/reticle（让 Agent 理解自己写的代码）](cards/external-collection/reticlehq-reticle.md)
+
+- 一句话: 针对「agent 能写代码却不理解自己构建了什么」的技能包，22 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/reticlehq/reticle
 - 调用: 未安装，收藏备查
 
 ### [runxhq/runx（带治理的技能运行时）](cards/external-collection/runxhq-runx.md)
@@ -550,6 +654,14 @@
 - 来源: 外部
 - 许可: BSD-3-Clause
 - 位置: https://github.com/skrodahl/delegate-to-local
+- 调用: 未安装，收藏备查
+
+### [ssinder/bioinformatics-agent-skills（计算生物学技能包）](cards/external-collection/ssinder-bioinformatics-agent-skills.md)
+
+- 一句话: 计算生物学 agent 技能：RNA-seq、单细胞、蛋白质结构、分子动力学、肽设计，17 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ssinder/bioinformatics-agent-skills
 - 调用: 未安装，收藏备查
 
 ### [stancsz/northstar（委派式 AI 团队技能）](cards/external-collection/stancsz-northstar.md)
@@ -582,6 +694,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/titanwings/distilly
+- 调用: 未安装，收藏备查
+
+### [trevhud/rote（把技能编译成确定性流水线）](cards/external-collection/trevhud-rote.md)
+
+- 一句话: 把 AI agent 技能编译成便宜、快速、确定性的流水线，运行时不需要 LLM 参与，22 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/trevhud/rote
 - 调用: 未安装，收藏备查
 
 ### [tt-a1i/archify（交互式图解技能）](cards/external-collection/tt-a1i-archify.md)
