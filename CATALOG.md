@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 91 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 108 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -120,6 +120,14 @@
 - 位置: https://github.com/Alisa0808/vox-director
 - 调用: 未安装，收藏备查
 
+### [AwayerCode/Harn（技能作项目依赖）](cards/external-collection/awayercode-harn.md)
+
+- 一句话: 把技能当成项目依赖来管：版本化、可审计、可复现，换机器换人也能装出同一套技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/AwayerCode/Harn
+- 调用: 未安装，收藏备查
+
 ### [ComposioHQ/awesome-claude-skills（巨型技能汇编）](cards/external-collection/composiohq-awesome-claude-skills.md)
 
 - 一句话: 号称清单、实际把 864 个 SKILL.md 本体汇编进仓的巨型合集，默认分支是 master。
@@ -152,6 +160,14 @@
 - 位置: https://github.com/EJRyan89/coding-agent-skills
 - 调用: 未安装，收藏备查
 
+### [EbrahimAbdelwahed/cold-email-skill（个性化 cold email 技能）](cards/external-collection/ebrahimabdelwahed-cold-email-skill.md)
+
+- 一句话: 写让人真正回复的 cold email：定目标、挖背景、起草、过质检、经你点头才发，再安排跟进。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/EbrahimAbdelwahed/cold-email-skill
+- 调用: 未安装，收藏备查
+
 ### [Egonex-AI/Understand-Anything（代码知识图谱理解技能）](cards/external-collection/egonex-ai-understand-anything.md)
 
 - 一句话: 把任何代码变成可探索、可搜索的交互式知识图谱——「Graphs that teach > graphs that impress」，9 个 SKILL.md。
@@ -160,12 +176,28 @@
 - 位置: https://github.com/Egonex-AI/Understand-Anything
 - 调用: 未安装，收藏备查
 
+### [JasonHMY/personal-finance-visualizer（本地交互式财务报告）](cards/external-collection/jasonhmy-personal-finance-visualizer.md)
+
+- 一句话: 让 agent 把财务数据做成本地交互式报告：圆形图、交易钻取，中英双语，记忆优先处理。
+- 来源: 外部
+- 许可: MIT-0
+- 位置: https://github.com/JasonHMY/personal-finance-visualizer
+- 调用: 未安装，收藏备查
+
 ### [JetBrains/thinkrail（轻量 IDE 氛围编程）](cards/external-collection/jetbrains-thinkrail.md)
 
 - 一句话: JetBrains 出品的轻量真实 IDE，用 pi 做氛围编程，IDE 会围绕使用者工作方式自我定制，12 个 SKILL.md。
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/JetBrains/thinkrail
+- 调用: 未安装，收藏备查
+
+### [JimLiu/baoyu-design（本地 Claude Design 技能）](cards/external-collection/jimliu-baoyu-design.md)
+
+- 一句话: 在本地跑 Claude Design 的 agent 技能：高保真 mockup、交互原型、deck、线框图，做成自包含 HTML，不用上 claude.ai/design。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/JimLiu/baoyu-design
 - 调用: 未安装，收藏备查
 
 ### [JimLiu/baoyu-skills（中文自媒体技能集）](cards/external-collection/jimliu-baoyu-skills.md)
@@ -238,6 +270,14 @@
 - 来源: 外部
 - 许可: 见上游（API 标注 NOASSERTION）
 - 位置: https://github.com/OyadotAI/oya-browser
+- 调用: 未安装，收藏备查
+
+### [SHARPLEE00/lookbk-skills（视频/幻灯片/图片/网页技能）](cards/external-collection/sharplee00-lookbk-skills.md)
+
+- 一句话: 给 Claude Code、Codex、Cursor 的免费技能：做视频、幻灯片、图片和网页，7 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/SHARPLEE00/lookbk-skills
 - 调用: 未安装，收藏备查
 
 ### [SupercmoHQ/superCMO-skills（AI 营销官技能包）](cards/external-collection/supercmohq-supercmo-skills.md)
@@ -328,12 +368,28 @@
 - 位置: https://github.com/anthropics/skills
 - 调用: 未安装，收藏备查
 
+### [avivsinai/agent-message-queue（本地 agent 间文件消息队列）](cards/external-collection/avivsinai-agent-message-queue.md)
+
+- 一句话: 给本地 agent 用的文件型消息队列（Maildir 风格），让不同 agent 之间能互相传消息、排队协作。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/avivsinai/agent-message-queue
+- 调用: 未安装，收藏备查
+
 ### [ayghri/i-have-adhd（ADHD 友好输出技能）](cards/external-collection/ayghri-i-have-adhd.md)
 
 - 一句话: 让 coding agent 别再把答案埋在一堆废话里——专为 ADHD 用户设计的输出风格技能，1 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/ayghri/i-have-adhd
+- 调用: 未安装，收藏备查
+
+### [b0bsl3d/InformedVoter（选票转无党派研究指南）](cards/external-collection/b0bsl3d-informedvoter.md)
+
+- 一句话: 把你的样本选票变成无党派研究指南（网页 + PDF）与一页填空选票小抄，附各州投票规则。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/b0bsl3d/InformedVoter
 - 调用: 未安装，收藏备查
 
 ### [blader/humanizer（去 AI 味改写技能）](cards/external-collection/blader-humanizer.md)
@@ -440,6 +496,14 @@
 - 位置: https://github.com/fliqrlabs/instagram-creator-skills
 - 调用: 未安装，收藏备查
 
+### [flyboy-byte/toolbox（PCB/F-Droid/PR 等技能工具箱）](cards/external-collection/flyboy-byte-toolbox.md)
+
+- 一句话: Claude Code 技能工具箱：PCB 设计、F-Droid、上游 PR、项目规划、README、磁盘清理，另带 Linux 修补与小工具。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/flyboy-byte/toolbox
+- 调用: 未安装，收藏备查
+
 ### [fortunto2/solo-factory（独立开发者创业流水线）](cards/external-collection/fortunto2-solo-factory.md)
 
 - 一句话: 一人公司的整条流水线——调研、验证、脚手架、搭建、规划、构建、部署、上线、复盘，51 个 SKILL.md。
@@ -448,12 +512,52 @@
 - 位置: https://github.com/fortunto2/solo-factory
 - 调用: 未安装，收藏备查
 
+### [gengwg/skills（npx 可装技能集）](cards/external-collection/gengwg-skills.md)
+
+- 一句话: 一组偏运维排障的 agent 技能，可用 npx skills add 安装，35 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/gengwg/skills
+- 调用: 未安装，收藏备查
+
 ### [github/awesome-copilot（Copilot 社区合集）](cards/external-collection/github-awesome-copilot.md)
 
 - 一句话: GitHub 官方社区合集：帮你用好 GitHub Copilot 的指令、agent、技能与配置，树内含 465 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/github/awesome-copilot
+- 调用: 未安装，收藏备查
+
+### [google/elephant-goldfish-model（Google 规格驱动开发方法 + 技能集）](cards/external-collection/google-elephant-goldfish-model.md)
+
+- 一句话: Google 的规格驱动开发方法：先写规格、评审对齐，再让 agent 按规格实现，附 14 个配套技能。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/google/elephant-goldfish-model
+- 调用: 未安装，收藏备查
+
+### [hieuday88/claude-image（Antigravity CLI 出图技能）](cards/external-collection/hieuday88-claude-image.md)
+
+- 一句话: Claude Code 出图技能：经 Antigravity CLI（agy）调用 Google 的 Gemini 图像模型出图，不用付费 API key。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/hieuday88/claude-image
+- 调用: 未安装，收藏备查
+
+### [inkatze/planwright（规格驱动开发自动驾驶）](cards/external-collection/inkatze-planwright.md)
+
+- 一句话: 规格驱动开发的自动驾驶：你签字通过规格，带护栏的 agent 舰队负责构建、评审并交付 PR 草稿，你保留签字与合并权。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/inkatze/planwright
+- 调用: 未安装，收藏备查
+
+### [jangtrinh/design-os-3d-blender（Blender 5.2 agent 操作系统）](cards/external-collection/jangtrinh-design-os-3d-blender.md)
+
+- 一句话: 给 Blender 5.2 的 agent 操作系统：bpy 知识库、AGENT_OK 执行契约、3D 打印生产门禁，让 agent 能动手建模并走到可打印。
+- 来源: 外部
+- 许可: 见上游（API 标注 NOASSERTION）
+- 位置: https://github.com/jangtrinh/design-os-3d-blender
 - 调用: 未安装，收藏备查
 
 ### [kambleakash0/agent-skills（精选 Agent 技能 + 省 token MCP）](cards/external-collection/kambleakash0-agent-skills.md)
@@ -478,6 +582,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/kepano/obsidian-skills
+- 调用: 未安装，收藏备查
+
+### [kerfnotes/skills（简报、逐字稿、职场关系技能）](cards/external-collection/kerfnotes-skills.md)
+
+- 一句话: 给 Codex 与 Claude Code 的技能：Clayprint 做 PowerPoint 简报与 HTML/PDF 报告，Wordprint 整理本地逐字稿，Power Map 分析职场关系与职涯抉择。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kerfnotes/skills
 - 调用: 未安装，收藏备查
 
 ### [knowledgeislands/ki-agentic-harness（知识岛 agent 装备库）](cards/external-collection/knowledgeislands-ki-agentic-harness.md)
@@ -624,6 +736,14 @@
 - 位置: https://github.com/rediumvex/meta-facebook-ads-optimizer-claude
 - 调用: 未安装，收藏备查
 
+### [remote-controlled-man/skillfit（衡量技能是否真提升任务）](cards/external-collection/remote-controlled-man-skillfit.md)
+
+- 一句话: 给技能本身做跑分：衡量 AI 编码 agent 的 Skills、规则与 MCP 配置是否真的提升了你的任务效果，而不是凭感觉装一堆。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/remote-controlled-man/skillfit
+- 调用: 未安装，收藏备查
+
 ### [reticlehq/reticle（让 Agent 理解自己写的代码）](cards/external-collection/reticlehq-reticle.md)
 
 - 一句话: 针对「agent 能写代码却不理解自己构建了什么」的技能包，22 个 SKILL.md。
@@ -646,6 +766,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/sickn33/agentic-awesome-skills
+- 调用: 未安装，收藏备查
+
+### [skeptrunedev/call4me（编码 agent 打电话）](cards/external-collection/skeptrunedev-call4me.md)
+
+- 一句话: 让编码 agent 替你打电话：基于 Telnyx + OpenAI GPT-Live 的 MCP 工具，agent 能直接拨号沟通。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/skeptrunedev/call4me
 - 调用: 未安装，收藏备查
 
 ### [skrodahl/delegate-to-local（本地模型写代码）](cards/external-collection/skrodahl-delegate-to-local.md)
@@ -718,6 +846,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/virgiliojr94/book-to-skill
+- 调用: 未安装，收藏备查
+
+### [why20261/douyin-video-words（抖音视频文案提取）](cards/external-collection/why20261-douyin-video-words.md)
+
+- 一句话: 输入抖音视频链接，用千问 LLM 做智能语音转写，把视频文案提取出来，支持普通话、粤语等方言及外语。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/why20261/douyin-video-words
 - 调用: 未安装，收藏备查
 
 ### [wshobson/agents（多 harness 插件市场）](cards/external-collection/wshobson-agents.md)
