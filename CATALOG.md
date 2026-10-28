@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 108 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 111 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -127,6 +127,14 @@
 - 许可: MIT
 - 位置: https://github.com/AwayerCode/Harn
 - 调用: 未安装，收藏备查
+
+### [BofAI/skills（Bank of AI 技能集，含 x402-payment）](cards/external-collection/bofai-skills.md)
+
+- 一句话: Bank of AI 的技能合集仓（TRON 生态为主）；其中的 x402-payment 技能让 agent 用 USDT/USDD/USDC 经 x402 协议为付费 API 付款（带 --dry-run 与单笔上限）。
+- 来源: 外部（其中 x402-payment 已安装本地）
+- 许可: MIT
+- 位置: https://github.com/BofAI/skills（x402-payment 本地安装：~/workspace/custom-skills/local-x402-payment/）
+- 调用: 未启用付款通道，收藏备查
 
 ### [ComposioHQ/awesome-claude-skills（巨型技能汇编）](cards/external-collection/composiohq-awesome-claude-skills.md)
 
@@ -327,6 +335,14 @@
 - 许可: 未标注
 - 位置: https://github.com/aiskillstore/marketplace
 - 调用: 未安装，收藏备查
+
+### [alchaincyf/huashu-art-motion（花叔艺术动画）](cards/external-collection/alchaincyf-huashu-art-motion.md)
+
+- 一句话: 代码绘制的艺术动画技能：35+ 种艺术风格 + 9 种解说语法，流程为镜头表（锁画风/色板/角色）→ storyboard_lint → 逐镜渲染 → 拼接混口播 → qa → deliver 门禁出片。
+- 来源: 外部（已安装本地）
+- 许可: MIT
+- 位置: https://github.com/alchaincyf/huashu-art-motion（本地安装：~/workspace/custom-skills/local-huashu-art-motion/）
+- 调用: 「用 huashu 做一条 XX 艺术动画」
 
 ### [alchaincyf/huashu-design（花叔设计技能）](cards/external-collection/alchaincyf-huashu-design.md)
 
@@ -710,6 +726,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/paperclipai/paperclip
+- 调用: 未安装，收藏备查
+
+### [pierpont-morgan/gcp-free-vps-skill（GCP 永久免费 VPS 部署）](cards/external-collection/pierpont-morgan-gcp-free-vps-skill.md)
+
+- 一句话: 一份实测口径的 GCP Always Free VPS 全流程部署技能：先领 300 美元试用金，再建 e2-micro 免费机，配预算告警、CDN 出站屏蔽、流量只限流、Debian 换源与 dae 出站。
+- 来源: 外部
+- 许可: 未标注（仓库无 LICENSE 文件，GitHub API license 为空）
+- 位置: https://github.com/pierpont-morgan/gcp-free-vps-skill
 - 调用: 未安装，收藏备查
 
 ### [product-on-purpose/critique-skills（按量规出机器可读评审）](cards/external-collection/product-on-purpose-critique-skills.md)
