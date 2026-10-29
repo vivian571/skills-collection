@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 111 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 120 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -135,6 +135,14 @@
 - 许可: MIT
 - 位置: https://github.com/BofAI/skills（x402-payment 本地安装：~/workspace/custom-skills/local-x402-payment/）
 - 调用: 未启用付款通道，收藏备查
+
+### [CTO-DRS/design-arsenal（设计武器库）](cards/external-collection/cto-drs-design-arsenal.md)
+
+- 一句话: 设计武器库单技能：根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/CTO-DRS/design-arsenal
+- 调用: 未安装，收藏备查
 
 ### [ComposioHQ/awesome-claude-skills（巨型技能汇编）](cards/external-collection/composiohq-awesome-claude-skills.md)
 
@@ -368,6 +376,14 @@
 - 位置: https://github.com/alirezarezvani/claude-skills
 - 调用: 未安装，收藏备查
 
+### [allxsmith/bestax-skills（bestax 编码 agent 插件技能）](cards/external-collection/allxsmith-bestax-skills.md)
+
+- 一句话: bestax 编码 agent 的插件技能：自定义组件、表单、图标、布局脚手架、迁移、优化、主题，共 7 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/allxsmith/bestax-skills
+- 调用: 未安装，收藏备查
+
 ### [amierlorenz/skills（日常学习与建造技能）](cards/external-collection/amierlorenz-skills.md)
 
 - 一句话: 作者每天自用的 Claude Code 技能——每篇都是能一分钟读完的纯 Markdown，1 个 SKILL.md。
@@ -488,6 +504,22 @@
 - 位置: https://github.com/dcc-mcp/dcc-asset-godot-store
 - 调用: 未安装，收藏备查
 
+### [dereknex/immune-brain（Agent 免疫大脑）](cards/external-collection/dereknex-immune-brain.md)
+
+- 一句话: 给 agent 的免疫式工作流技能：澄清、起草、驱动、修 PR、精简文档与测试、复盘，共 9 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/dereknex/immune-brain
+- 调用: 未安装，收藏备查
+
+### [e1dred/agent-skills（桌面应用驱动技能）](cards/external-collection/e1dred-agent-skills.md)
+
+- 一句话: 让 agent 动手操作桌面应用的技能：CAD、演示文稿、办公套件、图片处理，共 7 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/e1dred/agent-skills
+- 调用: 未安装，收藏备查
+
 ### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
 
 - 一句话: AI 短剧制作的 7 个技能：小说改编大纲、角色设定、角色参考图、场景道具设定、剧本、分镜场位、分镜，一路做到可投产的分镜包。
@@ -574,6 +606,14 @@
 - 来源: 外部
 - 许可: 见上游（API 标注 NOASSERTION）
 - 位置: https://github.com/jangtrinh/design-os-3d-blender
+- 调用: 未安装，收藏备查
+
+### [jek-bao-choo/productivity-plugins（效率插件集）](cards/external-collection/jek-bao-choo-productivity-plugins.md)
+
+- 一句话: 四个效率插件的技能集：邮件/Slack 沟通、POC 流程、产品演示、视频剪辑，共 19 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/jek-bao-choo/productivity-plugins
 - 调用: 未安装，收藏备查
 
 ### [kambleakash0/agent-skills（精选 Agent 技能 + 省 token MCP）](cards/external-collection/kambleakash0-agent-skills.md)
@@ -664,6 +704,14 @@
 - 位置: https://github.com/maxg-agency/skills
 - 调用: 未安装，收藏备查
 
+### [mileson/chaojifeng-video-design（超级峰的视频设计方法论）](cards/external-collection/mileson-chaojifeng-video-design.md)
+
+- 一句话: 面向 AI Agent 的视频设计方法论技能：从导演意图到分镜、声画节奏、制作与交付验收，覆盖知识讲解、产品演示、音乐视觉等 8 类视频任务。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/mileson/chaojifeng-video-design
+- 调用: 「用 chaojifeng-video-design 做一期关于 XX 的概念知识科普视频」
+
 ### [morluto/rea（用 agent 逆向任何东西）](cards/external-collection/morluto-rea.md)
 
 - 一句话: 用 agent 逆向任何东西的技能——从应用行为一路深入到原生二进制，5 个 SKILL.md。
@@ -712,6 +760,14 @@
 - 位置: https://github.com/nexu-io/open-design
 - 调用: 未安装，收藏备查
 
+### [nightly-labs/openbot（本地优先的多智能体桌面工作台）](cards/external-collection/nightly-labs-openbot.md)
+
+- 一句话: 本地优先的桌面工作台，给每个 AI 队友一个独立工作区和会话，可跑 Codex、Claude、Grok 等多个 agent 并让它们互相协作。
+- 来源: 外部
+- 许可: PolyForm Noncommercial 1.0.0（非商业许可；商业使用需另向版权方申请，0.1.11 及之前版本为 Apache-2.0）
+- 位置: https://github.com/nightly-labs/openbot
+- 调用: 未安装，收藏备查
+
 ### [obra/superpowers（完整开发方法论技能框架）](cards/external-collection/obra-superpowers.md)
 
 - 一句话: 一套完整软件开发方法论的技能框架——先头脑风暴对齐、再写计划、子 agent 分工执行、TDD 与评审兜底，15 个 SKILL.md。
@@ -750,6 +806,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/qjzzsky/lyric-onset-montage
+- 调用: 未安装，收藏备查
+
+### [ramboz/jig（跨平台工程技能集）](cards/external-collection/ramboz-jig.md)
+
+- 一句话: 跨 Claude 与 Codex 的工程技能集：同一批技能按 harness 各放一份，树内 80 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ramboz/jig
 - 调用: 未安装，收藏备查
 
 ### [rediumvex/meta-facebook-ads-optimizer-claude（广告诊断技能）](cards/external-collection/rediumvex-meta-facebook-ads-optimizer-claude.md)
@@ -830,6 +894,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/tamnguyendinh/Anvien
+- 调用: 未安装，收藏备查
+
+### [teng-lin/notebooklm-py（NotebookLM 客户端技能）](cards/external-collection/teng-lin-notebooklm-py.md)
+
+- 一句话: NotebookLM 的 Python 客户端自带 agent 技能：根目录 1 个 SKILL.md，让 agent 能调用 NotebookLM 能力。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/teng-lin/notebooklm-py
 - 调用: 未安装，收藏备查
 
 ### [thedotmack/claude-mem（跨会话持久记忆）](cards/external-collection/thedotmack-claude-mem.md)
