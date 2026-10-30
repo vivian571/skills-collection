@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 120 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 136 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -120,6 +120,14 @@
 - 位置: https://github.com/Alisa0808/vox-director
 - 调用: 未安装，收藏备查
 
+### [ApolloMonasa/contest-solver（编程竞赛做题工作流）](cards/external-collection/apollomonasa-contest-solver.md)
+
+- 一句话: 编程竞赛做题工作流 agent 技能：调研→补问→规划→TDD→分批提交→提测循环，按 Agent Skills 标准格式写成。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ApolloMonasa/contest-solver
+- 调用: 未安装，收藏备查
+
 ### [AwayerCode/Harn（技能作项目依赖）](cards/external-collection/awayercode-harn.md)
 
 - 一句话: 把技能当成项目依赖来管：版本化、可审计、可复现，换机器换人也能装出同一套技能。
@@ -190,6 +198,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Egonex-AI/Understand-Anything
+- 调用: 未安装，收藏备查
+
+### [GangJaeYu/harness_loop_full_korean（韩语 agent 开发循环）](cards/external-collection/gangjaeyu-harness-loop-full-korean.md)
+
+- 一句话: 韩语 Claude Code / Codex agent 技能插件：想法→PRD→设计→任务→验证 harness→自主开发循环，13 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/GangJaeYu/harness_loop_full_korean
+- 调用: 未安装，收藏备查
+
+### [HsuanYuLee/polaris（Claude Code 工作区模板技能）](cards/external-collection/hsuanyulee-polaris.md)
+
+- 一句话: 带 AI 技能的 Claude Code 工作区模板：JIRA、PR、代码评审、估算等 16 个技能，覆盖从需求到交付的工程流程。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/HsuanYuLee/polaris
 - 调用: 未安装，收藏备查
 
 ### [JasonHMY/personal-finance-visualizer（本地交互式财务报告）](cards/external-collection/jasonhmy-personal-finance-visualizer.md)
@@ -272,6 +296,14 @@
 - 位置: https://github.com/NevaMind-AI/memU
 - 调用: 未安装，收藏备查
 
+### [OWENWANG-GULIAI/guliai-skills（谷粒 AI 实用技能合集）](cards/external-collection/owenwang-guliai-guliai-skills.md)
+
+- 一句话: 谷粒 AI 的实用型 agent 技能合集：内容生产、个人品牌、课程设计、社群运营与 skill 开发，含微信自动化方向技能。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/OWENWANG-GULIAI/guliai-skills
+- 调用: 未安装，收藏备查
+
 ### [OthmanAdi/planning-with-files（文件型持久规划）](cards/external-collection/othmanadi-planning-with-files.md)
 
 - 一句话: 用文件做持久规划的单技能 —— 同一份 SKILL.md 适配 12+ harness（Claude/Cursor/Codex/Gemini 等），另带 5 语言 i18n 版。
@@ -286,6 +318,14 @@
 - 来源: 外部
 - 许可: 见上游（API 标注 NOASSERTION）
 - 位置: https://github.com/OyadotAI/oya-browser
+- 调用: 未安装，收藏备查
+
+### [PaodingAI/skills（文档解析技能）](cards/external-collection/paodingai-skills.md)
+
+- 一句话: 把 PDF、DOCX、PPT 等文档解析成 Markdown 的可复用技能，另含招股书审计、对话文档等文档工作流技能。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/PaodingAI/skills
 - 调用: 未安装，收藏备查
 
 ### [SHARPLEE00/lookbk-skills（视频/幻灯片/图片/网页技能）](cards/external-collection/sharplee00-lookbk-skills.md)
@@ -392,12 +432,28 @@
 - 位置: https://github.com/amierlorenz/skills
 - 调用: 未安装，收藏备查
 
+### [anbeime/skill（中文技能商店精选合集）](cards/external-collection/anbeime-skill.md)
+
+- 一句话: 中文技能商店：精选原创技能包（文档处理、内容创作、编程开发、机器学习、自动化工作流）打包好可直接安装，并自动抓取上游更新。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/anbeime/skill
+- 调用: 未安装，收藏备查
+
 ### [anthropics/skills（Anthropic 官方技能库）](cards/external-collection/anthropics-skills.md)
 
 - 一句话: Anthropic 官方的 Agent Skills 仓库，skills/ 目录下是一批官方出品的 SKILL.md，可当写法范本。
 - 来源: 外部
 - 许可: 见仓库内各技能自带 LICENSE（API 未标注统一 SPDX）
 - 位置: https://github.com/anthropics/skills
+- 调用: 未安装，收藏备查
+
+### [apexstoa/strategy-tester（交易想法回测 verdict）](cards/external-collection/apexstoa-strategy-tester.md)
+
+- 一句话: 拿你自己的交易想法和自己的行情数据做回测，最后给一个数字 verdict：GO、NO-GO 或 INCONCLUSIVE——只给方法，不给信号。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/apexstoa/strategy-tester
 - 调用: 未安装，收藏备查
 
 ### [avivsinai/agent-message-queue（本地 agent 间文件消息队列）](cards/external-collection/avivsinai-agent-message-queue.md)
@@ -504,6 +560,14 @@
 - 位置: https://github.com/dcc-mcp/dcc-asset-godot-store
 - 调用: 未安装，收藏备查
 
+### [deeprdai21-ai/practical-claude-skills（实用小技能两件套）](cards/external-collection/deeprdai21-ai-practical-claude-skills.md)
+
+- 一句话: 两个免费实用的小技能：给股票导出文件重排列表，以及对一段说法逐条做事实核查。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/deeprdai21-ai/practical-claude-skills
+- 调用: 未安装，收藏备查
+
 ### [dereknex/immune-brain（Agent 免疫大脑）](cards/external-collection/dereknex-immune-brain.md)
 
 - 一句话: 给 agent 的免疫式工作流技能：澄清、起草、驱动、修 PR、精简文档与测试、复盘，共 9 个 SKILL.md。
@@ -560,6 +624,14 @@
 - 位置: https://github.com/fortunto2/solo-factory
 - 调用: 未安装，收藏备查
 
+### [genfeedai/skills（内容创作与广告技能集）](cards/external-collection/genfeedai-skills.md)
+
+- 一句话: 面向内容创作、SEO、广告、图片提示词与策略的 AI 技能集，含广告、品牌等主题 bundles。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/genfeedai/skills
+- 调用: 未安装，收藏备查
+
 ### [gengwg/skills（npx 可装技能集）](cards/external-collection/gengwg-skills.md)
 
 - 一句话: 一组偏运维排障的 agent 技能，可用 npx skills add 安装，35 个 SKILL.md。
@@ -598,6 +670,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/inkatze/planwright
+- 调用: 未安装，收藏备查
+
+### [jamditis/claude-skills-journalism（新闻与学术技能）](cards/external-collection/jamditis-claude-skills-journalism.md)
+
+- 一句话: 面向新闻、媒体与学术的 Claude Code 技能：事实核查、FOIA 信息公开申请、数据处理，另带一套开发工具技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/jamditis/claude-skills-journalism
 - 调用: 未安装，收藏备查
 
 ### [jangtrinh/design-os-3d-blender（Blender 5.2 agent 操作系统）](cards/external-collection/jangtrinh-design-os-3d-blender.md)
@@ -670,6 +750,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/latent-spaces/brag
+- 调用: 未安装，收藏备查
+
+### [lmxcode/infocard-video（信息卡短视频流水线）](cards/external-collection/lmxcode-infocard-video.md)
+
+- 一句话: 信息卡短视频全自动流水线：口播 TTS + HTML/CSS 信息卡渲染 + BGM + 字幕，一条 60s 成片现金成本约 0.2 元。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/lmxcode/infocard-video
 - 调用: 未安装，收藏备查
 
 ### [luizguilherme5/claude-delegation-skills（委派给本地 Claude 的技能）](cards/external-collection/luizguilherme5-claude-delegation-skills.md)
@@ -848,6 +936,14 @@
 - 位置: https://github.com/runxhq/runx
 - 调用: 未安装，收藏备查
 
+### [say8425/SimpleKorean（易懂韩语写作技能）](cards/external-collection/say8425-simplekorean.md)
+
+- 一句话: 让 LLM 把技术文档和聊天回答写成简单易懂的韩语，源自 SimpleEnglish（ASD-STE100）的韩语派生项目。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/say8425/SimpleKorean
+- 调用: 未安装，收藏备查
+
 ### [sickn33/agentic-awesome-skills（2750+ 技能巨型合集）](cards/external-collection/sickn33-agentic-awesome-skills.md)
 
 - 一句话: 自称 2750+ agentic 技能的本地控制平面：目录发现、agent 自选、栈校验与规划，仓内实测 8,589 个 SKILL.md。
@@ -872,12 +968,28 @@
 - 位置: https://github.com/skrodahl/delegate-to-local
 - 调用: 未安装，收藏备查
 
+### [soul0710/story-narration-skills（长叙事口播视频脚本）](cards/external-collection/soul0710-story-narration-skills.md)
+
+- 一句话: 写 30–120+ 分钟长叙事口播视频脚本的 7 个技能：立意、大纲、圣经设定、写作、分镜、审校、成片工作室。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/soul0710/story-narration-skills
+- 调用: 未安装，收藏备查
+
 ### [ssinder/bioinformatics-agent-skills（计算生物学技能包）](cards/external-collection/ssinder-bioinformatics-agent-skills.md)
 
 - 一句话: 计算生物学 agent 技能：RNA-seq、单细胞、蛋白质结构、分子动力学、肽设计，17 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/ssinder/bioinformatics-agent-skills
+- 调用: 未安装，收藏备查
+
+### [st666xiao/claude-relay（多模型接力流程）](cards/external-collection/st666xiao-claude-relay.md)
+
+- 一句话: Opus 指挥、干活模型执行、Haiku 验收、Sonnet 审查——靠流程约束分工，不靠模型自觉的多模型接力技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/st666xiao/claude-relay
 - 调用: 未安装，收藏备查
 
 ### [stancsz/northstar（委派式 AI 团队技能）](cards/external-collection/stancsz-northstar.md)
@@ -952,6 +1064,14 @@
 - 位置: https://github.com/why20261/douyin-video-words
 - 调用: 未安装，收藏备查
 
+### [why20261/kuaishou-opportunity-research（快手机会研究）](cards/external-collection/why20261-kuaishou-opportunity-research.md)
+
+- 一句话: 研究快手搜索结果、作品结构、达人数据和用户反馈，筛选值得继续验证的机会，服务快手选题、增长与用户痛点分析。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/why20261/kuaishou-opportunity-research
+- 调用: 未安装，收藏备查
+
 ### [wshobson/agents（多 harness 插件市场）](cards/external-collection/wshobson-agents.md)
 
 - 一句话: 面向多 harness 的 agentic 插件市场（Claude Code / Codex / Cursor / OpenCode / Copilot / Antigravity / Pi），含 185 个 SKILL.md。
@@ -966,6 +1086,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/yusufkaraaslan/Skill_Seekers
+- 调用: 未安装，收藏备查
+
+### [zenstory-ai/oh-story-claudecode（中文网文写作技能）](cards/external-collection/zenstory-ai-oh-story-claudecode.md)
+
+- 一句话: 给 Claude Code / Codex / OpenCode 写中文网文的 agent 技能包：长短篇分析、扫描、写作、审校、封面、导入与发布。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/zenstory-ai/oh-story-claudecode
 - 调用: 未安装，收藏备查
 
 ### [zhuyansen/awesome-claude-video-skills（视频技能合集）](cards/external-collection/zhuyansen-awesome-claude-video-skills.md)
