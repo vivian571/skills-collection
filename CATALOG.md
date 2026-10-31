@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 136 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 150 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -110,6 +110,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/AIPMAndy/ClearSkill
+- 调用: 未安装，收藏备查
+
+### [AgriciDaniel/claude-obsidian（Obsidian 第二大脑技能）](cards/external-collection/agricidaniel-claude-obsidian.md)
+
+- 一句话: 给 Claude Code 的自组织 Obsidian 第二大脑：wiki 检索、摄入、整理、研究、画布等 15 个可交付技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/AgriciDaniel/claude-obsidian
 - 调用: 未安装，收藏备查
 
 ### [Alisa0808/vox-director（Vox 拼贴讲解视频技能）](cards/external-collection/alisa0808-vox-director.md)
@@ -224,6 +232,14 @@
 - 位置: https://github.com/JasonHMY/personal-finance-visualizer
 - 调用: 未安装，收藏备查
 
+### [Jeffallan/claude-skills（全栈开发者 67 技能）](cards/external-collection/jeffallan-claude-skills.md)
+
+- 一句话: 67 个面向全栈开发者的专项技能：架构、API、云、数据库、调试、DevOps、Django/FastAPI 等各一岗。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Jeffallan/claude-skills
+- 调用: 未安装，收藏备查
+
 ### [JetBrains/thinkrail（轻量 IDE 氛围编程）](cards/external-collection/jetbrains-thinkrail.md)
 
 - 一句话: JetBrains 出品的轻量真实 IDE，用 pi 做氛围编程，IDE 会围绕使用者工作方式自我定制，12 个 SKILL.md。
@@ -264,6 +280,14 @@
 - 位置: https://github.com/K-Dense-AI/scientific-agent-skills
 - 调用: 未安装，收藏备查
 
+### [KKKKhazix/khazix-skills（数字生命卡兹克的 AI 技能合集）](cards/external-collection/kkkkhazix-khazix-skills.md)
+
+- 一句话: 中文向 AI 技能合集 6 个：定目标的 leader、洁癖 neat-freak、热点分析、写作、存储分析。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/KKKKhazix/khazix-skills
+- 调用: 未安装，收藏备查
+
 ### [Kulaxyz/self-learning-skills（会话最优路径沉淀）](cards/external-collection/kulaxyz-self-learning-skills.md)
 
 - 一句话: 自我改进技能：把会话里来之不易的「黄金路径」自动沉淀为可复用 skill，支持 Claude Code/Cursor/AGENTS.md 等 70+ agent。
@@ -288,6 +312,14 @@
 - 位置: https://github.com/MSKazemi/reachweaver
 - 调用: 未安装，收藏备查
 
+### [NVIDIA/SkillSpector（技能安全扫描器）](cards/external-collection/nvidia-skillspector.md)
+
+- 一句话: NVIDIA 出品的 AI agent 技能安全扫描器：查技能里的漏洞、恶意模式与过度授权，可交付技能 1 个。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/NVIDIA/SkillSpector
+- 调用: 未安装，收藏备查
+
 ### [NevaMind-AI/memU（跨 Agent 个人记忆）](cards/external-collection/nevamind-ai-memu.md)
 
 - 一句话: 跨 agent 的个人记忆技能，让不同 agent 共享同一份个人记忆，1 个 SKILL.md。
@@ -296,12 +328,28 @@
 - 位置: https://github.com/NevaMind-AI/memU
 - 调用: 未安装，收藏备查
 
+### [Nutlope/hallmark（反 AI 味设计技能）](cards/external-collection/nutlope-hallmark.md)
+
+- 一句话: 让 agent 做的网页不再一眼 AI 味的反 slop 设计技能：先立硬底线，再放手做设计。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Nutlope/hallmark
+- 调用: 未安装，收藏备查
+
 ### [OWENWANG-GULIAI/guliai-skills（谷粒 AI 实用技能合集）](cards/external-collection/owenwang-guliai-guliai-skills.md)
 
 - 一句话: 谷粒 AI 的实用型 agent 技能合集：内容生产、个人品牌、课程设计、社群运营与 skill 开发，含微信自动化方向技能。
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/OWENWANG-GULIAI/guliai-skills
+- 调用: 未安装，收藏备查
+
+### [Orchestra-Research/AI-Research-SKILLs（AI 研究与工程技能库）](cards/external-collection/orchestra-research-ai-research-skills.md)
+
+- 一句话: 面向 AI 研究与工程的开源技能库：模型架构、分词、微调、机理可解释、数据处理、后训练等方向共 98 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Orchestra-Research/AI-Research-SKILLs
 - 调用: 未安装，收藏备查
 
 ### [OthmanAdi/planning-with-files（文件型持久规划）](cards/external-collection/othmanadi-planning-with-files.md)
@@ -328,12 +376,28 @@
 - 位置: https://github.com/PaodingAI/skills
 - 调用: 未安装，收藏备查
 
+### [Ryze-AI-Adgent/open-seo-mcp-skills（SEO 与 GEO 技能集）](cards/external-collection/ryze-ai-adgent-open-seo-mcp-skills.md)
+
+- 一句话: 免费的 SEO MCP 服务器 + 开源 SEO/GEO 技能：关键词研究、竞品缺口、外链检查、排名追踪、SEO 审计等 8 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills
+- 调用: 未安装，收藏备查
+
 ### [SHARPLEE00/lookbk-skills（视频/幻灯片/图片/网页技能）](cards/external-collection/sharplee00-lookbk-skills.md)
 
 - 一句话: 给 Claude Code、Codex、Cursor 的免费技能：做视频、幻灯片、图片和网页，7 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/SHARPLEE00/lookbk-skills
+- 调用: 未安装，收藏备查
+
+### [SnailSploit/Claude-Red（进攻性安全技能库）](cards/external-collection/snailsploit-claude-red.md)
+
+- 一句话: 面向 Claude 技能系统的进攻性安全技能库：按攻击面分 23 类的方法论 SKILL.md，共 79 个。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/SnailSploit/Claude-Red
 - 调用: 未安装，收藏备查
 
 ### [SupercmoHQ/superCMO-skills（AI 营销官技能包）](cards/external-collection/supercmohq-supercmo-skills.md)
@@ -344,12 +408,28 @@
 - 位置: https://github.com/SupercmoHQ/superCMO-skills
 - 调用: 未安装，收藏备查
 
+### [Vincentwei1021/video-shotcraft（AI 视频制作技能）](cards/external-collection/vincentwei1021-video-shotcraft.md)
+
+- 一句话: 给 Claude Code 与 Codex 的 AI 视频技能：做电影感、可编辑的产品宣传片，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/Vincentwei1021/video-shotcraft
+- 调用: 未安装，收藏备查
+
 ### [VoltAgent/awesome-agent-skills（1000+ 技能清单）](cards/external-collection/voltagent-awesome-agent-skills.md)
 
 - 一句话: 清单型合集：自称收录 1000+ 来自官方团队与社区的 agent skill（兼容 Claude Code / Codex / Gemini CLI / Cursor 等），仓内只有清单没有 SKILL.md 本体。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/VoltAgent/awesome-agent-skills
+- 调用: 未安装，收藏备查
+
+### [VoltAgent/awesome-openclaw-skills（OpenClaw 技能清单）](cards/external-collection/voltagent-awesome-openclaw-skills.md)
+
+- 一句话: 清单型合集：自称收录 5,400+ 经筛选分类的 OpenClaw 技能，仓内只有清单没有 SKILL.md 本体。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/VoltAgent/awesome-openclaw-skills
 - 调用: 未安装，收藏备查
 
 ### [WenyuChiou/ai-research-skills（科研工作流技能目录·清单）](cards/external-collection/wenyuchiou-ai-research-skills.md)
@@ -582,6 +662,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/e1dred/agent-skills
+- 调用: 未安装，收藏备查
+
+### [elayadesign/ai-design-skills（落地页设计技能）](cards/external-collection/elayadesign-ai-design-skills.md)
+
+- 一句话: 产品设计师的落地页设计技能：先问 offer、买家与唯一行动，再按一套严格的视觉系统出营销页。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/elayadesign/ai-design-skills
 - 调用: 未安装，收藏备查
 
 ### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
@@ -848,6 +936,14 @@
 - 位置: https://github.com/nexu-io/open-design
 - 调用: 未安装，收藏备查
 
+### [nidhinjs/prompt-master（提示词写作技能）](cards/external-collection/nidhinjs-prompt-master.md)
+
+- 一句话: 给任意 AI 工具写准确提示词的 Claude 技能：根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nidhinjs/prompt-master
+- 调用: 未安装，收藏备查
+
 ### [nightly-labs/openbot（本地优先的多智能体桌面工作台）](cards/external-collection/nightly-labs-openbot.md)
 
 - 一句话: 本地优先的桌面工作台，给每个 AI 队友一个独立工作区和会话，可跑 Codex、Claude、Grok 等多个 agent 并让它们互相协作。
@@ -870,6 +966,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/paperclipai/paperclip
+- 调用: 未安装，收藏备查
+
+### [pbakaus/impeccable（设计词汇技能）](cards/external-collection/pbakaus-impeccable.md)
+
+- 一句话: 给 coding agent 的设计词汇技能：用一套可复用的设计语言把关 polish 与大胆度，1 个技能适配 26 个 harness。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/pbakaus/impeccable
+- 调用: 未安装，收藏备查
+
+### [phuryn/pm-skills（产品经理技能市场）](cards/external-collection/phuryn-pm-skills.md)
+
+- 一句话: 产品经理的 agentic 技能市场：PRD、OKR、AB 测试、发布、复盘、路线图等 69 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/phuryn/pm-skills
 - 调用: 未安装，收藏备查
 
 ### [pierpont-morgan/gcp-free-vps-skill（GCP 永久免费 VPS 部署）](cards/external-collection/pierpont-morgan-gcp-free-vps-skill.md)
