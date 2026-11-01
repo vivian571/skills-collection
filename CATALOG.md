@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 150 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 159 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -110,6 +110,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/AIPMAndy/ClearSkill
+- 调用: 未安装，收藏备查
+
+### [Agents365-ai/drawio-skill（自然语言转 Draw.io 图技能）](cards/external-collection/agents365-ai-drawio-skill.md)
+
+- 一句话: 把自然语言、代码、Terraform/K8s 配置、SQL、OpenAPI、AsyncAPI、Protobuf 等转成 Draw.io 图表的单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Agents365-ai/drawio-skill
+- 调用: 未安装，收藏备查
+
+### [AgriciDaniel/claude-ads（付费媒体运营技能）](cards/external-collection/agricidaniel-claude-ads.md)
+
+- 一句话: Claude-first 的付费媒体运营技能：覆盖 12 个广告平台的投放、审计、预算、创意与归因，共 34 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/AgriciDaniel/claude-ads
 - 调用: 未安装，收藏备查
 
 ### [AgriciDaniel/claude-obsidian（Obsidian 第二大脑技能）](cards/external-collection/agricidaniel-claude-obsidian.md)
@@ -656,6 +672,14 @@
 - 位置: https://github.com/dereknex/immune-brain
 - 调用: 未安装，收藏备查
 
+### [dreammis/social-auto-upload（社媒自动上传技能）](cards/external-collection/dreammis-social-auto-upload.md)
+
+- 一句话: 自动化上传视频到社交媒体的技能集：抖音、小红书、视频号、TikTok、YouTube、B站等，共 18 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/dreammis/social-auto-upload
+- 调用: 未安装，收藏备查
+
 ### [e1dred/agent-skills（桌面应用驱动技能）](cards/external-collection/e1dred-agent-skills.md)
 
 - 一句话: 让 agent 动手操作桌面应用的技能：CAD、演示文稿、办公套件、图片处理，共 7 个 SKILL.md。
@@ -744,6 +768,14 @@
 - 位置: https://github.com/google/elephant-goldfish-model
 - 调用: 未安装，收藏备查
 
+### [hesreallyhim/awesome-claude-code（Claude Code 资源清单）](cards/external-collection/hesreallyhim-awesome-claude-code.md)
+
+- 一句话: 清单型合集：人工精选的 Claude Code 资源总汇——技能、配置、工具与教程的索引。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/hesreallyhim/awesome-claude-code
+- 调用: 未安装，收藏备查
+
 ### [hieuday88/claude-image（Antigravity CLI 出图技能）](cards/external-collection/hieuday88-claude-image.md)
 
 - 一句话: Claude Code 出图技能：经 Antigravity CLI（agy）调用 Google 的 Gemini 图像模型出图，不用付费 API key。
@@ -782,6 +814,22 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/jek-bao-choo/productivity-plugins
+- 调用: 未安装，收藏备查
+
+### [jnMetaCode/superpowers-zh（superpowers 中文增强版）](cards/external-collection/jnmetacode-superpowers-zh.md)
+
+- 一句话: obra/superpowers 的完整汉化 + 4 个中国原创技能：中文代码评审、中文提交规范、中文文档、中文 Git 工作流，共 21 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/jnMetaCode/superpowers-zh
+- 调用: 未安装，收藏备查
+
+### [jonathanjuliani/skilldeck（JS/TS 工程技能集）](cards/external-collection/jonathanjuliani-skilldeck.md)
+
+- 一句话: 36 个面向 JS/TS、React 与 React Native agent 的工程技能：先探测再决策，设计与工程两条线，共 37 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/jonathanjuliani/skilldeck
 - 调用: 未安装，收藏备查
 
 ### [kambleakash0/agent-skills（精选 Agent 技能 + 省 token MCP）](cards/external-collection/kambleakash0-agent-skills.md)
@@ -840,6 +888,14 @@
 - 位置: https://github.com/latent-spaces/brag
 - 调用: 未安装，收藏备查
 
+### [lemomo-ai/lemo-opuscar（代码化电影风格工具箱）](cards/external-collection/lemomo-ai-lemo-opuscar.md)
+
+- 一句话: 给 Claude Code 的代码化电影风格工具箱：66 套开箱即用的影片风格，也可自定风格，2 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/lemomo-ai/lemo-opuscar
+- 调用: 未安装，收藏备查
+
 ### [lmxcode/infocard-video（信息卡短视频流水线）](cards/external-collection/lmxcode-infocard-video.md)
 
 - 一句话: 信息卡短视频全自动流水线：口播 TTS + HTML/CSS 信息卡渲染 + BGM + 字幕，一条 60s 成片现金成本约 0.2 元。
@@ -862,6 +918,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/lzhs1995/multi-agent-collaboration
+- 调用: 未安装，收藏备查
+
+### [magnus919/agent-skills（精选 Agent 技能合集）](cards/external-collection/magnus919-agent-skills.md)
+
+- 一句话: 面向 Hermes 等 agent 框架的精选技能合集：精算风险建模、ADR 写作、agent 评审与可观测性、API 设计演进等，共 191 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/magnus919/agent-skills
 - 调用: 未安装，收藏备查
 
 ### [mattpocock/skills（给真实工程师的技能集）](cards/external-collection/mattpocock-skills.md)
@@ -926,6 +990,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/newsbubbles/ismail
+- 调用: 未安装，收藏备查
+
+### [nexu-io/html-anything（Agentic HTML 编辑器模板技能）](cards/external-collection/nexu-io-html-anything.md)
+
+- 一句话: Agentic HTML 编辑器自带的模板技能库：文章、杂志、信息图、卡片、看板、数据报告、课程 deck 等方向，共 81 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/nexu-io/html-anything
 - 调用: 未安装，收藏备查
 
 ### [nexu-io/open-design（协作式 AI 设计工作台技能）](cards/external-collection/nexu-io-open-design.md)
