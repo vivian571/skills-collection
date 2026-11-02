@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 159 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 169 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -222,6 +222,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Egonex-AI/Understand-Anything
+- 调用: 未安装，收藏备查
+
+### [EminBudak/launch-film（产品启动视频技能）](cards/external-collection/eminbudak-launch-film.md)
+
+- 一句话: 从网站或 App Store 页面做一条启动视频：用产品真实的 logo、配色、字体与界面截图，本地渲染，1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/EminBudak/launch-film
 - 调用: 未安装，收藏备查
 
 ### [GangJaeYu/harness_loop_full_korean（韩语 agent 开发循环）](cards/external-collection/gangjaeyu-harness-loop-full-korean.md)
@@ -480,6 +488,14 @@
 - 位置: https://github.com/aiskillstore/marketplace
 - 调用: 未安装，收藏备查
 
+### [akiiwa-games/AgentCompass（多 agent 任务路由器）](cards/external-collection/akiiwa-games-agentcompass.md)
+
+- 一句话: 确定性多 agent 任务路由器与订阅额度调度器：面向 Claude Code、Codex、Gemini CLI、Grok、Paseo，按模型特性与能力下限分流子 agent，4 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/akiiwa-games/AgentCompass
+- 调用: 未安装，收藏备查
+
 ### [alchaincyf/huashu-art-motion（花叔艺术动画）](cards/external-collection/alchaincyf-huashu-art-motion.md)
 
 - 一句话: 代码绘制的艺术动画技能：35+ 种艺术风格 + 9 种解说语法，流程为镜头表（锁画风/色板/角色）→ storyboard_lint → 逐镜渲染 → 拼接混口播 → qa → deliver 门禁出片。
@@ -696,12 +712,28 @@
 - 位置: https://github.com/elayadesign/ai-design-skills
 - 调用: 未安装，收藏备查
 
+### [elrazez/deepen（任务改写成专业提示词）](cards/external-collection/elrazez-deepen.md)
+
+- 一句话: 动手前先把任务改写成顶级专业人士会写的那种提示词：/deepen 一个指令，覆盖 Claude、Codex、Cursor、Gemini CLI 等约 80 个 agent，1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/elrazez/deepen
+- 调用: 未安装，收藏备查
+
 ### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
 
 - 一句话: AI 短剧制作的 7 个技能：小说改编大纲、角色设定、角色参考图、场景道具设定、剧本、分镜场位、分镜，一路做到可投产的分镜包。
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/eternityspring/shuohao-skills
+- 调用: 未安装，收藏备查
+
+### [eugenelim/agent-ready-repo（AI 软件团队操作系统）](cards/external-collection/eugenelim-agent-ready-repo.md)
+
+- 一句话: 从想法到上线的完整 AI 软件团队操作系统：发现→构建→发布三条同行监督循环，配精选技能、子 agent 与配置包，树内 215 个 SKILL.md（含多 harness 复本）。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/eugenelim/agent-ready-repo
 - 调用: 未安装，收藏备查
 
 ### [f-o-x11/deed-page-skill（deed.page 发布技能）](cards/external-collection/f-o-x11-deed-page-skill.md)
@@ -776,6 +808,14 @@
 - 位置: https://github.com/hesreallyhim/awesome-claude-code
 - 调用: 未安装，收藏备查
 
+### [hfadhlullah/kaizen（先审计划再动手的 agent 流程）](cards/external-collection/hfadhlullah-kaizen.md)
+
+- 一句话: AI agent 先给你看计划再动手、第二个 agent 再检查做完的结果，另含 UI/UX、书、deck 与视频等媒体技能，7 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/hfadhlullah/kaizen
+- 调用: 未安装，收藏备查
+
 ### [hieuday88/claude-image（Antigravity CLI 出图技能）](cards/external-collection/hieuday88-claude-image.md)
 
 - 一句话: Claude Code 出图技能：经 Antigravity CLI（agy）调用 Google 的 Gemini 图像模型出图，不用付费 API key。
@@ -824,6 +864,14 @@
 - 位置: https://github.com/jnMetaCode/superpowers-zh
 - 调用: 未安装，收藏备查
 
+### [john-walks-slow/rabbit-skills（轻量 Coding Agent 配置套件）](cards/external-collection/john-walks-slow-rabbit-skills.md)
+
+- 一句话: 轻量、松弛、有效的 Coding Agent 配置套件，面向中等规模 AI 原生项目开发，19 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/john-walks-slow/rabbit-skills
+- 调用: 未安装，收藏备查
+
 ### [jonathanjuliani/skilldeck（JS/TS 工程技能集）](cards/external-collection/jonathanjuliani-skilldeck.md)
 
 - 一句话: 36 个面向 JS/TS、React 与 React Native agent 的工程技能：先探测再决策，设计与工程两条线，共 37 个 SKILL.md。
@@ -862,6 +910,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/kerfnotes/skills
+- 调用: 未安装，收藏备查
+
+### [kjranyone/artcraft-agent-skills（ArtCraft 创意套件技能）](cards/external-collection/kjranyone-artcraft-agent-skills.md)
+
+- 一句话: 驱动 ArtCraft 创意套件的 agent 技能：经 CLI、MCP 与实时 GUI 桥操作 FilmCraft 非编与 EffectCraft 动效/VFX，5 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kjranyone/artcraft-agent-skills
 - 调用: 未安装，收藏备查
 
 ### [knowledgeislands/ki-agentic-harness（知识岛 agent 装备库）](cards/external-collection/knowledgeislands-ki-agentic-harness.md)
@@ -928,6 +984,14 @@
 - 位置: https://github.com/magnus919/agent-skills
 - 调用: 未安装，收藏备查
 
+### [markksantos/caption-checker（字幕合规检查技能）](cards/external-collection/markksantos-caption-checker.md)
+
+- 一句话: 按 Netflix、BBC 与 DCMP 字幕规范检查 SRT/WebVTT 字幕：语速、行长、行数、时长、间隔与重叠，3 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/markksantos/caption-checker
+- 调用: 未安装，收藏备查
+
 ### [mattpocock/skills（给真实工程师的技能集）](cards/external-collection/mattpocock-skills.md)
 
 - 一句话: Matt Pocock 每天自用的工程技能——对齐先问透（grill-me）、TDD、查 bug、领域建模、代码评审，38 个 SKILL.md。
@@ -982,6 +1046,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/naorsabag/openhop
+- 调用: 未安装，收藏备查
+
+### [netresearch/agent-rules-skill（AGENTS.md 生成技能）](cards/external-collection/netresearch-agent-rules-skill.md)
+
+- 一句话: 按 agents.md 约定为项目生成 AGENTS.md 文件的单技能，Claude Code 兼容，1 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/netresearch/agent-rules-skill
 - 调用: 未安装，收藏备查
 
 ### [newsbubbles/ismail（高带宽 Agent 界面）](cards/external-collection/newsbubbles-ismail.md)
@@ -1126,6 +1198,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/say8425/SimpleKorean
+- 调用: 未安装，收藏备查
+
+### [shrek-abaper/sap-engineering-skill（SAP 工程技能）](cards/external-collection/shrek-abaper-sap-engineering-skill.md)
+
+- 一句话: 面向 SAP 的原子化工程技能：ABAP 代码与业务逻辑分析、源码读写、单元测试与 Dump 诊断、实验调试、代码评审与传输就绪检查，4 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/shrek-abaper/sap-engineering-skill
 - 调用: 未安装，收藏备查
 
 ### [sickn33/agentic-awesome-skills（2750+ 技能巨型合集）](cards/external-collection/sickn33-agentic-awesome-skills.md)
