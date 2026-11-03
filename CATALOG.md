@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 169 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 177 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -134,6 +134,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/AgriciDaniel/claude-obsidian
+- 调用: 未安装，收藏备查
+
+### [AgriciDaniel/claude-seo（通用 SEO 技能库）](cards/external-collection/agricidaniel-claude-seo.md)
+
+- 一句话: Claude Code 通用 SEO 技能：技术 SEO、E-E-A-T、结构化数据、GEO/AEO、agent 可读性、外链、本地 SEO 等，树内 35 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/AgriciDaniel/claude-seo
 - 调用: 未安装，收藏备查
 
 ### [Alisa0808/vox-director（Vox 拼贴讲解视频技能）](cards/external-collection/alisa0808-vox-director.md)
@@ -424,6 +432,14 @@
 - 位置: https://github.com/SnailSploit/Claude-Red
 - 调用: 未安装，收藏备查
 
+### [Stophyuk/solutionzip-skills（问题解决集日常技能 10 个）](cards/external-collection/stophyuk-solutionzip-skills.md)
+
+- 一句话: 作者日常工作用的 10 个 Claude Code 技能：卡片新闻、短视频、App 体检、AI 味检查、文案校对、单机服务器等。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Stophyuk/solutionzip-skills
+- 调用: 未安装，收藏备查
+
 ### [SupercmoHQ/superCMO-skills（AI 营销官技能包）](cards/external-collection/supercmohq-supercmo-skills.md)
 
 - 一句话: 把 Claude/Cursor/Codex 变成 AI CMO —— 端到端营销 campaign 技能包：UGC 视频、广告视频、产品摄影等，共 23 个 SKILL.md。
@@ -478,6 +494,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/addyosmani/agent-skills
+- 调用: 未安装，收藏备查
+
+### [ahmedmostafa147/whiteboard-lesson（教科书页转阿拉伯语白板讲解视频）](cards/external-collection/ahmedmostafa147-whiteboard-lesson.md)
+
+- 一句话: 把任意教科书页面变成带旁白的阿拉伯语白板动画讲解视频，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ahmedmostafa147/whiteboard-lesson
 - 调用: 未安装，收藏备查
 
 ### [aiskillstore/marketplace（技能市场）](cards/external-collection/aiskillstore-marketplace.md)
@@ -646,6 +670,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/coreyhaines31/marketingskills
+- 调用: 未安装，收藏备查
+
+### [crt106/c3rb3r-btrfs-recovery（群晖勒索无密钥恢复）](cards/external-collection/crt106-c3rb3r-btrfs-recovery.md)
+
+- 一句话: 从残存的 Btrfs 写时复制区段里无密钥恢复被 C3RB3R 勒索加密的群晖文件，1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/crt106/c3rb3r-btrfs-recovery
 - 调用: 未安装，收藏备查
 
 ### [dcbruck/claude-skills（独立顾问的日常 12 技能）](cards/external-collection/dcbruck-claude-skills.md)
@@ -1032,6 +1064,14 @@
 - 位置: https://github.com/jasonbitsmith/muse-skills （本地克隆在个人档案馆「外部收藏」分区）
 - 调用: 「在外部收藏里找 XX 用法」
 
+### [muzbox1973/arcade-rom-3d-remaster（自有街机 ROM 转 Three.js 3D 重制）](cards/external-collection/muzbox1973-arcade-rom-3d-remaster.md)
+
+- 一句话: 把你自己的 MAME 街机 ROM 做成 Three.js 3D 重制版：原代码不改动运行，音效重制，英/韩双语，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/muzbox1973/arcade-rom-3d-remaster
+- 调用: 未安装，收藏备查
+
 ### [nanocoai/nanoclaw（轻量 OpenClaw 替代）](cards/external-collection/nanocoai-nanoclaw.md)
 
 - 一句话: "A lightweight alternative to OpenClaw that runs in containers" —— agent 框架 + 自带 64 个集成技能。
@@ -1112,6 +1152,14 @@
 - 位置: https://github.com/paperclipai/paperclip
 - 调用: 未安装，收藏备查
 
+### [patch-gg/pixelfx（244 个代码像素风特效 + 出图技能）](cards/external-collection/patch-gg-pixelfx.md)
+
+- 一句话: 244 个代码绘制的像素风特效（每种都是一小段代码），附一个 Claude Code 技能帮你生成自己的特效、导出精灵表，1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/patch-gg/pixelfx
+- 调用: 未安装，收藏备查
+
 ### [pbakaus/impeccable（设计词汇技能）](cards/external-collection/pbakaus-impeccable.md)
 
 - 一句话: 给 coding agent 的设计词汇技能：用一套可复用的设计语言把关 polish 与大胆度，1 个技能适配 26 个 harness。
@@ -1134,6 +1182,14 @@
 - 来源: 外部
 - 许可: 未标注（仓库无 LICENSE 文件，GitHub API license 为空）
 - 位置: https://github.com/pierpont-morgan/gcp-free-vps-skill
+- 调用: 未安装，收藏备查
+
+### [pku2319/project-template（新项目脚手架技能）](cards/external-collection/pku2319-project-template.md)
+
+- 一句话: 用 agent 技能创建新项目的脚手架：可交付技能 1 个，另带 1 个模板内安装技能复本。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/pku2319/project-template
 - 调用: 未安装，收藏备查
 
 ### [product-on-purpose/critique-skills（按量规出机器可读评审）](cards/external-collection/product-on-purpose-critique-skills.md)
@@ -1350,6 +1406,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/yusufkaraaslan/Skill_Seekers
+- 调用: 未安装，收藏备查
+
+### [zenstory-ai/drama-skills（AI 短剧/漫剧创作技能合集）](cards/external-collection/zenstory-ai-drama-skills.md)
+
+- 一句话: 开源 AI 短剧/漫剧创作技能合集：剧本、角色资产、分镜、图片/视频提示词、审查，适配 Claude Code 与 Codex，共 12 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/zenstory-ai/drama-skills
 - 调用: 未安装，收藏备查
 
 ### [zenstory-ai/oh-story-claudecode（中文网文写作技能）](cards/external-collection/zenstory-ai-oh-story-claudecode.md)
