@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 177 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 184 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -360,6 +360,14 @@
 - 位置: https://github.com/NevaMind-AI/memU
 - 调用: 未安装，收藏备查
 
+### [NiazMorshed2007/reanimate（动画逐帧逆向技能）](cards/external-collection/niazmorshed2007-reanimate.md)
+
+- 一句话: 把任意动画逐帧逆向拆解，再证明复刻版的动作与原版一致，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/NiazMorshed2007/reanimate
+- 调用: 未安装，收藏备查
+
 ### [Nutlope/hallmark（反 AI 味设计技能）](cards/external-collection/nutlope-hallmark.md)
 
 - 一句话: 让 agent 做的网页不再一眼 AI 味的反 slop 设计技能：先立硬底线，再放手做设计。
@@ -422,6 +430,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/SHARPLEE00/lookbk-skills
+- 调用: 未安装，收藏备查
+
+### [ScrapeGraphAI/just-scrape（网页抓取转结构化数据技能）](cards/external-collection/scrapegraphai-just-scrape.md)
+
+- 一句话: 一句话把任意网址变成 Markdown、结构化 JSON、截图或链接清单的抓取技能，还带多页爬取与页面变化定时监测。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ScrapeGraphAI/just-scrape
 - 调用: 未安装，收藏备查
 
 ### [SnailSploit/Claude-Red（进攻性安全技能库）](cards/external-collection/snailsploit-claude-red.md)
@@ -494,6 +510,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/addyosmani/agent-skills
+- 调用: 未安装，收藏备查
+
+### [agentkitco/agentkit-dev-skills（日常开发 13 技能）](cards/external-collection/agentkitco-agentkit-dev-skills.md)
+
+- 一句话: 13 个日常开发技能：审 diff、复现优先排障、安全改重构、写 PR 描述、会话交接、审 AGENTS.md 等，全部 MIT。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/agentkitco/agentkit-dev-skills
 - 调用: 未安装，收藏备查
 
 ### [ahmedmostafa147/whiteboard-lesson（教科书页转阿拉伯语白板讲解视频）](cards/external-collection/ahmedmostafa147-whiteboard-lesson.md)
@@ -630,6 +654,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/career-ops-hq/career-ops
+- 调用: 未安装，收藏备查
+
+### [caru-ini/stack-diagram（技术栈架构图技能）](cards/external-collection/caru-ini-stack-diagram.md)
+
+- 一句话: 一句话描述你的技术栈，拿回一张带官方 logo 的架构图，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/caru-ini/stack-diagram
 - 调用: 未安装，收藏备查
 
 ### [cathrynlavery/diagram-design（编辑级图表设计技能）](cards/external-collection/cathrynlavery-diagram-design.md)
@@ -776,6 +808,14 @@
 - 位置: https://github.com/f-o-x11/deed-page-skill
 - 调用: 未安装，收藏备查
 
+### [firecrawl/cli（Firecrawl 网页工具技能集）](cards/external-collection/firecrawl-cli.md)
+
+- 一句话: Firecrawl 官方 CLI 与 agent 技能：搜索、抓取、解析、爬取、建站图、交互、监测与研究索引，13 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/firecrawl/cli
+- 调用: 未安装，收藏备查
+
 ### [fliqrlabs/instagram-creator-skills（Instagram 创作者技能包）](cards/external-collection/fliqrlabs-instagram-creator-skills.md)
 
 - 一句话: 30 个 Instagram 创作者技能：爆款钩子、Reel 脚本、文案、轮播图与评论转私信玩法，33 个 SKILL.md。
@@ -838,6 +878,14 @@
 - 来源: 外部
 - 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
 - 位置: https://github.com/hesreallyhim/awesome-claude-code
+- 调用: 未安装，收藏备查
+
+### [heydamir/unslop（去 AI 味界面技能）](cards/external-collection/heydamir-unslop.md)
+
+- 一句话: 把 vibecoding 出来的、一眼 AI 味的界面改成真正设计过的界面，单技能。
+- 来源: 外部
+- 许可: CC-BY-4.0
+- 位置: https://github.com/heydamir/unslop
 - 调用: 未安装，收藏备查
 
 ### [hfadhlullah/kaizen（先审计划再动手的 agent 流程）](cards/external-collection/hfadhlullah-kaizen.md)
@@ -1070,6 +1118,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/muzbox1973/arcade-rom-3d-remaster
+- 调用: 未安装，收藏备查
+
+### [nanaism/yomiyasu（AI 日语润色技能）](cards/external-collection/nanaism-yomiyasu.md)
+
+- 一句话: 把 AI 生成的日语推敲成自然日语的单技能：改掉机器味，保留原意。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nanaism/yomiyasu
 - 调用: 未安装，收藏备查
 
 ### [nanocoai/nanoclaw（轻量 OpenClaw 替代）](cards/external-collection/nanocoai-nanoclaw.md)
