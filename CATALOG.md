@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 184 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 192 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -208,6 +208,14 @@
 - 位置: https://github.com/DietrichGebert/ponytail
 - 调用: 未安装，收藏备查
 
+### [Donchitos/Claude-Code-Game-Studios（游戏开发工作室技能集）](cards/external-collection/donchitos-claude-code-game-studios.md)
+
+- 一句话: 把 Claude Code 变成一间完整的游戏开发工作室：自称 49 个 AI agent、72 个工作流技能，按真实工作室层级协调，从点子到上线。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Donchitos/Claude-Code-Game-Studios
+- 调用: 未安装，收藏备查
+
 ### [EJRyan89/coding-agent-skills（可移植编码 agent 技能）](cards/external-collection/ejryan89-coding-agent-skills.md)
 
 - 一句话: 横跨 Claude Code / Codex / Copilot CLI 的可移植技能——审配置、审技能、清仓库、审 PR、管记忆，15 个 SKILL.md。
@@ -254,6 +262,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/HsuanYuLee/polaris
+- 调用: 未安装，收藏备查
+
+### [Jakeschincariol/day-trader-skill（日内交易 11 技能）](cards/external-collection/jakeschincariol-day-trader-skill.md)
+
+- 一句话: 11 个日内交易技能：扫描大量图表、盯突发新闻、掐进出场时机、事前复盘每一次结果再动真钱。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Jakeschincariol/day-trader-skill
 - 调用: 未安装，收藏备查
 
 ### [JasonHMY/personal-finance-visualizer（本地交互式财务报告）](cards/external-collection/jasonhmy-personal-finance-visualizer.md)
@@ -342,6 +358,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/MSKazemi/reachweaver
+- 调用: 未安装，收藏备查
+
+### [Motionsites-AI/claude-skill（电影感落地页技能）](cards/external-collection/motionsites-ai-claude-skill.md)
+
+- 一句话: 免费 Claude 技能，让 Claude 做出获奖级、电影感的落地页，单技能。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/Motionsites-AI/claude-skill
 - 调用: 未安装，收藏备查
 
 ### [NVIDIA/SkillSpector（技能安全扫描器）](cards/external-collection/nvidia-skillspector.md)
@@ -640,6 +664,14 @@
 - 位置: https://github.com/b0bsl3d/InformedVoter
 - 调用: 未安装，收藏备查
 
+### [benjitaylor/skills（AI 编码 agent 技能）](cards/external-collection/benjitaylor-skills.md)
+
+- 一句话: AI 编码 agent 技能仓，树内 1 个 SKILL.md（stageshow）。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/benjitaylor/skills
+- 调用: 未安装，收藏备查
+
 ### [blader/humanizer（去 AI 味改写技能）](cards/external-collection/blader-humanizer.md)
 
 - 一句话: 去掉文本里的 AI 生成痕迹、改写成自然人味的 agent 技能，1 个 SKILL.md。
@@ -710,6 +742,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/crt106/c3rb3r-btrfs-recovery
+- 调用: 未安装，收藏备查
+
+### [daveebbelaar/bama（原生 macOS 应用构建技能）](cards/external-collection/daveebbelaar-bama.md)
+
+- 一句话: BAMA：用 agent 技能调研、克隆、设计、构建、优化与测试原生 macOS 应用（Swift + SwiftUI），21 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/daveebbelaar/bama
 - 调用: 未安装，收藏备查
 
 ### [dcbruck/claude-skills（独立顾问的日常 12 技能）](cards/external-collection/dcbruck-claude-skills.md)
@@ -784,6 +824,14 @@
 - 位置: https://github.com/elrazez/deepen
 - 调用: 未安装，收藏备查
 
+### [elvarofficial/teardown（任意机器转 3D 可拆解模拟器技能）](cards/external-collection/elvarofficial-teardown.md)
+
+- 一句话: 一个 Claude Code 技能，把任意机器变成可以拆开的 3D 模拟器，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/elvarofficial/teardown
+- 调用: 未安装，收藏备查
+
 ### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
 
 - 一句话: AI 短剧制作的 7 个技能：小说改编大纲、角色设定、角色参考图、场景道具设定、剧本、分镜场位、分镜，一路做到可投产的分镜包。
@@ -806,6 +854,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/f-o-x11/deed-page-skill
+- 调用: 未安装，收藏备查
+
+### [feimacode/open-design-agent-kit（专业级 UI 设计技能包）](cards/external-collection/feimacode-open-design-agent-kit.md)
+
+- 一句话: 把专业级 UI 设计装进你已在用的编码 agent：自称 270+ 设计技能、150+ 品牌设计系统、160+ 可混搭示例，适配 Copilot Chat、Claude Code、Codex、Cursor。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/feimacode/open-design-agent-kit
 - 调用: 未安装，收藏备查
 
 ### [firecrawl/cli（Firecrawl 网页工具技能集）](cards/external-collection/firecrawl-cli.md)
@@ -1478,6 +1534,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/zenstory-ai/oh-story-claudecode
+- 调用: 未安装，收藏备查
+
+### [zhanghao123vip/ai-manju-skills（21 题材 AI 漫剧全流程技能）](cards/external-collection/zhanghao123vip-ai-manju-skills.md)
+
+- 一句话: 21 个题材的 AI 漫剧全流程技能：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词，适配 Claude Code、WorkBuddy、DeepSeek。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/zhanghao123vip/ai-manju-skills
 - 调用: 未安装，收藏备查
 
 ### [zhuyansen/awesome-claude-video-skills（视频技能合集）](cards/external-collection/zhuyansen-awesome-claude-video-skills.md)
