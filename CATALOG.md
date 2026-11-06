@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 192 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 209 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -184,6 +184,22 @@
 - 位置: https://github.com/CTO-DRS/design-arsenal
 - 调用: 未安装，收藏备查
 
+### [ChaseSunstrom/sampo（通用 agent 插件技能集）](cards/external-collection/chasesunstrom-sampo.md)
+
+- 一句话: 通用 agent 插件技能集：头脑风暴、捕获、调试测试、设计提取、诊断等，共 24 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/ChaseSunstrom/sampo
+- 调用: 未安装，收藏备查
+
+### [Codewithaiyan/reforge-mcp（代码库分析 MCP 技能）](cards/external-collection/codewithaiyan-reforge-mcp.md)
+
+- 一句话: 把代码库分析做成 Claude Code 的 MCP 工具：扫描、风险打分、打补丁，并明说哪些读不到，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Codewithaiyan/reforge-mcp
+- 调用: 未安装，收藏备查
+
 ### [ComposioHQ/awesome-claude-skills（巨型技能汇编）](cards/external-collection/composiohq-awesome-claude-skills.md)
 
 - 一句话: 号称清单、实际把 864 个 SKILL.md 本体汇编进仓的巨型合集，默认分支是 master。
@@ -254,6 +270,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/GangJaeYu/harness_loop_full_korean
+- 调用: 未安装，收藏备查
+
+### [HelloYeew/dotnet-skill（个人 C#/.NET 偏好技能）](cards/external-collection/helloyeew-dotnet-skill.md)
+
+- 一句话: 作者个人的 C# 代码风格与 .NET 偏好技能：常用库与 Sakura Framework 用法指南，单技能。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/HelloYeew/dotnet-skill
 - 调用: 未安装，收藏备查
 
 ### [HsuanYuLee/polaris（Claude Code 工作区模板技能）](cards/external-collection/hsuanyulee-polaris.md)
@@ -350,6 +374,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Leonxlnx/taste-skill
+- 调用: 未安装，收藏备查
+
+### [Lusona/ai-skills（迭代式产品工程技能）](cards/external-collection/lusona-ai-skills.md)
+
+- 一句话: 迭代式产品与工程技能：结果、证据、授权、TDD 与有界批量协作都写明，共 14 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Lusona/ai-skills
 - 调用: 未安装，收藏备查
 
 ### [MSKazemi/reachweaver（社媒排期技能）](cards/external-collection/mskazemi-reachweaver.md)
@@ -462,6 +494,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/ScrapeGraphAI/just-scrape
+- 调用: 未安装，收藏备查
+
+### [Servosity/msp-skills（MSP 工具技能集）](cards/external-collection/servosity-msp-skills.md)
+
+- 一句话: 面向 MSP（托管服务商）的免费 MCP 服务器 + Claude Code 技能：PSA、RMM、备份、M365 等工具，共 104 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/Servosity/msp-skills
 - 调用: 未安装，收藏备查
 
 ### [SnailSploit/Claude-Red（进攻性安全技能库）](cards/external-collection/snailsploit-claude-red.md)
@@ -680,6 +720,14 @@
 - 位置: https://github.com/blader/humanizer
 - 调用: 未安装，收藏备查
 
+### [bompus/house-rules（AI 编码 agent 工作规则技能）](cards/external-collection/bompus-house-rules.md)
+
+- 一句话: 给 AI 编码 agent 的工作规则与技能：核心规则、可选修饰层、自定义层与各仓库 AGENTS.md，共 38 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/bompus/house-rules
+- 调用: 未安装，收藏备查
+
 ### [career-ops-hq/career-ops（AI 求职 agent 技能）](cards/external-collection/career-ops-hq-career-ops.md)
 
 - 一句话: 开源 AI 求职 agent：扫招聘版、按 CV 逐个 1–5 分打分再决定投不投——同一技能适配 7 个 harness，7 个 SKILL.md。
@@ -710,6 +758,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/chenf888/TMT-game-generator
+- 调用: 未安装，收藏备查
+
+### [chgagne/claude-skills-research（学术研究支持技能）](cards/external-collection/chgagne-claude-skills-research.md)
+
+- 一句话: 给 Claude Code 的学术研究支持技能：文献调研、书目核验、论文互比、审稿、证明核验与 HPC 实验，共 12 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/chgagne/claude-skills-research
+- 调用: 未安装，收藏备查
+
+### [chu0119/pojun-skill（ARTEX 渗透测试方法论技能）](cards/external-collection/chu0119-pojun-skill.md)
+
+- 一句话: ARTEX 方法论蒸馏成的可移植 Agent Skill：三视角协议 + 三账本证据纪律 + 四层安全护栏，任意 AI Agent 即装即用，单技能。
+- 来源: 外部
+- 许可: AGPL-3.0
+- 位置: https://github.com/chu0119/pojun-skill
 - 调用: 未安装，收藏备查
 
 ### [cloudflare/security-audit-skill（安全审计技能）](cards/external-collection/cloudflare-security-audit-skill.md)
@@ -864,6 +928,14 @@
 - 位置: https://github.com/feimacode/open-design-agent-kit
 - 调用: 未安装，收藏备查
 
+### [finolabs/finolabs-vibecode（AI 编码 agent 工程实践技能）](cards/external-collection/finolabs-finolabs-vibecode.md)
+
+- 一句话: 一套 AI 编码 agent 的工程实践：路由、委派、评审门禁与核验，覆盖 Claude Code、Codex 与 Antigravity，共 20 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/finolabs/finolabs-vibecode
+- 调用: 未安装，收藏备查
+
 ### [firecrawl/cli（Firecrawl 网页工具技能集）](cards/external-collection/firecrawl-cli.md)
 
 - 一句话: Firecrawl 官方 CLI 与 agent 技能：搜索、抓取、解析、爬取、建站图、交互、监测与研究索引，13 个 SKILL.md。
@@ -896,6 +968,14 @@
 - 位置: https://github.com/fortunto2/solo-factory
 - 调用: 未安装，收藏备查
 
+### [gaia-harness/gaia（严肃型 Claude Code Harness）](cards/external-collection/gaia-harness-gaia.md)
+
+- 一句话: 严肃型 Claude Code harness：先写规格、每次提交过门禁、每次合并过代码审计团队，共 23 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/gaia-harness/gaia
+- 调用: 未安装，收藏备查
+
 ### [genfeedai/skills（内容创作与广告技能集）](cards/external-collection/genfeedai-skills.md)
 
 - 一句话: 面向内容创作、SEO、广告、图片提示词与策略的 AI 技能集，含广告、品牌等主题 bundles。
@@ -926,6 +1006,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/google/elephant-goldfish-model
+- 调用: 未安装，收藏备查
+
+### [hany202507/finance-ai-skills（韩国会计·税务技能）](cards/external-collection/hany202507-finance-ai-skills.md)
+
+- 一句话: 韩国会计师·税务师用的 Claude Code 技能：法人税、附加税、转让所得税、源泉税申报核查，现金流量表、租赁、决算与外部审计，共 17 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/hany202507/finance-ai-skills
 - 调用: 未安装，收藏备查
 
 ### [hesreallyhim/awesome-claude-code（Claude Code 资源清单）](cards/external-collection/hesreallyhim-awesome-claude-code.md)
@@ -1144,6 +1232,14 @@
 - 位置: https://github.com/maxg-agency/skills
 - 调用: 未安装，收藏备查
 
+### [meshy-dev/meshy-3d-agent（Meshy AI 3D 生成技能）](cards/external-collection/meshy-dev-meshy-3d-agent.md)
+
+- 一句话: Meshy AI 3D 生成平台的 agent 技能：3D 生成、3D 打印与 OpenClaw 集成，共 3 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/meshy-dev/meshy-3d-agent
+- 调用: 未安装，收藏备查
+
 ### [mileson/chaojifeng-video-design（超级峰的视频设计方法论）](cards/external-collection/mileson-chaojifeng-video-design.md)
 
 - 一句话: 面向 AI Agent 的视频设计方法论技能：从导演意图到分镜、声画节奏、制作与交付验收，覆盖知识讲解、产品演示、音乐视觉等 8 类视频任务。
@@ -1176,6 +1272,14 @@
 - 位置: https://github.com/muzbox1973/arcade-rom-3d-remaster
 - 调用: 未安装，收藏备查
 
+### [nainishshafi/developer-productivity-skills（开发者生产力技能）](cards/external-collection/nainishshafi-developer-productivity-skills.md)
+
+- 一句话: 可复用的开发者生产力技能：读 README、同步 fork、写技能、Python lint、安全扫描等，共 12 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nainishshafi/developer-productivity-skills
+- 调用: 未安装，收藏备查
+
 ### [nanaism/yomiyasu（AI 日语润色技能）](cards/external-collection/nanaism-yomiyasu.md)
 
 - 一句话: 把 AI 生成的日语推敲成自然日语的单技能：改掉机器味，保留原意。
@@ -1198,6 +1302,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/naorsabag/openhop
+- 调用: 未安装，收藏备查
+
+### [nathankim0/ssul（韩语拟人社交帖技能）](cards/external-collection/nathankim0-ssul.md)
+
+- 一句话: 写出像真人而不是 AI 的韩语社交帖子，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nathankim0/ssul
 - 调用: 未安装，收藏备查
 
 ### [netresearch/agent-rules-skill（AGENTS.md 生成技能）](cards/external-collection/netresearch-agent-rules-skill.md)
@@ -1310,6 +1422,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/product-on-purpose/critique-skills
+- 调用: 未安装，收藏备查
+
+### [programmablehq/PROGRAMMABLE（Uniswap v4 启动模型技能）](cards/external-collection/programmablehq-programmable.md)
+
+- 一句话: 以太坊上 Uniswap v4 启动模型基础设施附带的 hook 构建技能，单技能。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/programmablehq/PROGRAMMABLE
 - 调用: 未安装，收藏备查
 
 ### [qjzzsky/lyric-onset-montage（歌词起音剪辑技能）](cards/external-collection/qjzzsky-lyric-onset-montage.md)
@@ -1440,6 +1560,14 @@
 - 位置: https://github.com/tamnguyendinh/Anvien
 - 调用: 未安装，收藏备查
 
+### [techhorizonlabs/gearlist（来源核查过的 MCP 与技能清单）](cards/external-collection/techhorizonlabs-gearlist.md)
+
+- 一句话: 来源核查过的 MCP 服务器、agent 技能与工具清单，附访问说明，6 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/techhorizonlabs/gearlist
+- 调用: 未安装，收藏备查
+
 ### [teng-lin/notebooklm-py（NotebookLM 客户端技能）](cards/external-collection/teng-lin-notebooklm-py.md)
 
 - 一句话: NotebookLM 的 Python 客户端自带 agent 技能：根目录 1 个 SKILL.md，让 agent 能调用 NotebookLM 能力。
@@ -1486,6 +1614,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/virgiliojr94/book-to-skill
+- 调用: 未安装，收藏备查
+
+### [wheakerd/axiom（Codex/Claude Code 工作流技能）](cards/external-collection/wheakerd-axiom.md)
+
+- 一句话: 面向 Codex 与 Claude Code 的聚焦型工作流技能：把请求变成清晰可执行的任务，共 14 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/wheakerd/axiom
 - 调用: 未安装，收藏备查
 
 ### [why20261/douyin-video-words（抖音视频文案提取）](cards/external-collection/why20261-douyin-video-words.md)
