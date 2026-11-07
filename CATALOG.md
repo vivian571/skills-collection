@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 209 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 220 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -280,6 +280,14 @@
 - 位置: https://github.com/HelloYeew/dotnet-skill
 - 调用: 未安装，收藏备查
 
+### [HeyChengC/vibe-knowledge-film（抖音风 Vibe 知识短片技能）](cards/external-collection/heychengc-vibe-knowledge-film.md)
+
+- 一句话: 抖音爆款 Vibe 知识大赏知识短片 skill：拆爆款视频、复刻画风、排导演分镜表、自动配音效，一键出片，根目录 1 个 SKILL.md。
+- 来源: 外部（本地已安装同源技能）
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/HeyChengC/vibe-knowledge-film（本地安装：~/workspace/custom-skills/local-vibe-knowledge/）
+- 调用: 未安装，收藏备查
+
 ### [HsuanYuLee/polaris（Claude Code 工作区模板技能）](cards/external-collection/hsuanyulee-polaris.md)
 
 - 一句话: 带 AI 技能的 Claude Code 工作区模板：JIRA、PR、代码评审、估算等 16 个技能，覆盖从需求到交付的工程流程。
@@ -294,6 +302,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Jakeschincariol/day-trader-skill
+- 调用: 未安装，收藏备查
+
+### [Jakeschincariol/instagram-agent-skill（13 个 Instagram 运营技能）](cards/external-collection/jakeschincariol-instagram-agent-skill.md)
+
+- 一句话: 13 个跑 Instagram 账号的 Claude 技能：按 26 条打分钩子公式写 Reels、病毒研究、标题校对、轮播图、评论转私信与人味改写，共 13 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Jakeschincariol/instagram-agent-skill
 - 调用: 未安装，收藏备查
 
 ### [JasonHMY/personal-finance-visualizer（本地交互式财务报告）](cards/external-collection/jasonhmy-personal-finance-visualizer.md)
@@ -350,6 +366,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/K-Dense-AI/scientific-agent-skills
+- 调用: 未安装，收藏备查
+
+### [KKKKhazix/agent-autoloop（命令行 Agent 后台接活跟进）](cards/external-collection/kkkkhazix-agent-autoloop.md)
+
+- 一句话: 让命令行 Agent 在后台自己接活、自己跟进到底：平时不烦你，遇到拿不准的事才发卡片找你拍板，核心技能 1 个，另附 10 个示例配方。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/KKKKhazix/agent-autoloop
 - 调用: 未安装，收藏备查
 
 ### [KKKKhazix/khazix-skills（数字生命卡兹克的 AI 技能合集）](cards/external-collection/kkkkhazix-khazix-skills.md)
@@ -568,12 +592,28 @@
 - 位置: https://github.com/aaron-he-zhu/aaron-marketing-skills
 - 调用: 未安装，收藏备查
 
+### [abdelaalimouid/qgis-agent（QGIS 与遥感技能）](cards/external-collection/abdelaalimouid-qgis-agent.md)
+
+- 一句话: 给 Claude Code 的 QGIS 与遥感技能：先规划、再写带编号的 PyQGIS 脚本、核验结果、出事实工作报告，覆盖 Sentinel-2、NDVI、分类、面积与制图，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/abdelaalimouid/qgis-agent
+- 调用: 未安装，收藏备查
+
 ### [addyosmani/agent-skills（工程技能库）](cards/external-collection/addyosmani-agent-skills.md)
 
 - 一句话: Addy Osmani 出品的生产级工程技能库，25 个 SKILL.md，覆盖 API 设计、代码审查、CI/CD 等。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/addyosmani/agent-skills
+- 调用: 未安装，收藏备查
+
+### [affaan-m/ECC（Agent Harness 性能优化系统）](cards/external-collection/affaan-m-ecc.md)
+
+- 一句话: Agent harness 性能优化系统：技能、直觉、记忆、安全与研究优先开发，覆盖 Claude Code、Codex、OpenCode、Cursor 等，树内 1,068 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/affaan-m/ECC
 - 调用: 未安装，收藏备查
 
 ### [agentkitco/agentkit-dev-skills（日常开发 13 技能）](cards/external-collection/agentkitco-agentkit-dev-skills.md)
@@ -622,6 +662,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/alchaincyf/huashu-design
+- 调用: 未安装，收藏备查
+
+### [alchaincyf/huashu-motion（花叔产品宣传片技能）](cards/external-collection/alchaincyf-huashu-motion.md)
+
+- 一句话: 让 agent 一键直出商业级产品宣传片：会作曲、能指着画面改，导演规则来自实测拆片，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/alchaincyf/huashu-motion
 - 调用: 未安装，收藏备查
 
 ### [alibaba/open-code-review（阿里代码评审技能）](cards/external-collection/alibaba-open-code-review.md)
@@ -808,6 +856,14 @@
 - 位置: https://github.com/crt106/c3rb3r-btrfs-recovery
 - 调用: 未安装，收藏备查
 
+### [cth9191/animate（单画布讲解/故事视频技能）](cards/external-collection/cth9191-animate.md)
+
+- 一句话: 用程序化动画做讲解与故事短视频：单文件画布视频，带故事、画风与分镜确认，7 种内置风格或按你的参考图匹配画风，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/cth9191/animate
+- 调用: 未安装，收藏备查
+
 ### [daveebbelaar/bama（原生 macOS 应用构建技能）](cards/external-collection/daveebbelaar-bama.md)
 
 - 一句话: BAMA：用 agent 技能调研、克隆、设计、构建、优化与测试原生 macOS 应用（Swift + SwiftUI），21 个技能。
@@ -870,6 +926,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/e1dred/agent-skills
+- 调用: 未安装，收藏备查
+
+### [egguy886/h3-drama-kit（MiniMax H3 AI 短剧全流程技能）](cards/external-collection/egguy886-h3-drama-kit.md)
+
+- 一句话: 端到端 AI 短剧流水线技能：剧本→素材→分镜提示词→质检→AutoDL 生成→审片→后期，从 60 集实战生产里提炼的方法，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/egguy886/h3-drama-kit
 - 调用: 未安装，收藏备查
 
 ### [elayadesign/ai-design-skills（落地页设计技能）](cards/external-collection/elayadesign-ai-design-skills.md)
@@ -1158,6 +1222,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/krillinai/OpenCreator
+- 调用: 未安装，收藏备查
+
+### [kumodeck/game-studio（Web 游戏关卡编辑器技能）](cards/external-collection/kumodeck-game-studio.md)
+
+- 一句话: 给 AI 做的网页游戏配一个免费关卡编辑器：three.js、Phaser、PixiJS 与 Godot 网页游戏，拖东西、让 AI 改、点保存，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kumodeck/game-studio
 - 调用: 未安装，收藏备查
 
 ### [latent-spaces/brag（项目启动视频技能）](cards/external-collection/latent-spaces-brag.md)
@@ -1488,6 +1560,14 @@
 - 位置: https://github.com/say8425/SimpleKorean
 - 调用: 未安装，收藏备查
 
+### [showheyohtaki/motion-prompt（动作词典技能）](cards/external-collection/showheyohtaki-motion-prompt.md)
+
+- 一句话: 192 个动效、镜头、UI、网页与照片效果的动作词典：每个名字配一段动起来的示例，知道效果叫什么、不知道怎么做时查它，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/showheyohtaki/motion-prompt
+- 调用: 未安装，收藏备查
+
 ### [shrek-abaper/sap-engineering-skill（SAP 工程技能）](cards/external-collection/shrek-abaper-sap-engineering-skill.md)
 
 - 一句话: 面向 SAP 的原子化工程技能：ABAP 代码与业务逻辑分析、源码读写、单元测试与 Dump 诊断、实验调试、代码评审与传输就绪检查，4 个 SKILL.md。
@@ -1606,6 +1686,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/tt-a1i/archify
+- 调用: 未安装，收藏备查
+
+### [ueberdosis/tiptap（Tiptap 编辑器集成技能）](cards/external-collection/ueberdosis-tiptap.md)
+
+- 一句话: Tiptap 无头富文本编辑器框架仓内附带的 2 个 agent 技能：tiptap 集成技能与 create-pr，共 2 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ueberdosis/tiptap
 - 调用: 未安装，收藏备查
 
 ### [virgiliojr94/book-to-skill（书转技能）](cards/external-collection/virgiliojr94-book-to-skill.md)
