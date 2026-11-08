@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 220 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 228 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -360,6 +360,14 @@
 - 位置: https://github.com/JuliusBrussee/caveman
 - 调用: 未安装，收藏备查
 
+### [JuneYaooo/rea-video（视频逐镜逆向技能）](cards/external-collection/juneyaooo-rea-video.md)
+
+- 一句话: 逆向一切视频，逐镜拆出制作方式并给出复刻方案：判断每镜是实拍、AI 生成还是代码生成，再拆字幕、剪辑与声音怎么做，单技能。
+- 来源: 外部（本地已安装同源技能）
+- 许可: Apache-2.0
+- 位置: https://github.com/JuneYaooo/rea-video（本地安装：~/workspace/custom-skills/local-rea-video/）
+- 调用: 未安装，收藏备查
+
 ### [K-Dense-AI/scientific-agent-skills（科学技能库）](cards/external-collection/k-dense-scientific-agent-skills.md)
 
 - 一句话: 把 AI agent 变成科研助手的技能库，177 个 SKILL.md，是本批单库体量最大的一个。
@@ -672,6 +680,14 @@
 - 位置: https://github.com/alchaincyf/huashu-motion
 - 调用: 未安装，收藏备查
 
+### [alchaincyf/nuwa-skill（蒸馏任何人思维方式的技能）](cards/external-collection/alchaincyf-nuwa-skill.md)
+
+- 一句话: 蒸馏任何人的思维方式：心智模型、决策启发式、表达 DNA，做成可调用的 agent 技能，附 15 个名人视角示例，共 16 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/alchaincyf/nuwa-skill
+- 调用: 未安装，收藏备查
+
 ### [alibaba/open-code-review（阿里代码评审技能）](cards/external-collection/alibaba-open-code-review.md)
 
 - 一句话: 阿里规模验证过的混合架构代码评审工具技能：确定性流水线 + LLM agent，行级精准评论，2 个技能。
@@ -726,6 +742,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/apexstoa/strategy-tester
+- 调用: 未安装，收藏备查
+
+### [appariciojunior/video-editor-skills（DaVinci 粗剪技能）](cards/external-collection/appariciojunior-video-editor-skills.md)
+
+- 一句话: 教 Claude Code 当 DaVinci Resolve 初剪师：转录粗剪、vlog 节奏、B-roll、音乐音效、干净字幕、动效、YouTube 导出，共 12 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/appariciojunior/video-editor-skills
 - 调用: 未安装，收藏备查
 
 ### [avivsinai/agent-message-queue（本地 agent 间文件消息队列）](cards/external-collection/avivsinai-agent-message-queue.md)
@@ -1080,6 +1104,14 @@
 - 位置: https://github.com/hany202507/finance-ai-skills
 - 调用: 未安装，收藏备查
 
+### [heliocosta-dev/revenue-centric-design（收益导向设计技能）](cards/external-collection/heliocosta-dev-revenue-centric-design.md)
+
+- 一句话: 101 条收益导向设计原则：产品设计、转化与行为科学，写成单个可调用的 Claude Code 技能。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/heliocosta-dev/revenue-centric-design
+- 调用: 未安装，收藏备查
+
 ### [hesreallyhim/awesome-claude-code（Claude Code 资源清单）](cards/external-collection/hesreallyhim-awesome-claude-code.md)
 
 - 一句话: 清单型合集：人工精选的 Claude Code 资源总汇——技能、配置、工具与教程的索引。
@@ -1216,6 +1248,14 @@
 - 位置: https://github.com/knowledgeislands/ki-agentic-harness
 - 调用: 未安装，收藏备查
 
+### [konlu/story-studio（中文历史人物配音视频技能）](cards/external-collection/konlu-story-studio.md)
+
+- 一句话: 从选题到剪映草稿的一站式 AI 短视频内容创作技能：中文历史人物配音视频，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/konlu/story-studio
+- 调用: 未安装，收藏备查
+
 ### [krillinai/OpenCreator（AI 创作工作台技能）](cards/external-collection/krillinai-opencreator.md)
 
 - 一句话: 开源 AI 创作工作台自带的技能：视频下载、翻译配音、成片、封面、字幕、TTS，15 个 SKILL.md。
@@ -1280,6 +1320,14 @@
 - 位置: https://github.com/magnus919/agent-skills
 - 调用: 未安装，收藏备查
 
+### [markfulton/luck-accelerator（本周该见谁的技能）](cards/external-collection/markfulton-luck-accelerator.md)
+
+- 一句话: 每周找出值得见的人、活动与社群，写好第一条消息，放进你自己的 luck dashboard，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/markfulton/luck-accelerator
+- 调用: 未安装，收藏备查
+
 ### [markksantos/caption-checker（字幕合规检查技能）](cards/external-collection/markksantos-caption-checker.md)
 
 - 一句话: 按 Netflix、BBC 与 DCMP 字幕规范检查 SRT/WebVTT 字幕：语速、行长、行数、时长、间隔与重叠，3 个 SKILL.md。
@@ -1310,6 +1358,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/meshy-dev/meshy-3d-agent
+- 调用: 未安装，收藏备查
+
+### [michael-denyer/pstack-claude（Poteto 技能栈的 Claude 移植）](cards/external-collection/michael-denyer-pstack-claude.md)
+
+- 一句话: Poteto pstack 技能栈的 Claude Code / Codex / Copilot / Gemini 等多 harness 移植：严格的 agent 工作流与 Cursor 原语对照，共 68 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/michael-denyer/pstack-claude
 - 调用: 未安装，收藏备查
 
 ### [mileson/chaojifeng-video-design（超级峰的视频设计方法论）](cards/external-collection/mileson-chaojifeng-video-design.md)
@@ -1702,6 +1758,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/virgiliojr94/book-to-skill
+- 调用: 未安装，收藏备查
+
+### [wanshuiyin/Auto-claude-code-research-in-sleep（ARIS 自主 ML 研究技能）](cards/external-collection/wanshuiyin-auto-claude-code-research-in-sleep.md)
+
+- 一句话: ARIS：睡觉时让 agent 自己做 ML 研究——纯 Markdown 技能，跨模型互审、点子发现、实验自动化，共 197 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
 - 调用: 未安装，收藏备查
 
 ### [wheakerd/axiom（Codex/Claude Code 工作流技能）](cards/external-collection/wheakerd-axiom.md)
