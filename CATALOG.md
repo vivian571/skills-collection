@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 228 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 238 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -432,6 +432,14 @@
 - 位置: https://github.com/Motionsites-AI/claude-skill
 - 调用: 未安装，收藏备查
 
+### [NAJEMWEHBE/studio-skills（从纠错里攒经验的自我改进技能）](cards/external-collection/najemwehbe-studio-skills.md)
+
+- 一句话: 给 Claude 的经验教训日志：从纠错里起草教训、经你批准、反复出现的就沉淀成规则，附直播示例，共 2 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/NAJEMWEHBE/studio-skills
+- 调用: 未安装，收藏备查
+
 ### [NVIDIA/SkillSpector（技能安全扫描器）](cards/external-collection/nvidia-skillspector.md)
 
 - 一句话: NVIDIA 出品的 AI agent 技能安全扫描器：查技能里的漏洞、恶意模式与过度授权，可交付技能 1 个。
@@ -656,6 +664,14 @@
 - 位置: https://github.com/akiiwa-games/AgentCompass
 - 调用: 未安装，收藏备查
 
+### [akshay-diwadkar/first-four-hours（动手前先磨刀的四个小时）](cards/external-collection/akshay-diwadkar-first-four-hours.md)
+
+- 一句话: 编码 agent 别只会挥斧头，先磨刀：学习、意义建构、工作台三组技能，先把问题想清楚再动手，共 15 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/akshay-diwadkar/first-four-hours
+- 调用: 未安装，收藏备查
+
 ### [alchaincyf/huashu-art-motion（花叔艺术动画）](cards/external-collection/alchaincyf-huashu-art-motion.md)
 
 - 一句话: 代码绘制的艺术动画技能：35+ 种艺术风格 + 9 种解说语法，流程为镜头表（锁画风/色板/角色）→ storyboard_lint → 逐镜渲染 → 拼接混口播 → qa → deliver 门禁出片。
@@ -776,6 +792,14 @@
 - 位置: https://github.com/b0bsl3d/InformedVoter
 - 调用: 未安装，收藏备查
 
+### [baodhg/FLOW（FLOW Harness 工作流技能包）](cards/external-collection/baodhg-flow.md)
+
+- 一句话: FLOW Harness：带编码 agent 从探索、规划、执行到复盘走完一整套工作流的技能包与 CLI，各仓库上下文留在本地，共 14 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/baodhg/FLOW
+- 调用: 未安装，收藏备查
+
 ### [benjitaylor/skills（AI 编码 agent 技能）](cards/external-collection/benjitaylor-skills.md)
 
 - 一句话: AI 编码 agent 技能仓，树内 1 个 SKILL.md（stageshow）。
@@ -790,6 +814,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/blader/humanizer
+- 调用: 未安装，收藏备查
+
+### [bmalthi/hal-light（轻量严谨数据分析 agent）](cards/external-collection/bmalthi-hal-light.md)
+
+- 一句话: 轻量 agent 做自动化严谨数据分析：从一句话提示端到端跑完，产出可验证结论的漂亮简报与完整审计轨迹，共 3 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/bmalthi/hal-light
 - 调用: 未安装，收藏备查
 
 ### [bompus/house-rules（AI 编码 agent 工作规则技能）](cards/external-collection/bompus-house-rules.md)
@@ -934,6 +966,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/dereknex/immune-brain
+- 调用: 未安装，收藏备查
+
+### [dmoreq/agent-grimoire（跨 harness 可移植 AGENTS.md 内核与技能包）](cards/external-collection/dmoreq-agent-grimoire.md)
+
+- 一句话: 可移植的 AGENTS.md 内核与技能包：同一套技能跑在 Grok、Codex、Zed、OpenCode、Antigravity、ZCode 上，共 43 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/dmoreq/agent-grimoire
 - 调用: 未安装，收藏备查
 
 ### [dreammis/social-auto-upload（社媒自动上传技能）](cards/external-collection/dreammis-social-auto-upload.md)
@@ -1152,6 +1192,14 @@
 - 位置: https://github.com/inkatze/planwright
 - 调用: 未安装，收藏备查
 
+### [jaemyeong-hwnag/claude-marketplaces（Claude Code 插件市场与工程规范）](cards/external-collection/jaemyeong-hwnag-claude-marketplaces.md)
+
+- 一句话: Claude Code 插件市场：用 hooks、技能与 MCP 强制执行命名规范、GitHub 工作流、AI 测试覆盖、密钥扫描、压力测试与证据式 AI 评审，共 46 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/jaemyeong-hwnag/claude-marketplaces
+- 调用: 未安装，收藏备查
+
 ### [jamditis/claude-skills-journalism（新闻与学术技能）](cards/external-collection/jamditis-claude-skills-journalism.md)
 
 - 一句话: 面向新闻、媒体与学术的 Claude Code 技能：事实核查、FOIA 信息公开申请、数据处理，另带一套开发工具技能。
@@ -1264,6 +1312,14 @@
 - 位置: https://github.com/krillinai/OpenCreator
 - 调用: 未安装，收藏备查
 
+### [kubersharmax/amda-skill（AI 输出要不要人工复核的分流技能）](cards/external-collection/kubersharmax-amda-skill.md)
+
+- 一句话: 告诉你哪些 AI 输出需要人工复核、哪些不用：把营销与 GTM 决策按治理强度分进三档，共 2 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/kubersharmax/amda-skill
+- 调用: 未安装，收藏备查
+
 ### [kumodeck/game-studio（Web 游戏关卡编辑器技能）](cards/external-collection/kumodeck-game-studio.md)
 
 - 一句话: 给 AI 做的网页游戏配一个免费关卡编辑器：three.js、Phaser、PixiJS 与 Godot 网页游戏，拖东西、让 AI 改、点保存，单技能。
@@ -1358,6 +1414,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/meshy-dev/meshy-3d-agent
+- 调用: 未安装，收藏备查
+
+### [meshy-dev/meshy-dsh（Meshy 3D 生成与打印技能，DeepSeek Harness 版）](cards/external-collection/meshy-dev-meshy-dsh.md)
+
+- 一句话: Meshy 3D 生成与 3D 打印技能的 DeepSeek Harness（dsh）版：生成与打印各一，共 2 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/meshy-dev/meshy-dsh
 - 调用: 未安装，收藏备查
 
 ### [michael-denyer/pstack-claude（Poteto 技能栈的 Claude 移植）](cards/external-collection/michael-denyer-pstack-claude.md)
@@ -1608,6 +1672,14 @@
 - 位置: https://github.com/runxhq/runx
 - 调用: 未安装，收藏备查
 
+### [sageadvicellc/bowerloom（Harness 与 Agent 环境管理）](cards/external-collection/sageadvicellc-bowerloom.md)
+
+- 一句话: 用 CLI + App 管 harness 与 agent 环境：工厂式交付四件套（接单、交付、交接、评审）加 wiki-keeper 笔记技能与 labs-to-blog 配方，共 12 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/sageadvicellc/bowerloom
+- 调用: 未安装，收藏备查
+
 ### [say8425/SimpleKorean（易懂韩语写作技能）](cards/external-collection/say8425-simplekorean.md)
 
 - 一句话: 让 LLM 把技术文档和聊天回答写成简单易懂的韩语，源自 SimpleEnglish（ASD-STE100）的韩语派生项目。
@@ -1774,6 +1846,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/wheakerd/axiom
+- 调用: 未安装，收藏备查
+
+### [whozghiar/opengoal-modding-kb（OpenGOAL Modding 知识技能库）](cards/external-collection/whozghiar-opengoal-modding-kb.md)
+
+- 一句话: 经核验的 OpenGOAL modding 知识，做成 Agent Skills：关卡编辑器、Remotion 视频、文档与写作，共 22 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/whozghiar/opengoal-modding-kb
 - 调用: 未安装，收藏备查
 
 ### [why20261/douyin-video-words（抖音视频文案提取）](cards/external-collection/why20261-douyin-video-words.md)
