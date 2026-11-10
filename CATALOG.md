@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 238 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 241 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -1072,6 +1072,14 @@
 - 位置: https://github.com/firecrawl/cli
 - 调用: 未安装，收藏备查
 
+### [firecrawl/firecrawl-workflows（Firecrawl 工作流技能集）](cards/external-collection/firecrawl-firecrawl-workflows.md)
+
+- 一句话: Firecrawl 官方工作流技能集：SEO 审计、竞品情报、线索挖掘、深度研究、知识库等，共 19 个 SKILL.md。
+- 来源: 外部
+- 许可: ISC
+- 位置: https://github.com/firecrawl/firecrawl-workflows
+- 调用: 未安装，收藏备查
+
 ### [fliqrlabs/instagram-creator-skills（Instagram 创作者技能包）](cards/external-collection/fliqrlabs-instagram-creator-skills.md)
 
 - 一句话: 30 个 Instagram 创作者技能：爆款钩子、Reel 脚本、文案、轮播图与评论转私信玩法，33 个 SKILL.md。
@@ -1822,6 +1830,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/ueberdosis/tiptap
+- 调用: 未安装，收藏备查
+
+### [vercel-labs/agent-browser（Agent 浏览器技能）](cards/external-collection/vercel-labs-agent-browser.md)
+
+- 一句话: Vercel 出品的 agent 浏览器自动化 CLI 附带技能：浏览器操作、沙箱、部署与 WebMCP 生成，共 11 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/vercel-labs/agent-browser
+- 调用: 未安装，收藏备查
+
+### [vercel-labs/skills（npx skills 工具与找技能技能）](cards/external-collection/vercel-labs-skills.md)
+
+- 一句话: 开源 agent 技能工具 `npx skills` 本体：装技能的命令行工具，仓内附带 1 个可交付技能 find-skills（帮你找技能）与内部自动化技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/vercel-labs/skills
 - 调用: 未安装，收藏备查
 
 ### [virgiliojr94/book-to-skill（书转技能）](cards/external-collection/virgiliojr94-book-to-skill.md)
