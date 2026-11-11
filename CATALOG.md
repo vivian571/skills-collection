@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 241 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 250 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -232,6 +232,14 @@
 - 位置: https://github.com/Donchitos/Claude-Code-Game-Studios
 - 调用: 未安装，收藏备查
 
+### [DozenTwelve/Papermorph（书转动画互动网页技能）](cards/external-collection/dozentwelve-papermorph.md)
+
+- 一句话: 把一本书变成带动画、旁白、可交互的网页体验的 AI 技能，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/DozenTwelve/Papermorph
+- 调用: 未安装，收藏备查
+
 ### [EJRyan89/coding-agent-skills（可移植编码 agent 技能）](cards/external-collection/ejryan89-coding-agent-skills.md)
 
 - 一句话: 横跨 Claude Code / Codex / Copilot CLI 的可移植技能——审配置、审技能、清仓库、审 PR、管记忆，15 个 SKILL.md。
@@ -272,6 +280,14 @@
 - 位置: https://github.com/GangJaeYu/harness_loop_full_korean
 - 调用: 未安装，收藏备查
 
+### [Gentleman-Programming/gentle-shell（Pi 原生并行开发工作台技能）](cards/external-collection/gentleman-programming-gentle-shell.md)
+
+- 一句话: Pi 原生的 AI 辅助开发工作台技能：并行编码 agent、实时任务、Git diff 回顾，15 个技能覆盖分支、PR、评审与文档。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Gentleman-Programming/gentle-shell
+- 调用: 未安装，收藏备查
+
 ### [HelloYeew/dotnet-skill（个人 C#/.NET 偏好技能）](cards/external-collection/helloyeew-dotnet-skill.md)
 
 - 一句话: 作者个人的 C# 代码风格与 .NET 偏好技能：常用库与 Sakura Framework 用法指南，单技能。
@@ -302,6 +318,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Jakeschincariol/day-trader-skill
+- 调用: 未安装，收藏备查
+
+### [Jakeschincariol/founder-skill（创业者开局验证 11 技能）](cards/external-collection/jakeschincariol-founder-skill.md)
+
+- 一句话: 上线前先验证生意的 11 个免费 Claude 技能：受 Hormozi、Thiel、Jobs 启发的董事会、品牌、CFO、竞品、定价与发布。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Jakeschincariol/founder-skill
 - 调用: 未安装，收藏备查
 
 ### [Jakeschincariol/instagram-agent-skill（13 个 Instagram 运营技能）](cards/external-collection/jakeschincariol-instagram-agent-skill.md)
@@ -808,6 +832,14 @@
 - 位置: https://github.com/benjitaylor/skills
 - 调用: 未安装，收藏备查
 
+### [bitwize-music-studio/claude-ai-music-skills（人机协作音乐制作技能）](cards/external-collection/bitwize-music-studio-claude-ai-music-skills.md)
+
+- 一句话: 人 + AI 做音乐的全流程技能：给 Suno 用的作词、作曲、混音、母带、专辑概念与宣发，共 53 个 SKILL.md。
+- 来源: 外部
+- 许可: CC0-1.0
+- 位置: https://github.com/bitwize-music-studio/claude-ai-music-skills
+- 调用: 未安装，收藏备查
+
 ### [blader/humanizer（去 AI 味改写技能）](cards/external-collection/blader-humanizer.md)
 
 - 一句话: 去掉文本里的 AI 生成痕迹、改写成自然人味的 agent 技能，1 个 SKILL.md。
@@ -918,6 +950,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/cth9191/animate
+- 调用: 未安装，收藏备查
+
+### [curie-eng/curie（Agent 变同事的自托管平台技能）](cards/external-collection/curie-eng-curie.md)
+
+- 一句话: 开源自托管平台 Curie 的附带技能：把 agent 变成同事，从 Software Factory 派发 GitHub issue 起步。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/curie-eng/curie
 - 调用: 未安装，收藏备查
 
 ### [daveebbelaar/bama（原生 macOS 应用构建技能）](cards/external-collection/daveebbelaar-bama.md)
@@ -1254,6 +1294,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/jonathanjuliani/skilldeck
+- 调用: 未安装，收藏备查
+
+### [kaankiziltug/logo-design-skill（Logo 设计技能）](cards/external-collection/kaankiziltug-logo-design-skill.md)
+
+- 一句话: 给 AI agent 的 Logo 设计技能：设计原则、流程、SVG 手艺与自检，适配 Claude、Gemini CLI、Codex 等多家 agent。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kaankiziltug/logo-design-skill
+- 调用: 未安装，收藏备查
+
+### [kajisho5/ffmpeg-skill（FFmpeg 视频编辑技能）](cards/external-collection/kajisho5-ffmpeg-skill.md)
+
+- 一句话: 给编码 agent 的本地视频编辑技能：42 个 FFmpeg 工具 + 机器可读契约 + MCP 服务器，剪辑、转码、抽帧都按契约走。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kajisho5/ffmpeg-skill
 - 调用: 未安装，收藏备查
 
 ### [kambleakash0/agent-skills（精选 Agent 技能 + 省 token MCP）](cards/external-collection/kambleakash0-agent-skills.md)
@@ -1768,6 +1824,14 @@
 - 位置: https://github.com/stancsz/northstar
 - 调用: 未安装，收藏备查
 
+### [starslingdev/skills（Agent 原生 CI 技能）](cards/external-collection/starslingdev-skills.md)
+
+- 一句话: StarSling 的 agent 原生 CI 技能：给 CI 打分、加固安全、提速流水线，共 5 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/starslingdev/skills
+- 调用: 未安装，收藏备查
+
 ### [tamnguyendinh/Anvien（代码智能 MCP 技能）](cards/external-collection/tamnguyendinh-anvien.md)
 
 - 一句话: 本地 MCP 代码智能工具的技能包：定位问题、找文件符号、验证调用链，仓内 78 个 SKILL.md。
@@ -1878,6 +1942,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/whozghiar/opengoal-modding-kb
+- 调用: 未安装，收藏备查
+
+### [why20261/douyin-competitor-radar（抖音竞品雷达技能）](cards/external-collection/why20261-douyin-competitor-radar.md)
+
+- 一句话: 对比品牌在抖音的内容表现、互动数据与讨论趋势，输出差异、证据与可执行机会的竞品分析单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/why20261/douyin-competitor-radar
 - 调用: 未安装，收藏备查
 
 ### [why20261/douyin-video-words（抖音视频文案提取）](cards/external-collection/why20261-douyin-video-words.md)
