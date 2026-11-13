@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 287 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 290 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -486,6 +486,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Leonxlnx/taste-skill
+- 调用: 未安装，收藏备查
+
+### [LuoJiangYong/muse-video-skill（视频创作虚拟剧组引擎）](cards/external-collection/luojiangyong-muse-video-skill.md)
+
+- 一句话: 视频创作虚拟剧组引擎：创意 → 剧本/分镜/美术/提示词 → 模型调用指令，38 案例技法库 × 六角色协作（导演/编剧/摄影/美术/特效/声音）× 全流程质量门，产出直连下游视频模型。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/LuoJiangYong/muse-video-skill
 - 调用: 未安装，收藏备查
 
 ### [Lusona/ai-skills（迭代式产品工程技能）](cards/external-collection/lusona-ai-skills.md)
@@ -1696,6 +1704,14 @@
 - 位置: https://github.com/markksantos/caption-checker
 - 调用: 未安装，收藏备查
 
+### [masonmosen/muse-video-prompt-skill（Muse 视频提示词工作流）](cards/external-collection/masonmosen-muse-video-prompt-skill.md)
+
+- 一句话: 专为 Meta Muse 内置视频生成（Muse Video）写的提示词工作流：六段式提示词模板 → 生成 → 多段拼接 → 抽帧验证。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/masonmosen/muse-video-prompt-skill
+- 调用: 未安装，收藏备查
+
 ### [mattpocock/skills（给真实工程师的技能集）](cards/external-collection/mattpocock-skills.md)
 
 - 一句话: Matt Pocock 每天自用的工程技能——对齐先问透（grill-me）、TDD、查 bug、领域建模、代码评审，38 个 SKILL.md。
@@ -2062,6 +2078,14 @@
 - 来源: 外部
 - 许可: BSD-3-Clause
 - 位置: https://github.com/skrodahl/delegate-to-local
+- 调用: 未安装，收藏备查
+
+### [sonlovinbot-team/Muse-animated-short-film（Muse 动画短片全流程）](cards/external-collection/sonlovinbot-team-muse-animated-short-film.md)
+
+- 一句话: 在 Muse AI 上做动画短片的完整流程技能：人物设定、故事脚本、关键帧、视频、旁白到最终 MP4，适合 IP 故事、动画栏目和连续剧情。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/sonlovinbot-team/Muse-animated-short-film
 - 调用: 未安装，收藏备查
 
 ### [soul0710/story-narration-skills（长叙事口播视频脚本）](cards/external-collection/soul0710-story-narration-skills.md)
