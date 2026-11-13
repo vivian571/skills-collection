@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 278 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 287 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -712,6 +712,14 @@
 - 位置: https://github.com/WenyuChiou/ai-research-skills
 - 调用: 未安装，收藏备查
 
+### [WenyuChiou/awesome-agentic-ai-zh（中文 Agentic AI 学习路线图）](cards/external-collection/wenyuchiou-awesome-agentic-ai-zh.md)
+
+- 一句话: 繁中 / English / 简中三语 Agentic AI 学习路线图：从 LLM 基础到多智能体系统，240+ 精选资源与动手示例，附 1 个示例 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/WenyuChiou/awesome-agentic-ai-zh
+- 调用: 未安装，收藏备查
+
 ### [aaron-he-zhu/aaron-marketing-skills（120 个营销技能）](cards/external-collection/aaron-he-zhu-aaron-marketing-skills.md)
 
 - 一句话: 一支可安装的 AI 营销团队——叙事、SEO/GEO、社媒、邮件、付费广告、网红、发布 7 大学科共 120 个技能。
@@ -784,6 +792,14 @@
 - 位置: https://github.com/akshay-diwadkar/first-four-hours
 - 调用: 未安装，收藏备查
 
+### [alchaincyf/darwin-skill（达尔文 Skill 进化系统）](cards/external-collection/alchaincyf-darwin-skill.md)
+
+- 一句话: 让你的 Skill 无限进化的系统：评估 → 改进 → 测试 → 保留或回滚，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/alchaincyf/darwin-skill
+- 调用: 未安装，收藏备查
+
 ### [alchaincyf/huashu-art-motion（花叔艺术动画）](cards/external-collection/alchaincyf-huashu-art-motion.md)
 
 - 一句话: 代码绘制的艺术动画技能：35+ 种艺术风格 + 9 种解说语法，流程为镜头表（锁画风/色板/角色）→ storyboard_lint → 逐镜渲染 → 拼接混口播 → qa → deliver 门禁出片。
@@ -814,6 +830,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/alchaincyf/nuwa-skill
+- 调用: 未安装，收藏备查
+
+### [alchaincyf/zhangxuefeng-skill（张雪峰认知操作系统）](cards/external-collection/alchaincyf-zhangxuefeng-skill.md)
+
+- 一句话: 张雪峰的认知操作系统：高考志愿、考研、职业规划的实战思维框架，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/alchaincyf/zhangxuefeng-skill
 - 调用: 未安装，收藏备查
 
 ### [alexsandsouza/spection（AI 引导的软件工程框架技能）](cards/external-collection/alexsandsouza-spection.md)
@@ -1080,6 +1104,14 @@
 - 位置: https://github.com/daveebbelaar/bama
 - 调用: 未安装，收藏备查
 
+### [davila7/claude-code-templates（Claude Code 组件注册表与 CLI）](cards/external-collection/davila7-claude-code-templates.md)
+
+- 一句话: Claude Code 组件的开源注册表与 CLI：agents、commands、skills、hooks、MCPs、settings 与 mods，树内 926 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/davila7/claude-code-templates
+- 调用: 未安装，收藏备查
+
 ### [dcbruck/claude-skills（独立顾问的日常 12 技能）](cards/external-collection/dcbruck-claude-skills.md)
 
 - 一句话: 独立 AI 创意顾问每天自用的 12 个 slash-command 技能：prompt 放大、想法挖掘与分诊、语音锁定起草、转录挖矿、合同审查、系统图等。
@@ -1102,6 +1134,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/dcc-mcp/dcc-asset-godot-store
+- 调用: 未安装，收藏备查
+
+### [deanpeters/Product-Manager-Skills（产品经理技能框架）](cards/external-collection/deanpeters-product-manager-skills.md)
+
+- 一句话: 产品经理技能框架：竞品分析、发现访谈、机会树、定价、生命周期、下线流程等实战方法，共 77 个 SKILL.md。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/deanpeters/Product-Manager-Skills
 - 调用: 未安装，收藏备查
 
 ### [deeprdai21-ai/practical-claude-skills（实用小技能两件套）](cards/external-collection/deeprdai21-ai-practical-claude-skills.md)
@@ -1174,6 +1214,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/elvarofficial/teardown
+- 调用: 未安装，收藏备查
+
+### [emilkowalski/skills（设计师与工程师的动画技能）](cards/external-collection/emilkowalski-skills.md)
+
+- 一句话: Emil Kowalski 的设计与动画技能：动效词汇、编排、手势、动画性能与评审，共 19 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/emilkowalski/skills
 - 调用: 未安装，收藏备查
 
 ### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
@@ -1398,6 +1446,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/inkatze/planwright
+- 调用: 未安装，收藏备查
+
+### [irinabuht12-oss/marketing-skills（49 个营销技能）](cards/external-collection/irinabuht12-oss-marketing-skills.md)
+
+- 一句话: 49 个免费营销技能：Google Ads、Meta Ads 审计、SEO、AI 可见度、归因与预算，附 Ryze 广告 MCP 接入说明。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/irinabuht12-oss/marketing-skills
 - 调用: 未安装，收藏备查
 
 ### [jaemyeong-hwnag/claude-marketplaces（Claude Code 插件市场与工程规范）](cards/external-collection/jaemyeong-hwnag-claude-marketplaces.md)
@@ -1888,6 +1944,14 @@
 - 位置: https://github.com/ramboz/jig
 - 调用: 未安装，收藏备查
 
+### [reactive-resume/reactive-resume（简历与求职技能插件集）](cards/external-collection/reactive-resume-reactive-resume.md)
+
+- 一句话: 开源简历生成器的 Claude 插件技能集：按职业写简历、改子弹句、量身定制、模拟面试与 offer 谈判，共 32 个可交付技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/reactive-resume/reactive-resume
+- 调用: 未安装，收藏备查
+
 ### [rediumvex/meta-facebook-ads-optimizer-claude（广告诊断技能）](cards/external-collection/rediumvex-meta-facebook-ads-optimizer-claude.md)
 
 - 一句话: 单技能：诊断"广告烧钱不转化"——投放审计、交付停滞、样本量规则、像素核查五步诊断流程，附完整 teardown 实战案例。
@@ -2198,6 +2262,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/wshobson/agents
+- 调用: 未安装，收藏备查
+
+### [yikart/AiToEarn（AI 内容变现平台技能插件）](cards/external-collection/yikart-aitoearn.md)
+
+- 一句话: 「用 AI 赚钱」的内容生产平台附带 Claude 插件技能：视频生成、剪辑、配音、图片、频道发布等 14 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/yikart/AiToEarn
 - 调用: 未安装，收藏备查
 
 ### [yusufkaraaslan/Skill_Seekers（文档转技能技能）](cards/external-collection/yusufkaraaslan-skill-seekers.md)
