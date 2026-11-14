@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 290 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 294 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -510,6 +510,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/MSKazemi/reachweaver
+- 调用: 未安装，收藏备查
+
+### [Moh4696/cinematic-skill（纯代码叙事电影技能）](cards/external-collection/moh4696-cinematic-skill.md)
+
+- 一句话: 用纯代码做带旁白的电影感影片的 agent 技能：一镜到底的镜头掠过照片、文档、卡片、地图与大数字，每个印章、高亮与数字都落在旁白词上，再配音效、配乐与烧录字幕。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Moh4696/cinematic-skill
 - 调用: 未安装，收藏备查
 
 ### [Motionsites-AI/claude-skill（电影感落地页技能）](cards/external-collection/motionsites-ai-claude-skill.md)
@@ -1368,6 +1376,14 @@
 - 位置: https://github.com/google/elephant-goldfish-model
 - 调用: 未安装，收藏备查
 
+### [gosom/google-maps-scraper（Google Maps 抓取技能）](cards/external-collection/gosom-google-maps-scraper.md)
+
+- 一句话: 从 Google Maps 抓取地点数据的 Go 工具，附带一个 agent 技能：按名称、地址、电话、网址、评分、评论数、经纬度、邮箱等字段结构化提取。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/gosom/google-maps-scraper
+- 调用: 未安装，收藏备查
+
 ### [guaikei/dy-diagnosis（抖音账号诊断技能）](cards/external-collection/guaikei-dy-diagnosis.md)
 
 - 一句话: 抖音账号诊断技能：博主作品、作品表现、评论反馈与对标账号，只读公开数据，另支持用户与达人搜索、公域获客与竞品分析，根目录 1 个 SKILL.md。
@@ -1430,6 +1446,14 @@
 - 来源: 外部
 - 许可: CC-BY-4.0
 - 位置: https://github.com/heydamir/unslop
+- 调用: 未安装，收藏备查
+
+### [heygen-com/hyperframes（HTML 写视频技能集）](cards/external-collection/heygen-com-hyperframes.md)
+
+- 一句话: 写 HTML 就能渲染成视频的 agent 向引擎，附带一套视频技能：字幕叠加、更新日志视频、动效信条、超大光标、接缝工艺、Figma 导入、Remotion 迁移、任意视频逆向、幻灯片与风格采样等。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/heygen-com/hyperframes
 - 调用: 未安装，收藏备查
 
 ### [hfadhlullah/kaizen（先审计划再动手的 agent 流程）](cards/external-collection/hfadhlullah-kaizen.md)
@@ -1814,6 +1838,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/naorsabag/openhop
+- 调用: 未安装，收藏备查
+
+### [nateherkai/scroll-craft（滚动驱动网站技能）](cards/external-collection/nateherkai-scroll-craft.md)
+
+- 一句话: 给 agent 的高级沉浸式滚动驱动网站技能：先规划纵深层次与滚动过渡，再逐项检查 AI 味页面常犯的毛病——正文对比度、手机端标题换行与千篇一律的六段式结构。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nateherkai/scroll-craft
 - 调用: 未安装，收藏备查
 
 ### [nathankim0/ssul（韩语拟人社交帖技能）](cards/external-collection/nathankim0-ssul.md)
