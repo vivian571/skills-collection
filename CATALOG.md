@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 300 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 301 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -1238,6 +1238,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/elayadesign/ai-design-skills
+- 调用: 未安装，收藏备查
+
+### [elder-plinius/CL4R1T4S（各家 AI 泄露系统提示词合集）](cards/external-collection/elder-plinius-cl4r1t4s.md)
+
+- 一句话: 自称泄露的各家 AI 系统提示词合集：ChatGPT、Claude、Gemini、Grok、Perplexity、Cursor、Lovable、Replit 等，按厂商分目录存放的提示词文本，仓库内无 SKILL.md，不是技能包。
+- 来源: 外部
+- 许可: AGPL-3.0
+- 位置: https://github.com/elder-plinius/CL4R1T4S
 - 调用: 未安装，收藏备查
 
 ### [elrazez/deepen（任务改写成专业提示词）](cards/external-collection/elrazez-deepen.md)
