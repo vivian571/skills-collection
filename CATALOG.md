@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 294 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 300 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -328,6 +328,14 @@
 - 位置: https://github.com/Gentleman-Programming/gentle-shell
 - 调用: 未安装，收藏备查
 
+### [GoogleChrome/modern-web-guidance-src（现代 Web 开发指南技能）](cards/external-collection/googlechrome-modern-web-guidance-src.md)
+
+- 一句话: Google Chrome 官方的现代 Web 开发指南：让编码 Agent 跟上最新 Web 平台最佳实践——View Transitions、容器查询、Popover API、scheduler.yield 等约 250 项特性，可交付技能 2 个。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/GoogleChrome/modern-web-guidance-src
+- 调用: 未安装，收藏备查
+
 ### [HelloYeew/dotnet-skill（个人 C#/.NET 偏好技能）](cards/external-collection/helloyeew-dotnet-skill.md)
 
 - 一句话: 作者个人的 C# 代码风格与 .NET 偏好技能：常用库与 Sakura Framework 用法指南，单技能。
@@ -382,6 +390,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Jakeschincariol/instagram-agent-skill
+- 调用: 未安装，收藏备查
+
+### [Jakeschincariol/linkedin-agent-skill（LinkedIn 运营 11 技能）](cards/external-collection/jakeschincariol-linkedin-agent-skill.md)
+
+- 一句话: 11 个跑 LinkedIn 账号的 Claude 技能：按 21 条钩子公式写帖子、写评论、回私信、做轮播图、评个人主页、排周计划，还有去 AI 味的人味改写，共 11 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Jakeschincariol/linkedin-agent-skill
 - 调用: 未安装，收藏备查
 
 ### [Jakeschincariol/replica-skill（复刻任意应用的 11 个技能）](cards/external-collection/jakeschincariol-replica-skill.md)
@@ -446,6 +462,14 @@
 - 来源: 外部（本地已安装同源技能）
 - 许可: Apache-2.0
 - 位置: https://github.com/JuneYaooo/rea-video（本地安装：~/workspace/custom-skills/local-rea-video/）
+- 调用: 未安装，收藏备查
+
+### [K-Dense-AI/claude-scientific-writer（科学写作技能库）](cards/external-collection/k-dense-ai-claude-scientific-writer.md)
+
+- 一句话: 通用科学写作技能库：文献综述、假设生成、科学写作、同行评审、信息图、科学示意图、幻灯片与海报、基金申请、临床报告等 26 个可交付技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/K-Dense-AI/claude-scientific-writer
 - 调用: 未安装，收藏备查
 
 ### [K-Dense-AI/scientific-agent-skills（科学技能库）](cards/external-collection/k-dense-scientific-agent-skills.md)
@@ -1912,6 +1936,14 @@
 - 位置: https://github.com/obra/superpowers
 - 调用: 未安装，收藏备查
 
+### [obsidianmd/obsidian-skills（Obsidian 官方技能包）](cards/external-collection/obsidianmd-obsidian-skills.md)
+
+- 一句话: Obsidian 官方的 Agent 技能包：教 Agent 用 Obsidian CLI 读写/搜索笔记、Obsidian 风味 Markdown、Bases 数据库视图、JSON Canvas、网页转 Markdown（Defuddle）、模板渲染（Knap），另加无头模式（obsidian-headless）。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/obsidianmd/obsidian-skills
+- 调用: 未安装，收藏备查
+
 ### [paperclipai/paperclip（Agent 管理应用的技能包）](cards/external-collection/paperclipai-paperclip.md)
 
 - 一句话: 开源的 agent 管理应用（"everyone uses to manage agents at work"），仓内自带 82 个 SKILL.md——产品技能加 skill 分发结构。
@@ -2112,6 +2144,14 @@
 - 位置: https://github.com/skrodahl/delegate-to-local
 - 调用: 未安装，收藏备查
 
+### [smixs/mentor（会话复盘洞察技能）](cards/external-collection/smixs-mentor.md)
+
+- 一句话: 读你本地的 Claude Code / Codex 会话记录，写一份 /insights 风格的 HTML 复盘报告：做了什么、在哪丢时间、每个重复摩擦对应的具体修复办法，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/smixs/mentor
+- 调用: 未安装，收藏备查
+
 ### [sonlovinbot-team/Muse-animated-short-film（Muse 动画短片全流程）](cards/external-collection/sonlovinbot-team-muse-animated-short-film.md)
 
 - 一句话: 在 Muse AI 上做动画短片的完整流程技能：人物设定、故事脚本、关键帧、视频、旁白到最终 MP4，适合 IP 故事、动画栏目和连续剧情。
@@ -2246,6 +2286,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/vercel-labs/skills
+- 调用: 未安装，收藏备查
+
+### [vibe-motion/sound（视频音效技能）](cards/external-collection/vibe-motion-sound.md)
+
+- 一句话: 给做视频的 Agent 找音效的单技能：把画面动作翻成英文关键词，按真人反馈排序，从 Pixabay、Freesound、Mixkit、Kenney 找音效，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX；仓库未声明开源许可）
+- 位置: https://github.com/vibe-motion/sound
 - 调用: 未安装，收藏备查
 
 ### [virgiliojr94/book-to-skill（书转技能）](cards/external-collection/virgiliojr94-book-to-skill.md)
