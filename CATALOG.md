@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 301 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 317 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -456,6 +456,14 @@
 - 位置: https://github.com/JuliusBrussee/caveman
 - 调用: 未安装，收藏备查
 
+### [JuneYaooo/awesome-ai-media-skills（AI 媒体技能清单）](cards/external-collection/juneyaooo-awesome-ai-media-skills.md)
+
+- 一句话: 清单型合集：精选 AI 媒体方向的 Claude Code 技能、MCP 服务器与 AI agent 清单，仓内只有清单没有 SKILL.md 本体。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/JuneYaooo/awesome-ai-media-skills
+- 调用: 未安装，收藏备查
+
 ### [JuneYaooo/rea-video（视频逐镜逆向技能）](cards/external-collection/juneyaooo-rea-video.md)
 
 - 一句话: 逆向一切视频，逐镜拆出制作方式并给出复刻方案：判断每镜是实拍、AI 生成还是代码生成，再拆字幕、剪辑与声音怎么做，单技能。
@@ -608,6 +616,14 @@
 - 位置: https://github.com/OWENWANG-GULIAI/guliai-skills
 - 调用: 未安装，收藏备查
 
+### [OneWave-AI/claude-skills（200+ 生产级技能合集）](cards/external-collection/onewave-ai-claude-skills.md)
+
+- 一句话: 自称 200+ 生产级 Claude Code 技能的合集：销售、营销、设计、工程等方向，树内 233 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/OneWave-AI/claude-skills
+- 调用: 未安装，收藏备查
+
 ### [Orchestra-Research/AI-Research-SKILLs（AI 研究与工程技能库）](cards/external-collection/orchestra-research-ai-research-skills.md)
 
 - 一句话: 面向 AI 研究与工程的开源技能库：模型架构、分词、微调、机理可解释、数据处理、后训练等方向共 98 个 SKILL.md。
@@ -648,6 +664,14 @@
 - 位置: https://github.com/Platanor/hardware-compliance-handbook
 - 调用: 未安装，收藏备查
 
+### [QingYunA/answer-me-with-html（用 HTML 回答难题的技能）](cards/external-collection/qingyuna-answer-me-with-html.md)
+
+- 一句话: 把难题的答案做成自包含交互式 HTML 的 agent 技能：难问题不再只给一段文字，而是给一张能看能点的页面。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/QingYunA/answer-me-with-html
+- 调用: 未安装，收藏备查
+
 ### [Ryze-AI-Adgent/open-seo-mcp-skills（SEO 与 GEO 技能集）](cards/external-collection/ryze-ai-adgent-open-seo-mcp-skills.md)
 
 - 一句话: 免费的 SEO MCP 服务器 + 开源 SEO/GEO 技能：关键词研究、竞品缺口、外链检查、排名追踪、SEO 审计等 8 个 SKILL.md。
@@ -662,6 +686,22 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/SHARPLEE00/lookbk-skills
+- 调用: 未安装，收藏备查
+
+### [SPYfighting/my-academic-skills（学术研究技能）](cards/external-collection/spyfighting-my-academic-skills.md)
+
+- 一句话: Claude Code / Codex / OpenCode 通用的学术研究技能：论文插图、PPT 绘图、装订设计投稿等，共 4 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/SPYfighting/my-academic-skills
+- 调用: 未安装，收藏备查
+
+### [SVN11X/skills（SVN11X 标准技能集）](cards/external-collection/svn11x-skills.md)
+
+- 一句话: 面向 SVN11X/standards 的 Agent 技能集：对抗测试、agent 基准、代码评审、数据保存等，共 10 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/SVN11X/skills
 - 调用: 未安装，收藏备查
 
 ### [SandroDuarsa/lawful-ui（让 UI 遵守法律的技能）](cards/external-collection/sandroduarsa-lawful-ui.md)
@@ -1040,6 +1080,22 @@
 - 位置: https://github.com/bompus/house-rules
 - 调用: 未安装，收藏备查
 
+### [boraoztunc/skills（文案与 SEO 综合技能集）](cards/external-collection/boraoztunc-skills.md)
+
+- 一句话: 文案、SEO、设计等方向的 Claude Code 综合技能集，共 87 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/boraoztunc/skills
+- 调用: 未安装，收藏备查
+
+### [borghei/Claude-Skills（403 技能 + 专家 agent 大合集）](cards/external-collection/borghei-claude-skills.md)
+
+- 一句话: 自称 403 个 AI 技能、76 个专家 agent 与 973 个 stdlib Python 工具的大合集，覆盖工程、商业增长等各团队，树内 404 个 SKILL.md。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/borghei/Claude-Skills
+- 调用: 未安装，收藏备查
+
 ### [career-ops-hq/career-ops（AI 求职 agent 技能）](cards/external-collection/career-ops-hq-career-ops.md)
 
 - 一句话: 开源 AI 求职 agent：扫招聘版、按 CV 逐个 1–5 分打分再决定投不投——同一技能适配 7 个 harness，7 个 SKILL.md。
@@ -1086,6 +1142,14 @@
 - 来源: 外部
 - 许可: AGPL-3.0
 - 位置: https://github.com/chu0119/pojun-skill
+- 调用: 未安装，收藏备查
+
+### [cjh-solver/MathModeling-Skills-Arsenal（数学建模竞赛技能集）](cards/external-collection/cjh-solver-mathmodeling-skills-arsenal.md)
+
+- 一句话: 面向数学建模竞赛的 AI Agent 技能集：读题建模、求解、可视化、论文写作与终稿评审，共 35 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/cjh-solver/MathModeling-Skills-Arsenal
 - 调用: 未安装，收藏备查
 
 ### [cloudflare/security-audit-skill（安全审计技能）](cards/external-collection/cloudflare-security-audit-skill.md)
@@ -1206,6 +1270,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/dmoreq/agent-grimoire
+- 调用: 未安装，收藏备查
+
+### [dogum/procedural-art（代码程序化艺术技能）](cards/external-collection/dogum-procedural-art.md)
+
+- 一句话: 用代码做程序化艺术的技能：真实的山、玻璃与油画都由代码生成，共 3 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/dogum/procedural-art
 - 调用: 未安装，收藏备查
 
 ### [dreammis/social-auto-upload（社媒自动上传技能）](cards/external-collection/dreammis-social-auto-upload.md)
@@ -1504,6 +1576,14 @@
 - 位置: https://github.com/hieuday88/claude-image
 - 调用: 未安装，收藏备查
 
+### [hoobnn/hoobnn-skills（中文通用 Agent 技能与插件市场）](cards/external-collection/hoobnn-hoobnn-skills.md)
+
+- 一句话: Claude Code / Codex / opencode 通用的中文 Agent Skills 与插件市场：Git 提交等日常开发技能，共 11 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/hoobnn/hoobnn-skills
+- 调用: 未安装，收藏备查
+
 ### [inkatze/planwright（规格驱动开发自动驾驶）](cards/external-collection/inkatze-planwright.md)
 
 - 一句话: 规格驱动开发的自动驾驶：你签字通过规格，带护栏的 agent 舰队负责构建、评审并交付 PR 草稿，你保留签字与合并权。
@@ -1534,6 +1614,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/jamditis/claude-skills-journalism
+- 调用: 未安装，收藏备查
+
+### [janestreet/agent_skills（Jane Street 苏格拉底家教技能）](cards/external-collection/janestreet-agent-skills.md)
+
+- 一句话: Jane Street 官方的苏格拉底家教技能：先诊断你的水平、画一张 0–5 级技能图谱，再一问一答地教，配间隔复习与结课测评，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/janestreet/agent_skills
 - 调用: 未安装，收藏备查
 
 ### [jangtrinh/design-os-3d-blender（Blender 5.2 agent 操作系统）](cards/external-collection/jangtrinh-design-os-3d-blender.md)
@@ -1816,6 +1904,14 @@
 - 位置: https://github.com/mileson/chaojifeng-video-design
 - 调用: 「用 chaojifeng-video-design 做一期关于 XX 的概念知识科普视频」
 
+### [modelplan/modelplan（选模型选档位选套餐的技能）](cards/external-collection/modelplan-modelplan.md)
+
+- 一句话: 帮 agent 回答「哪个 AI 编码模型、用多大力度、买哪个套餐」的推荐技能，Claude Code 与 Codex 双份，共 6 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/modelplan/modelplan
+- 调用: 未安装，收藏备查
+
 ### [morluto/rea（用 agent 逆向任何东西）](cards/external-collection/morluto-rea.md)
 
 - 一句话: 用 agent 逆向任何东西的技能——从应用行为一路深入到原生二进制，5 个 SKILL.md。
@@ -1926,6 +2022,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/nidhinjs/prompt-master
+- 调用: 未安装，收藏备查
+
+### [nielsmadan/skills（代码评审与日常开发技能集）](cards/external-collection/nielsmadan-skills.md)
+
+- 一句话: 代码评审、规划、测试与日常开发的 Agent 技能集，共 64 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nielsmadan/skills
 - 调用: 未安装，收藏备查
 
 ### [nightly-labs/openbot（本地优先的多智能体桌面工作台）](cards/external-collection/nightly-labs-openbot.md)
@@ -2064,6 +2168,14 @@
 - 位置: https://github.com/reticlehq/reticle
 - 调用: 未安装，收藏备查
 
+### [robpalmer99/claude-code-copywriting-skills（直复式文案 8 技能）](cards/external-collection/robpalmer99-claude-code-copywriting-skills.md)
+
+- 一句话: 写直复式文案的 8 个 Claude Code 技能：找角度、写广告、过合规、总编把关，走完从定位到成稿。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/robpalmer99/claude-code-copywriting-skills
+- 调用: 未安装，收藏备查
+
 ### [rogerchappel/launchclip（启动视频与开源宣发包技能）](cards/external-collection/rogerchappel-launchclip.md)
 
 - 一句话: 做可审阅的启动视频与开源宣发包：角色设计、视频生成、发布文案，树内 7 个 SKILL.md。
@@ -2096,12 +2208,28 @@
 - 位置: https://github.com/sageadvicellc/bowerloom
 - 调用: 未安装，收藏备查
 
+### [saki-orbit/link-to-content（社媒链接转内容技能）](cards/external-collection/saki-orbit-link-to-content.md)
+
+- 一句话: 把小红书、抖音、快手、B站、微博链接转成内容：跨平台媒体转写、播客转飞书、X/B站转写与创作者归档，共 4 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/saki-orbit/link-to-content
+- 调用: 未安装，收藏备查
+
 ### [say8425/SimpleKorean（易懂韩语写作技能）](cards/external-collection/say8425-simplekorean.md)
 
 - 一句话: 让 LLM 把技术文档和聊天回答写成简单易懂的韩语，源自 SimpleEnglish（ASD-STE100）的韩语派生项目。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/say8425/SimpleKorean
+- 调用: 未安装，收藏备查
+
+### [scavio-ai/skills（Scavio 网页数据 API 技能集）](cards/external-collection/scavio-ai-skills.md)
+
+- 一句话: 51 个面向 Scavio 网页数据 API 的 Agent Skills：一个总技能加各数据源 API 技能，Airbnb、AliExpress、Grocery 等一站式取数。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/scavio-ai/skills
 - 调用: 未安装，收藏备查
 
 ### [shadcn/improve（最强模型审计代码库、给便宜模型写计划）](cards/external-collection/shadcn-improve.md)
