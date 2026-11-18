@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 338 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 344 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -456,6 +456,14 @@
 - 位置: https://github.com/Jeffallan/claude-skills
 - 调用: 未安装，收藏备查
 
+### [Jesseovo/last30days-skill-cn（中文互联网研究技能）](cards/external-collection/jesseovo-last30days-skill-cn.md)
+
+- 一句话: last30days 的中文互联网移植版：检索 8 大中文平台最近 30 天的讨论，追踪跨平台热点，生成附原始来源的报告，还带每日全网热榜，单技能。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/Jesseovo/last30days-skill-cn
+- 调用: 未安装，收藏备查
+
 ### [JetBrains/thinkrail（轻量 IDE 氛围编程）](cards/external-collection/jetbrains-thinkrail.md)
 
 - 一句话: JetBrains 出品的轻量真实 IDE，用 pi 做氛围编程，IDE 会围绕使用者工作方式自我定制，12 个 SKILL.md。
@@ -598,6 +606,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/NAJEMWEHBE/studio-skills
+- 调用: 未安装，收藏备查
+
+### [NVIDIA/SkillEvaluator（技能质量评估框架）](cards/external-collection/nvidia-skillevaluator.md)
+
+- 一句话: NVIDIA 出品的 AI agent 技能质量评估框架：多层质量门、语义重叠检测、合成评测集生成与实测技能对 agent 行为的影响，可交付技能 1 个。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/NVIDIA/SkillEvaluator
 - 调用: 未安装，收藏备查
 
 ### [NVIDIA/SkillSpector（技能安全扫描器）](cards/external-collection/nvidia-skillspector.md)
@@ -1256,6 +1272,14 @@
 - 位置: https://github.com/curie-eng/curie
 - 调用: 未安装，收藏备查
 
+### [cyrwheelninja/copywriting-skill（文案写作技能）](cards/external-collection/cyrwheelninja-copywriting-skill.md)
+
+- 一句话: 给 Claude Code 的完整文案写作技能：50+ 写作框架、AI 味检测与 34 条 Copyhackers 提示词，单技能。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/cyrwheelninja/copywriting-skill
+- 调用: 未安装，收藏备查
+
 ### [daveebbelaar/bama（原生 macOS 应用构建技能）](cards/external-collection/daveebbelaar-bama.md)
 
 - 一句话: BAMA：用 agent 技能调研、克隆、设计、构建、优化与测试原生 macOS 应用（Swift + SwiftUI），21 个技能。
@@ -1614,6 +1638,14 @@
 - 来源: 外部
 - 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
 - 位置: https://github.com/heliocosta-dev/revenue-centric-design
+- 调用: 未安装，收藏备查
+
+### [herdrdev/herdr（编码 Agent 终端复用器技能）](cards/external-collection/herdrdev-herdr.md)
+
+- 一句话: 让编码 agent 住进终端复用器 Herdr 的技能：多窗格并行跑 Claude、Codex 等 agent，通宵干活也不丢进度，可交付技能 1 个。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/herdrdev/herdr
 - 调用: 未安装，收藏备查
 
 ### [hesreallyhim/awesome-claude-code（Claude Code 资源清单）](cards/external-collection/hesreallyhim-awesome-claude-code.md)
@@ -2048,6 +2080,14 @@
 - 位置: https://github.com/muzbox1973/arcade-rom-3d-remaster
 - 调用: 未安装，收藏备查
 
+### [mvanhorn/last30days-skill（最近 30 天舆情研究技能）](cards/external-collection/mvanhorn-last30days-skill.md)
+
+- 一句话: 一句话调研任何话题最近 30 天的真实讨论：同时搜 Reddit、X、YouTube、Hacker News、GitHub 与 Polymarket，按真实互动排序写成一份简报，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/mvanhorn/last30days-skill
+- 调用: 未安装，收藏备查
+
 ### [nainishshafi/developer-productivity-skills（开发者生产力技能）](cards/external-collection/nainishshafi-developer-productivity-skills.md)
 
 - 一句话: 可复用的开发者生产力技能：读 README、同步 fork、写技能、Python lint、安全扫描等，共 12 个 SKILL.md。
@@ -2182,6 +2222,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/oo-pibe/audio-bed-check
+- 调用: 未安装，收藏备查
+
+### [openfilm/openfilm（AI 视频 Agent 技能）](cards/external-collection/openfilm-openfilm.md)
+
+- 一句话: 把任何编码 agent 变成视频 agent 的开源技能：用网页做视频，带可手动编辑的编辑器，共 4 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/openfilm/openfilm
 - 调用: 未安装，收藏备查
 
 ### [paperclipai/paperclip（Agent 管理应用的技能包）](cards/external-collection/paperclipai-paperclip.md)
