@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 344 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 347 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -864,6 +864,14 @@
 - 位置: https://github.com/aaron-he-zhu/aaron-marketing-skills
 - 调用: 未安装，收藏备查
 
+### [abdallah/mattermost-dm（Mattermost 私信技能）](cards/external-collection/abdallah-mattermost-dm.md)
+
+- 一句话: 让 Claude Code 代发 Mattermost 私信的单技能：按模板发消息、处理常见失败，根目录 1 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/abdallah/mattermost-dm
+- 调用: 未安装，收藏备查
+
 ### [abdelaalimouid/qgis-agent（QGIS 与遥感技能）](cards/external-collection/abdelaalimouid-qgis-agent.md)
 
 - 一句话: 给 Claude Code 的 QGIS 与遥感技能：先规划、再写带编号的 PyQGIS 脚本、核验结果、出事实工作报告，覆盖 Sentinel-2、NDVI、分类、面积与制图，单技能。
@@ -1510,6 +1518,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/fortunto2/solo-factory
+- 调用: 未安装，收藏备查
+
+### [frontmost-ai/aeo-skills（AEO 技能集）](cards/external-collection/frontmost-ai-aeo-skills.md)
+
+- 一句话: Frontmost AI 的 AEO（AI 引擎优化）技能集：查品牌在 ChatGPT 等 AI 应用里的提及与排名、找竞品缺口、起草问答页与外联内容，树内 20 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/frontmost-ai/aeo-skills
 - 调用: 未安装，收藏备查
 
 ### [gaia-harness/gaia（严肃型 Claude Code Harness）](cards/external-collection/gaia-harness-gaia.md)
@@ -2718,6 +2734,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/wshobson/agents
+- 调用: 未安装，收藏备查
+
+### [ydmitry/skill-finder（找技能的技能）](cards/external-collection/ydmitry-skill-finder.md)
+
+- 一句话: 任务来了先问「哪个已装技能能干这个」：在全机已装技能里按短语检索、读最佳匹配并出报告，还能把选中的技能拷进运行目录供新会话调用，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/ydmitry/skill-finder
 - 调用: 未安装，收藏备查
 
 ### [yikart/AiToEarn（AI 内容变现平台技能插件）](cards/external-collection/yikart-aitoearn.md)
