@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 347 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 351 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -1200,6 +1200,14 @@
 - 位置: https://github.com/chauhan17nitin/post-master
 - 调用: 未安装，收藏备查
 
+### [cheaper-inference/OmniRoute（免费 AI 网关与操作技能）](cards/external-collection/cheaper-inference-omniroute.md)
+
+- 一句话: 免费的 MIT AI 网关：一个端点接 375 家供应商、1,400+ 模型，仓内附带 40 多个操作网关的 agent 技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/cheaper-inference/OmniRoute
+- 调用: 未安装，收藏备查
+
 ### [chenf888/TMT-game-generator（增量游戏生成技能）](cards/external-collection/chenf888-tmt-game-generator.md)
 
 - 一句话: 一句话对话生成完整可玩的 The Modding Tree（TMT v2.7）增量放置游戏——采访、设计、脚手架、生成、静态检查、模拟调节奏，1 个 SKILL.md。
@@ -1536,6 +1544,14 @@
 - 位置: https://github.com/gaia-harness/gaia
 - 调用: 未安装，收藏备查
 
+### [gamedev-skills/awesome-gamedev-agent-skills（游戏开发技能包）](cards/external-collection/gamedev-skills-awesome-gamedev-agent-skills.md)
+
+- 一句话: 给 AI 编码 agent 的游戏开发技能包：79 个游戏开发技能加一个路由器，覆盖 Godot、Unity、Unreal、Roblox、three.js、Phaser 等 12 个引擎。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/gamedev-skills/awesome-gamedev-agent-skills
+- 调用: 未安装，收藏备查
+
 ### [genfeedai/skills（内容创作与广告技能集）](cards/external-collection/genfeedai-skills.md)
 
 - 一句话: 面向内容创作、SEO、广告、图片提示词与策略的 AI 技能集，含广告、品牌等主题 bundles。
@@ -1640,12 +1656,28 @@
 - 位置: https://github.com/guaikei/xhs-diagnosis
 - 调用: 未安装，收藏备查
 
+### [guanmo-ai/guanmo-studio（观默工作室 · 产品宣传片）](cards/external-collection/guanmo-ai-guanmo-studio.md)
+
+- 一句话: 本地产品宣传片制作项目：给它一份产品配置（或产品地址），按内置模板「卡片转盘 Card Carousel」产出 15 秒 1920×1080 60fps 横版短片，另可导出六段分轨剪辑素材。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/guanmo-ai/guanmo-studio
+- 调用: 未安装，收藏备查
+
 ### [hany202507/finance-ai-skills（韩国会计·税务技能）](cards/external-collection/hany202507-finance-ai-skills.md)
 
 - 一句话: 韩国会计师·税务师用的 Claude Code 技能：法人税、附加税、转让所得税、源泉税申报核查，现金流量表、租赁、决算与外部审计，共 17 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/hany202507/finance-ai-skills
+- 调用: 未安装，收藏备查
+
+### [heartleo/zlib（Z-Library 命令行工具）](cards/external-collection/heartleo-zlib.md)
+
+- 一句话: Z-Library 的命令行工具：在终端里搜书、下载，推送到 Kindle 与微信读书，并通过 MCP 与插件让 AI agent 直接代办找书下书。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/heartleo/zlib
 - 调用: 未安装，收藏备查
 
 ### [heliocosta-dev/revenue-centric-design（收益导向设计技能）](cards/external-collection/heliocosta-dev-revenue-centric-design.md)
