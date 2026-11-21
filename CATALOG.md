@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 351 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 357 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -398,6 +398,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/Illyism/seo-skills
+- 调用: 未安装，收藏备查
+
+### [JDhruv14/line-art-animation（线条动画技能）](cards/external-collection/jdhruv14-line-art-animation.md)
+
+- 一句话: 让 agent 画会走路、会互动的墨水线条动画：一致风格的线条人物、昼夜循环场景，输出可交互 SVG。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/JDhruv14/line-art-animation
 - 调用: 未安装，收藏备查
 
 ### [Jakeschincariol/day-trader-skill（日内交易 11 技能）](cards/external-collection/jakeschincariol-day-trader-skill.md)
@@ -1312,6 +1320,14 @@
 - 位置: https://github.com/davila7/claude-code-templates
 - 调用: 未安装，收藏备查
 
+### [daymade/claude-code-skills（Daymade 技能市场）](cards/external-collection/daymade-claude-code-skills.md)
+
+- 一句话: 30 个生产级 Claude Code 技能的市场：GitHub 运维、音频转写、额度校准、Claude Code 自身管理等，覆盖开发全流程。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/daymade/claude-code-skills
+- 调用: 未安装，收藏备查
+
 ### [dcbruck/claude-skills（独立顾问的日常 12 技能）](cards/external-collection/dcbruck-claude-skills.md)
 
 - 一句话: 独立 AI 创意顾问每天自用的 12 个 slash-command 技能：prompt 放大、想法挖掘与分诊、语音锁定起草、转录挖矿、合同审查、系统图等。
@@ -1550,6 +1566,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/gamedev-skills/awesome-gamedev-agent-skills
+- 调用: 未安装，收藏备查
+
+### [garrytan/gstack（Garry Tan 的 Claude Code 配置）](cards/external-collection/garrytan-gstack.md)
+
+- 一句话: YC 总裁 Garry Tan 的整套 Claude Code 配置：23 个工具分别扮演 CEO、设计师、工程经理、发布经理、文档工程师与 QA。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/garrytan/gstack
 - 调用: 未安装，收藏备查
 
 ### [genfeedai/skills（内容创作与广告技能集）](cards/external-collection/genfeedai-skills.md)
@@ -1886,6 +1910,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/karefined-eng/information-is-beautiful-skill
+- 调用: 未安装，收藏备查
+
+### [kelvinkn17/skills（fun-isometric 动效贴纸技能）](cards/external-collection/kelvinkn17-skills.md)
+
+- 一句话: 做会动的等距视角（isometric）贴纸视觉，灵感取自 SlushWallet 风格。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kelvinkn17/skills
 - 调用: 未安装，收藏备查
 
 ### [kepano/obsidian-skills（Obsidian 技能包）](cards/external-collection/kepano-obsidian-skills.md)
@@ -2240,6 +2272,14 @@
 - 位置: https://github.com/nightly-labs/openbot
 - 调用: 未安装，收藏备查
 
+### [nilbuild/stick-scene（火柴人场景动画技能）](cards/external-collection/nilbuild-stick-scene.md)
+
+- 一句话: 给落地页画会动的小火柴人场景：拉杠杆、贴便签、盖章，用小人操作道具讲清产品是干什么的。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nilbuild/stick-scene
+- 调用: 未安装，收藏备查
+
 ### [obra/superpowers（完整开发方法论技能框架）](cards/external-collection/obra-superpowers.md)
 
 - 一句话: 一套完整软件开发方法论的技能框架——先头脑风暴对齐、再写计划、子 agent 分工执行、TDD 与评审兜底，15 个 SKILL.md。
@@ -2582,6 +2622,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/starslingdev/skills
+- 调用: 未安装，收藏备查
+
+### [staryone/motlab（代码化视频引擎技能）](cards/external-collection/staryone-motlab.md)
+
+- 一句话: 视频即代码：每个场景是一个 canvas 页面，agent 按参考素材写场景，在查看器里逐帧改、再由无头 Chrome 渲染成 MP4，全程不调用 AI 图片/视频模型。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/staryone/motlab
 - 调用: 未安装，收藏备查
 
 ### [tamnguyendinh/Anvien（代码智能 MCP 技能）](cards/external-collection/tamnguyendinh-anvien.md)
