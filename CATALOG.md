@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 357 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 377 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -110,6 +110,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/1npo/dossier
+- 调用: 未安装，收藏备查
+
+### [23blocks-OS/ai-maestro（Agent 编排器技能系统）](cards/external-collection/23blocks-os-ai-maestro.md)
+
+- 一句话: 给 AI agent 加超能力的编排器：记忆搜索、代码能力等技能系统，附 1 个可交付的 agent-browser 技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/23blocks-OS/ai-maestro
 - 调用: 未安装，收藏备查
 
 ### [AIPMAndy/ClearSkill（磁盘清理决策技能）](cards/external-collection/aipmandy-clearskill.md)
@@ -552,6 +560,14 @@
 - 位置: https://github.com/KKKKhazix/khazix-skills
 - 调用: 未安装，收藏备查
 
+### [Kinprove/genealogy-research-recipes（家谱研究食谱技能）](cards/external-collection/kinprove-genealogy-research-recipes.md)
+
+- 一句话: 经事实核查的家谱研究食谱：DNA 证据与档案检索，给 agent 的家谱研究工作流。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/Kinprove/genealogy-research-recipes
+- 调用: 未安装，收藏备查
+
 ### [Kulaxyz/self-learning-skills（会话最优路径沉淀）](cards/external-collection/kulaxyz-self-learning-skills.md)
 
 - 一句话: 自我改进技能：把会话里来之不易的「黄金路径」自动沉淀为可复用 skill，支持 Claude Code/Cursor/AGENTS.md 等 70+ agent。
@@ -686,6 +702,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/Orchestra-Research/AI-Research-SKILLs
+- 调用: 未安装，收藏备查
+
+### [OstenHun/danseo（论文证据研究 CLI 技能）](cards/external-collection/ostenhun-danseo.md)
+
+- 一句话: 本地研究证据 CLI：把论文主张连到项目决策并导出上下文，附 danseo 阅读、danseo 与 paper-to-project 3 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/OstenHun/danseo
 - 调用: 未安装，收藏备查
 
 ### [OthmanAdi/planning-with-files（文件型持久规划）](cards/external-collection/othmanadi-planning-with-files.md)
@@ -1136,6 +1160,14 @@
 - 位置: https://github.com/bitwize-music-studio/claude-ai-music-skills
 - 调用: 未安装，收藏备查
 
+### [bjcoombs/ai-native-toolkit（AI 原生开发工具包）](cards/external-collection/bjcoombs-ai-native-toolkit.md)
+
+- 一句话: Claude Code 插件与 agent 技能：代码库就绪度打分、六顶思考帽评审、PR 评审合并、语义压缩等约 20 个可交付技能。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/bjcoombs/ai-native-toolkit
+- 调用: 未安装，收藏备查
+
 ### [blader/humanizer（去 AI 味改写技能）](cards/external-collection/blader-humanizer.md)
 
 - 一句话: 去掉文本里的 AI 生成痕迹、改写成自然人味的 agent 技能，1 个 SKILL.md。
@@ -1174,6 +1206,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/borghei/Claude-Skills
+- 调用: 未安装，收藏备查
+
+### [cardene777/agent-shuriken（Claude Code 谨慎插件集）](cards/external-collection/cardene777-agent-shuriken.md)
+
+- 一句话: 给 Claude Code、Codex 等编码 agent 的谨慎插件集：账号清理、对比报告、图表组合、文档发布、EVM 合约开发等 39 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/cardene777/agent-shuriken
 - 调用: 未安装，收藏备查
 
 ### [career-ops-hq/career-ops（AI 求职 agent 技能）](cards/external-collection/career-ops-hq-career-ops.md)
@@ -1246,6 +1286,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/cjh-solver/MathModeling-Skills-Arsenal
+- 调用: 未安装，收藏备查
+
+### [cloudai-x/threejs-skills（Three.js 技能集）](cards/external-collection/cloudai-x-threejs-skills.md)
+
+- 一句话: Three.js 开发技能集：动画、几何、材质、光照、加载器、后期处理、着色器、React Three Fiber 等 13 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/cloudai-x/threejs-skills
 - 调用: 未安装，收藏备查
 
 ### [cloudflare/security-audit-skill（安全审计技能）](cards/external-collection/cloudflare-security-audit-skill.md)
@@ -1464,6 +1512,14 @@
 - 位置: https://github.com/emilkowalski/skills
 - 调用: 未安装，收藏备查
 
+### [escoffier-labs/brigade（Brigade 编码 agent 工作栈）](cards/external-collection/escoffier-labs-brigade.md)
+
+- 一句话: 让编码 agent 在任何地方跑、并留下一份统一工作记录：共享任务、舰队协调与工作交接。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/escoffier-labs/brigade
+- 调用: 未安装，收藏备查
+
 ### [eternityspring/shuohao-skills（AI 短剧制作技能集）](cards/external-collection/eternityspring-shuohao-skills.md)
 
 - 一句话: AI 短剧制作的 7 个技能：小说改编大纲、角色设定、角色参考图、场景道具设定、剧本、分镜场位、分镜，一路做到可投产的分镜包。
@@ -1478,6 +1534,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/eugenelim/agent-ready-repo
+- 调用: 未安装，收藏备查
+
+### [everyinfra/seo-skills（全球 SEO/GEO 技能）](cards/external-collection/everyinfra-seo-skills.md)
+
+- 一句话: 免费的全球 SEO/GEO 技能：18 个市场门户、56 个标准库脚本、672 个黄金测试，覆盖多语言 GEO、程序化 SEO、核心网页指标与惩罚恢复。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/everyinfra/seo-skills
 - 调用: 未安装，收藏备查
 
 ### [f-o-x11/deed-page-skill（deed.page 发布技能）](cards/external-collection/f-o-x11-deed-page-skill.md)
@@ -1576,6 +1640,14 @@
 - 位置: https://github.com/garrytan/gstack
 - 调用: 未安装，收藏备查
 
+### [gencraft-labs/skills（AI 媒体生成技能集）](cards/external-collection/gencraft-labs-skills.md)
+
+- 一句话: AI 媒体生成技能集：AI 出图、视频生成、图生视频、音乐、虚拟形象、唇形同步、人脸替换等 33 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/gencraft-labs/skills
+- 调用: 未安装，收藏备查
+
 ### [genfeedai/skills（内容创作与广告技能集）](cards/external-collection/genfeedai-skills.md)
 
 - 一句话: 面向内容创作、SEO、广告、图片提示词与策略的 AI 技能集，含广告、品牌等主题 bundles。
@@ -1614,6 +1686,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/github/awesome-copilot
+- 调用: 未安装，收藏备查
+
+### [github/spec-kit（GitHub 规格驱动开发工具包）](cards/external-collection/github-spec-kit.md)
+
+- 一句话: GitHub 官方的规格驱动开发工具包：specify CLI + 规格、规划、任务、实现流程，附 2 个 agent 技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/github/spec-kit
 - 调用: 未安装，收藏备查
 
 ### [google-labs-code/stitch-skills（Google Labs Stitch 设计与构建技能）](cards/external-collection/google-labs-code-stitch-skills.md)
@@ -1912,6 +1992,14 @@
 - 位置: https://github.com/karefined-eng/information-is-beautiful-skill
 - 调用: 未安装，收藏备查
 
+### [kele-dev/Claude-Orchestrator-Skill（省 token 多 agent 编排插件）](cards/external-collection/kele-dev-claude-orchestrator-skill.md)
+
+- 一句话: Claude Code 省 token 多 agent 编排插件：Opus 规划与核验、Haiku 执行，autopilot、team、status、learn 等 9 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kele-dev/Claude-Orchestrator-Skill
+- 调用: 未安装，收藏备查
+
 ### [kelvinkn17/skills（fun-isometric 动效贴纸技能）](cards/external-collection/kelvinkn17-skills.md)
 
 - 一句话: 做会动的等距视角（isometric）贴纸视觉，灵感取自 SlushWallet 风格。
@@ -1934,6 +2022,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/kerfnotes/skills
+- 调用: 未安装，收藏备查
+
+### [kinti/a11y-toolkit（AI 编码 agent 无障碍层）](cards/external-collection/kinti-a11y-toolkit.md)
+
+- 一句话: 给 AI 编码 agent 的无障碍层：按 WCAG 2.2 做静态与渲染后审计，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kinti/a11y-toolkit
 - 调用: 未安装，收藏备查
 
 ### [kjranyone/artcraft-agent-skills（ArtCraft 创意套件技能）](cards/external-collection/kjranyone-artcraft-agent-skills.md)
@@ -2008,6 +2104,14 @@
 - 位置: https://github.com/lemomo-ai/lemo-opuscar
 - 调用: 未安装，收藏备查
 
+### [linxie654-netizen/Robot-Skills（ABB 机器人编程技能）](cards/external-collection/linxie654-netizen-robot-skills.md)
+
+- 一句话: ABB 机器人编程 agent 技能：RAPID + RobotStudio，30 堂新手友好课程，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/linxie654-netizen/Robot-Skills
+- 调用: 未安装，收藏备查
+
 ### [llodev/skills（Agent 技能合集）](cards/external-collection/llodev-skills.md)
 
 - 一句话: Agent 技能合集 21 个：TS 的 DDD（DTO、实体、用例、查询）、项目管理任务（Jira、Asana、Linear、Notion）与学习摘要等。
@@ -2024,12 +2128,28 @@
 - 位置: https://github.com/lmxcode/infocard-video
 - 调用: 未安装，收藏备查
 
+### [lottshin/scholar-kit（学术研究全流程技能）](cards/external-collection/lottshin-scholar-kit.md)
+
+- 一句话: 面向学术研究全流程的 AI 技能：知网/OpenAlex/PubMed/Zotero 检索与核心预警筛查、硕博切片精读、对比矩阵与极性核验、实证三线表、GB/T 7714 引用。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/lottshin/scholar-kit
+- 调用: 未安装，收藏备查
+
 ### [luizguilherme5/claude-delegation-skills（委派给本地 Claude 的技能）](cards/external-collection/luizguilherme5-claude-delegation-skills.md)
 
 - 一句话: 让 Codex/Cursor/OpenCode 等终端 agent 把工程活委派给本地 Claude Code CLI，带受限权限与会话续跑，2 个 SKILL.md。
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/luizguilherme5/claude-delegation-skills
+- 调用: 未安装，收藏备查
+
+### [luxmanbhattarai/SkillForge（277 技能通用技能库）](cards/external-collection/luxmanbhattarai-skillforge.md)
+
+- 一句话: 通用 AI agent 技能库：277 个技能、24 个 agent、16 条工作流，覆盖 AI 工程、架构、认证、Claude Code、Codex 等方向。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/luxmanbhattarai/SkillForge
 - 调用: 未安装，收藏备查
 
 ### [lzhs1995/multi-agent-collaboration（cmux 多 agent 协同）](cards/external-collection/lzhs1995-multi-agent-collaboration.md)
@@ -2120,6 +2240,14 @@
 - 位置: https://github.com/michael-denyer/pstack-claude
 - 调用: 未安装，收藏备查
 
+### [microsoft/azure-skills（Azure 官方 agent 技能集）](cards/external-collection/microsoft-azure-skills.md)
+
+- 一句话: 微软官方的 Azure agent 插件：AKS、成本、顾问、观测、可观测性、本地部署等方向共 93 个技能，附 MCP 服务器配置。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/microsoft/azure-skills
+- 调用: 未安装，收藏备查
+
 ### [mileson/chaojifeng-video-design（超级峰的视频设计方法论）](cards/external-collection/mileson-chaojifeng-video-design.md)
 
 - 一句话: 面向 AI Agent 的视频设计方法论技能：从导演意图到分镜、声画节奏、制作与交付验收，覆盖知识讲解、产品演示、音乐视觉等 8 类视频任务。
@@ -2127,6 +2255,14 @@
 - 许可: MIT
 - 位置: https://github.com/mileson/chaojifeng-video-design
 - 调用: 「用 chaojifeng-video-design 做一期关于 XX 的概念知识科普视频」
+
+### [mitsuhiko/gh-issue-sync（GitHub Issue 本地同步工具技能）](cards/external-collection/mitsuhiko-gh-issue-sync.md)
+
+- 一句话: 在本地处理 GitHub issue 的同步工具，附 1 个同名 agent 技能。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/mitsuhiko/gh-issue-sync
+- 调用: 未安装，收藏备查
 
 ### [modelplan/modelplan（选模型选档位选套餐的技能）](cards/external-collection/modelplan-modelplan.md)
 
@@ -2400,6 +2536,14 @@
 - 位置: https://github.com/qjzzsky/lyric-onset-montage
 - 调用: 未安装，收藏备查
 
+### [qzxcle/field-notes-formatter（AI 资讯转 Field Notes 技能）](cards/external-collection/qzxcle-field-notes-formatter.md)
+
+- 一句话: 把 AI 资讯格式化成 OS AI Field Notes 条目的 Claude 技能，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/qzxcle/field-notes-formatter
+- 调用: 未安装，收藏备查
+
 ### [ramboz/jig（跨平台工程技能集）](cards/external-collection/ramboz-jig.md)
 
 - 一句话: 跨 Claude 与 Codex 的工程技能集：同一批技能按 harness 各放一份，树内 80 个 SKILL.md。
@@ -2526,6 +2670,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/shadcn/improve
+- 调用: 未安装，收藏备查
+
+### [sherifabdlnaby/skills（手作日常 AI 技能集）](cards/external-collection/sherifabdlnaby-skills.md)
+
+- 一句话: 作者日常经验手作的 AI 技能集：Git、Mise、CI/CD、K8s 排障、评审、快反馈模式等，自有约 20 个技能。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/sherifabdlnaby/skills
 - 调用: 未安装，收藏备查
 
 ### [showheyohtaki/motion-prompt（动作词典技能）](cards/external-collection/showheyohtaki-motion-prompt.md)
@@ -2814,6 +2966,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/wshobson/agents
+- 调用: 未安装，收藏备查
+
+### [xikhar/papercraft（立体剪纸风游戏与动画技能）](cards/external-collection/xikhar-papercraft.md)
+
+- 一句话: 手作立体剪纸风的 agent 技能：做游戏、交互场景、网页与动画，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/xikhar/papercraft
 - 调用: 未安装，收藏备查
 
 ### [ydmitry/skill-finder（找技能的技能）](cards/external-collection/ydmitry-skill-finder.md)
