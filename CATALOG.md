@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 377 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 391 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -192,6 +192,14 @@
 - 位置: https://github.com/AwayerCode/Harn
 - 调用: 未安装，收藏备查
 
+### [BarakChamo/latch（编码后项目检查技能集）](cards/external-collection/barakchamo-latch.md)
+
+- 一句话: 编码 agent 改完代码后跑一轮项目检查的 tenets 技能集。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/BarakChamo/latch
+- 调用: 未安装，收藏备查
+
 ### [BofAI/skills（Bank of AI 技能集，含 x402-payment）](cards/external-collection/bofai-skills.md)
 
 - 一句话: Bank of AI 的技能合集仓（TRON 生态为主）；其中的 x402-payment 技能让 agent 用 USDT/USDD/USDC 经 x402 协议为付费 API 付款（带 --dry-run 与单笔上限）。
@@ -199,6 +207,14 @@
 - 许可: MIT
 - 位置: https://github.com/BofAI/skills（x402-payment 本地安装：~/workspace/custom-skills/local-x402-payment/）
 - 调用: 未启用付款通道，收藏备查
+
+### [BwL1289/ai-vc-skills（VC 融资准备技能集）](cards/external-collection/bwl1289-ai-vc-skills.md)
+
+- 一句话: 帮创业者准备 VC 融资的技能集：股权数学、融资额校验、对 pitch 与 deck 论断的对抗评审。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/BwL1289/ai-vc-skills
+- 调用: 未安装，收藏备查
 
 ### [CTO-DRS/design-arsenal（设计武器库）](cards/external-collection/cto-drs-design-arsenal.md)
 
@@ -342,6 +358,14 @@
 - 来源: 外部
 - 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
 - 位置: https://github.com/Fallen-leaves089/project-health
+- 调用: 未安装，收藏备查
+
+### [FindDataTechnology/fd-caas（需求转传播物技能集）](cards/external-collection/finddatatechnology-fd-caas.md)
+
+- 一句话: 把需求变成看得见听得见的东西（视频、文章、图表、文档、语音）的服务型技能集。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/FindDataTechnology/fd-caas
 - 调用: 未安装，收藏备查
 
 ### [GangJaeYu/harness_loop_full_korean（韩语 agent 开发循环）](cards/external-collection/gangjaeyu-harness-loop-full-korean.md)
@@ -558,6 +582,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/KKKKhazix/khazix-skills
+- 调用: 未安装，收藏备查
+
+### [Ken-Technology/ken-ai-plugin（Kenso 冷邮件与销售外联技能集）](cards/external-collection/ken-technology-ken-ai-plugin.md)
+
+- 一句话: Kenso 冷邮件与销售外联技能与插件：campaign、回复、报告与送达率，走 Kenso MCP。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Ken-Technology/ken-ai-plugin
 - 调用: 未安装，收藏备查
 
 ### [Kinprove/genealogy-research-recipes（家谱研究食谱技能）](cards/external-collection/kinprove-genealogy-research-recipes.md)
@@ -832,12 +864,28 @@
 - 位置: https://github.com/Stophyuk/solutionzip-skills
 - 调用: 未安装，收藏备查
 
+### [SufianWajid/ai-product-skills（AI 产品构建技能集）](cards/external-collection/sufianwajid-ai-product-skills.md)
+
+- 一句话: AI 产品构建技能集：Gemini 提示词、agent 行为变更与评估、FastAPI/ADK/LangGraph 后端、AI 代码评审，每个技能都做过有无对比测试。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/SufianWajid/ai-product-skills
+- 调用: 未安装，收藏备查
+
 ### [SupercmoHQ/superCMO-skills（AI 营销官技能包）](cards/external-collection/supercmohq-supercmo-skills.md)
 
 - 一句话: 把 Claude/Cursor/Codex 变成 AI CMO —— 端到端营销 campaign 技能包：UGC 视频、广告视频、产品摄影等，共 23 个 SKILL.md。
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/SupercmoHQ/superCMO-skills
+- 调用: 未安装，收藏备查
+
+### [TACTlancer/tact-profile（个人画像方法论单技能）](cards/external-collection/tactlancer-tact-profile.md)
+
+- 一句话: 可复用的个人画像方法论单技能。
+- 来源: 外部
+- 许可: NOASSERTION
+- 位置: https://github.com/TACTlancer/tact-profile
 - 调用: 未安装，收藏备查
 
 ### [Vincentwei1021/video-shotcraft（AI 视频制作技能）](cards/external-collection/vincentwei1021-video-shotcraft.md)
@@ -1150,6 +1198,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/benjitaylor/skills
+- 调用: 未安装，收藏备查
+
+### [benrwarner/clogo（真实 logo 设计单技能）](cards/external-collection/benrwarner-clogo.md)
+
+- 一句话: 让编码 agent 设计真正的 logo（SVG、favicon、应用图标），而不是方块里的字母。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/benrwarner/clogo
 - 调用: 未安装，收藏备查
 
 ### [bitwize-music-studio/claude-ai-music-skills（人机协作音乐制作技能）](cards/external-collection/bitwize-music-studio-claude-ai-music-skills.md)
@@ -1744,12 +1800,28 @@
 - 位置: https://github.com/guaikei/ks-diagnosis
 - 调用: 未安装，收藏备查
 
+### [guaikei/ks-video（快手视频数据单技能）](cards/external-collection/guaikei-ks-video.md)
+
+- 一句话: 快手视频作品数据单技能：关键词搜索、作品详情、博主作品、互动数据，公开数据只读，输出结构化 JSON。
+- 来源: 外部
+- 许可: 未标注
+- 位置: https://github.com/guaikei/ks-video
+- 调用: 未安装，收藏备查
+
 ### [guaikei/tt-diagnosis（TikTok 账号诊断技能）](cards/external-collection/guaikei-tt-diagnosis.md)
 
 - 一句话: TikTok 账号诊断技能：博主作品、作品表现、评论反馈与对标账号，只读公开数据，输出多语言结构化 JSON，根目录 1 个 SKILL.md。
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/guaikei/tt-diagnosis
+- 调用: 未安装，收藏备查
+
+### [guaikei/tt-video（TikTok 视频数据单技能）](cards/external-collection/guaikei-tt-video.md)
+
+- 一句话: TikTok 视频作品数据单技能：关键词搜索、作品详情、博主作品、互动数据，公开数据只读，输出结构化 JSON。
+- 来源: 外部
+- 许可: 未标注
+- 位置: https://github.com/guaikei/tt-video
 - 调用: 未安装，收藏备查
 
 ### [guaikei/xhs-diagnosis（小红书账号诊断技能）](cards/external-collection/guaikei-xhs-diagnosis.md)
@@ -1846,6 +1918,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/hieuday88/claude-image
+- 调用: 未安装，收藏备查
+
+### [holland-built/no-yolo（Claude Code 规则与技能集）](cards/external-collection/holland-built-no-yolo.md)
+
+- 一句话: Claude Code 规则与技能集：先问再猜、回答简短、贵活先征求第二意见。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/holland-built/no-yolo
 - 调用: 未安装，收藏备查
 
 ### [hoobnn/hoobnn-skills（中文通用 Agent 技能与插件市场）](cards/external-collection/hoobnn-hoobnn-skills.md)
@@ -1990,6 +2070,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/karefined-eng/information-is-beautiful-skill
+- 调用: 未安装，收藏备查
+
+### [kbrianps/claude-aws-health（只读 AWS 健康审计单技能）](cards/external-collection/kbrianps-claude-aws-health.md)
+
+- 一句话: 只读 AWS 健康审计单技能：换算成钱的截止期限、被遗忘的资源、无声故障与安全缺口，agent 不持有凭证。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/kbrianps/claude-aws-health
 - 调用: 未安装，收藏备查
 
 ### [kele-dev/Claude-Orchestrator-Skill（省 token 多 agent 编排插件）](cards/external-collection/kele-dev-claude-orchestrator-skill.md)
@@ -2456,6 +2544,14 @@
 - 位置: https://github.com/openfilm/openfilm
 - 调用: 未安装，收藏备查
 
+### [osnoser1/agent-orchestration（额度感知多 agent 编排单技能）](cards/external-collection/osnoser1-agent-orchestration.md)
+
+- 一句话: 额度感知多 agent 编排单技能：按复杂度、风险与剩余配额把活分给子 agent 与模型，带质量关卡。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/osnoser1/agent-orchestration
+- 调用: 未安装，收藏备查
+
 ### [paperclipai/paperclip（Agent 管理应用的技能包）](cards/external-collection/paperclipai-paperclip.md)
 
 - 一句话: 开源的 agent 管理应用（"everyone uses to manage agents at work"），仓内自带 82 个 SKILL.md——产品技能加 skill 分发结构。
@@ -2608,6 +2704,14 @@
 - 位置: https://github.com/robpalmer99/claude-code-copywriting-skills
 - 调用: 未安装，收藏备查
 
+### [rogerchappel/agent-runbook-lint-skill（runbook lint 单技能）](cards/external-collection/rogerchappel-agent-runbook-lint-skill.md)
+
+- 一句话: agent 自动化 runbook 的本地优先 lint 检查单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/rogerchappel/agent-runbook-lint-skill
+- 调用: 未安装，收藏备查
+
 ### [rogerchappel/launchclip（启动视频与开源宣发包技能）](cards/external-collection/rogerchappel-launchclip.md)
 
 - 一句话: 做可审阅的启动视频与开源宣发包：角色设计、视频生成、发布文案，树内 7 个 SKILL.md。
@@ -2670,6 +2774,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/shadcn/improve
+- 调用: 未安装，收藏备查
+
+### [sheduxdev/beril（网络安全情报技能）](cards/external-collection/sheduxdev-beril.md)
+
+- 一句话: 网络安全情报单技能：论坛、专家、工具、方法与证据链档案。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/sheduxdev/beril
 - 调用: 未安装，收藏备查
 
 ### [sherifabdlnaby/skills（手作日常 AI 技能集）](cards/external-collection/sherifabdlnaby-skills.md)
