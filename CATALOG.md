@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 391 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 396 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -390,6 +390,14 @@
 - 来源: 外部
 - 许可: Apache-2.0
 - 位置: https://github.com/GoogleChrome/modern-web-guidance-src
+- 调用: 未安装，收藏备查
+
+### [GoogleChrome/modern-web-guidance（Chrome 扩展与现代 Web 指南技能）](cards/external-collection/googlechrome-modern-web-guidance.md)
+
+- 一句话: Google Chrome 官方的现代 Web 开发指南技能：让编码 Agent 跟上最新 Web 平台最佳实践，另附 Chrome 扩展开发技能，共 2 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/GoogleChrome/modern-web-guidance
 - 调用: 未安装，收藏备查
 
 ### [HelloYeew/dotnet-skill（个人 C#/.NET 偏好技能）](cards/external-collection/helloyeew-dotnet-skill.md)
@@ -1336,6 +1344,14 @@
 - 位置: https://github.com/chu0119/pojun-skill
 - 调用: 未安装，收藏备查
 
+### [citrolabs/ego-lite（Agent 浏览器与 ego-browser 技能）](cards/external-collection/citrolabs-ego-lite.md)
+
+- 一句话: 给 AI agent 的最快浏览器：把已登录的浏览器状态共享给 agent 跑自动化，不打扰用户，附 ego-browser 技能，共 4 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/citrolabs/ego-lite
+- 调用: 未安装，收藏备查
+
 ### [cjh-solver/MathModeling-Skills-Arsenal（数学建模竞赛技能集）](cards/external-collection/cjh-solver-mathmodeling-skills-arsenal.md)
 
 - 一句话: 面向数学建模竞赛的 AI Agent 技能集：读题建模、求解、可视化、论文写作与终稿评审，共 35 个 SKILL.md。
@@ -1614,6 +1630,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/feimacode/open-design-agent-kit
+- 调用: 未安装，收藏备查
+
+### [felipebasurto/unslop-ui（去 AI 味界面技能）](cards/external-collection/felipebasurto-unslop-ui.md)
+
+- 一句话: 去 AI 味界面单技能：砍掉界面文案与图表里的 AI 痕迹——眉题、编号、机器人式解释、装饰图标、徽章与状态圆点，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/felipebasurto/unslop-ui
 - 调用: 未安装，收藏备查
 
 ### [finolabs/finolabs-vibecode（AI 编码 agent 工程实践技能）](cards/external-collection/finolabs-finolabs-vibecode.md)
@@ -2328,6 +2352,14 @@
 - 位置: https://github.com/michael-denyer/pstack-claude
 - 调用: 未安装，收藏备查
 
+### [microsoft/SkillOpt（文本空间技能优化器）](cards/external-collection/microsoft-skillopt.md)
+
+- 一句话: 微软出品的技能优化器：用轨迹驱动的编辑、验证门控更新，把可复用的自然语言技能训练出来，产出可部署的 best_skill.md，附 skillopt-sleep 技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/microsoft/SkillOpt
+- 调用: 未安装，收藏备查
+
 ### [microsoft/azure-skills（Azure 官方 agent 技能集）](cards/external-collection/microsoft-azure-skills.md)
 
 - 一句话: 微软官方的 Azure agent 插件：AKS、成本、顾问、观测、可观测性、本地部署等方向共 93 个技能，附 MCP 服务器配置。
@@ -2894,6 +2926,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/staryone/motlab
+- 调用: 未安装，收藏备查
+
+### [sybil-solutions/inference-optimisation-skill（本地 LLM 推理调优技能）](cards/external-collection/sybil-solutions-inference-optimisation-skill.md)
+
+- 一句话: 本地 LLM 服务端调速技能：先算理论上限、一次只改一个变量、对照组交错测量，覆盖解码、推测解码、预填充、KV 缓存、启动与首 token 时间，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/sybil-solutions/inference-optimisation-skill
 - 调用: 未安装，收藏备查
 
 ### [tamnguyendinh/Anvien（代码智能 MCP 技能）](cards/external-collection/tamnguyendinh-anvien.md)
