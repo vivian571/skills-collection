@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 396 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 404 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -624,6 +624,14 @@
 - 位置: https://github.com/Leonxlnx/taste-skill
 - 调用: 未安装，收藏备查
 
+### [LottieFiles/motion-design-skill（LottieFiles 动态设计技能）](cards/external-collection/lottiefiles-motion-design-skill.md)
+
+- 一句话: LottieFiles 出品的通用动态设计技能：先定意图与编排，再给时长与缓动表，把迪士尼动画原则搬到 UI 动效，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/LottieFiles/motion-design-skill
+- 调用: 未安装，收藏备查
+
 ### [LuoJiangYong/muse-video-skill（视频创作虚拟剧组引擎）](cards/external-collection/luojiangyong-muse-video-skill.md)
 
 - 一句话: 视频创作虚拟剧组引擎：创意 → 剧本/分镜/美术/提示词 → 模型调用指令，38 案例技法库 × 六角色协作（导演/编剧/摄影/美术/特效/声音）× 全流程质量门，产出直连下游视频模型。
@@ -1216,6 +1224,14 @@
 - 位置: https://github.com/benrwarner/clogo
 - 调用: 未安装，收藏备查
 
+### [binance/binance-skills-hub（币安技能中心，21 个加密技能）](cards/external-collection/binance-binance-skills-hub.md)
+
+- 一句话: 币安官方的 agent 技能中心：钱包、交易、跟单、预测市场、代币审计、行情排行等 21 个加密技能，覆盖 Web3 与币安平台两条线。
+- 来源: 外部
+- 许可: 未标注（API 未返回 SPDX）
+- 位置: https://github.com/binance/binance-skills-hub
+- 调用: 未安装，收藏备查
+
 ### [bitwize-music-studio/claude-ai-music-skills（人机协作音乐制作技能）](cards/external-collection/bitwize-music-studio-claude-ai-music-skills.md)
 
 - 一句话: 人 + AI 做音乐的全流程技能：给 Suno 用的作词、作曲、混音、母带、专辑概念与宣发，共 53 个 SKILL.md。
@@ -1424,6 +1440,14 @@
 - 位置: https://github.com/cyrwheelninja/copywriting-skill
 - 调用: 未安装，收藏备查
 
+### [danielwh2/sprite-stacking（四视图像素画转可旋转伪 3D 精灵）](cards/external-collection/danielwh2-sprite-stacking.md)
+
+- 一句话: 把四张正交像素视图（顶/侧/正/背）雕成体素再切层，做成可旋转的伪 3D 精灵：附切片 CLI 与可拖拽转盘查看器，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/danielwh2/sprite-stacking
+- 调用: 未安装，收藏备查
+
 ### [daveebbelaar/bama（原生 macOS 应用构建技能）](cards/external-collection/daveebbelaar-bama.md)
 
 - 一句话: BAMA：用 agent 技能调研、克隆、设计、构建、优化与测试原生 macOS 应用（Swift + SwiftUI），21 个技能。
@@ -1534,6 +1558,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/egguy886/h3-drama-kit
+- 调用: 未安装，收藏备查
+
+### [eigent-ai/eigent（开源 Cowork 桌面，附带示例技能）](cards/external-collection/eigent-ai-eigent.md)
+
+- 一句话: 开源的 Cowork 桌面（Claude Cowork / Codex 的本地免费替代），附带 6 个示例技能：docx、pdf、pptx、xlsx 文档技能，另加 skill-creator 与 skill-security-auditor。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/eigent-ai/eigent
 - 调用: 未安装，收藏备查
 
 ### [elayadesign/ai-design-skills（落地页设计技能）](cards/external-collection/elayadesign-ai-design-skills.md)
@@ -1806,6 +1838,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/gosom/google-maps-scraper
+- 调用: 未安装，收藏备查
+
+### [greensock/gsap-skills（GSAP 官方动画技能）](cards/external-collection/greensock-gsap-skills.md)
+
+- 一句话: GSAP 官方出品的 AI 动画技能：教编码 agent 正确用 GSAP 写动画，含核心、时间轴、插件、ScrollTrigger、React、框架与性能，共 8 个技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/greensock/gsap-skills
 - 调用: 未安装，收藏备查
 
 ### [guaikei/dy-diagnosis（抖音账号诊断技能）](cards/external-collection/guaikei-dy-diagnosis.md)
@@ -2488,6 +2528,14 @@
 - 位置: https://github.com/newsbubbles/ismail
 - 调用: 未安装，收藏备查
 
+### [nextlevelbuilder/ui-ux-pro-max-skill（UI/UX 设计智能技能）](cards/external-collection/nextlevelbuilder-ui-ux-pro-max-skill.md)
+
+- 一句话: 给 agent 的 UI/UX 设计智能：从一句话需求出专业级界面设计，覆盖设计系统、品牌、幻灯片与横幅，共 7 个可交付技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- 调用: 未安装，收藏备查
+
 ### [nexu-io/html-anything（Agentic HTML 编辑器模板技能）](cards/external-collection/nexu-io-html-anything.md)
 
 - 一句话: Agentic HTML 编辑器自带的模板技能库：文章、杂志、信息图、卡片、看板、数据报告、课程 deck 等方向，共 81 个 SKILL.md。
@@ -2536,6 +2584,14 @@
 - 位置: https://github.com/nilbuild/stick-scene
 - 调用: 未安装，收藏备查
 
+### [oaustegard/claude-skills（个人 Claude 技能合集，含 declauding）](cards/external-collection/oaustegard-claude-skills.md)
+
+- 一句话: 作者个人的 Claude 技能合集，226 个 SKILL.md，含去 AI 味改写技能 declauding、agent 路由、提问、图表、视频、Bluesky 等。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/oaustegard/claude-skills
+- 调用: 未安装，收藏备查
+
 ### [obra/superpowers（完整开发方法论技能框架）](cards/external-collection/obra-superpowers.md)
 
 - 一句话: 一套完整软件开发方法论的技能框架——先头脑风暴对齐、再写计划、子 agent 分工执行、TDD 与评审兜底，15 个 SKILL.md。
@@ -2574,6 +2630,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/openfilm/openfilm
+- 调用: 未安装，收藏备查
+
+### [opengamehq/brush-stroke-shader-style（手绘风游戏着色技能）](cards/external-collection/opengamehq-brush-stroke-shader-style.md)
+
+- 一句话: 让任何引擎的游戏看起来像手绘的单技能：按关卡配色、笔触贴合表面、墨水线与半调，着色器在 HUD 之前先画一层手绘风。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/opengamehq/brush-stroke-shader-style
 - 调用: 未安装，收藏备查
 
 ### [osnoser1/agent-orchestration（额度感知多 agent 编排单技能）](cards/external-collection/osnoser1-agent-orchestration.md)
