@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 404 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 410 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -278,6 +278,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/DietrichGebert/ponytail
+- 调用: 未安装，收藏备查
+
+### [DojoCodingLabs/remotion-superpowers（Remotion 全套视频制作技能）](cards/external-collection/dojocodinglabs-remotion-superpowers.md)
+
+- 一句话: Remotion 全套视频制作技能：AI 配音、音乐、素材、图/视频生成、TikTok 字幕、转场与 AI 审片循环，共 15 个技能，另附 5 个 MCP 服务器。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/DojoCodingLabs/remotion-superpowers
 - 调用: 未安装，收藏备查
 
 ### [Donchitos/Claude-Code-Game-Studios（游戏开发工作室技能集）](cards/external-collection/donchitos-claude-code-game-studios.md)
@@ -824,6 +832,14 @@
 - 位置: https://github.com/SPYfighting/my-academic-skills
 - 调用: 未安装，收藏备查
 
+### [STARDUSTLC666/dsh-remotion（DeepSeek Harness Remotion 视频工作台）](cards/external-collection/stardustlc666-dsh-remotion.md)
+
+- 一句话: DeepSeek Harness 的 React 视频创作工作台：默认 OP-DSH 硬件多轨导演台，内置 13 个官方 Remotion 技能，覆盖创建、字幕、渲染、Studio 预览与本地 MP4 导出。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/STARDUSTLC666/dsh-remotion
+- 调用: 未安装，收藏备查
+
 ### [SVN11X/skills（SVN11X 标准技能集）](cards/external-collection/svn11x-skills.md)
 
 - 一句话: 面向 SVN11X/standards 的 Agent 技能集：对抗测试、agent 基准、代码评审、数据保存等，共 10 个 SKILL.md。
@@ -1110,6 +1126,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/alirezarezvani/claude-skills
+- 调用: 未安装，收藏备查
+
+### [alivirgo/Major-AI-Skills（292+ 可装技能大合集）](cards/external-collection/alivirgo-major-ai-skills.md)
+
+- 一句话: 自称 292+ 可装 agent 技能的大合集：产品、效率与通用技能，覆盖 Claude Code、Cursor、Codex、Gemini 与 Antigravity，树内 465 个 SKILL.md。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/alivirgo/Major-AI-Skills
 - 调用: 未安装，收藏备查
 
 ### [allxsmith/bestax-skills（bestax 编码 agent 插件技能）](cards/external-collection/allxsmith-bestax-skills.md)
@@ -1518,6 +1542,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/dereknex/immune-brain
+- 调用: 未安装，收藏备查
+
+### [diffusionstudio/lottie（代码写生产级 Lottie 动画单技能）](cards/external-collection/diffusionstudio-lottie.md)
+
+- 一句话: 用 Claude Code 或 Codex 以代码生成生产级 Lottie 动画的单技能：描述要什么动效，agent 写出可直接用的 Lottie JSON。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/diffusionstudio/lottie
 - 调用: 未安装，收藏备查
 
 ### [dmoreq/agent-grimoire（跨 harness 可移植 AGENTS.md 内核与技能包）](cards/external-collection/dmoreq-agent-grimoire.md)
@@ -2688,6 +2720,14 @@
 - 位置: https://github.com/pierpont-morgan/gcp-free-vps-skill
 - 调用: 未安装，收藏备查
 
+### [pingdotgg/t3code（手机远程控制 Claude Code 等）](cards/external-collection/pingdotgg-t3code.md)
+
+- 一句话: 从任何电脑或手机远程控制 Claude Code、Codex 等编码 agent 的工具，仓内附带 1 个可交付技能 t3-workflows。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/pingdotgg/t3code
+- 调用: 未安装，收藏备查
+
 ### [pku2319/project-template（新项目脚手架技能）](cards/external-collection/pku2319-project-template.md)
 
 - 一句话: 用 agent 技能创建新项目的脚手架：可交付技能 1 个，另带 1 个模板内安装技能复本。
@@ -3214,6 +3254,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/yusufkaraaslan/Skill_Seekers
+- 调用: 未安装，收藏备查
+
+### [zanwei/design-dna（参考 UI 转量化设计 DNA 单技能）](cards/external-collection/zanwei-design-dna.md)
+
+- 一句话: 把参考 UI（图片、截图、网址）拆成量化的 Design DNA JSON——设计 token、定性风格、视觉效果——再按你的内容生成风格一致的 UI，单技能。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/zanwei/design-dna
 - 调用: 未安装，收藏备查
 
 ### [zenstory-ai/drama-skills（AI 短剧/漫剧创作技能合集）](cards/external-collection/zenstory-ai-drama-skills.md)
