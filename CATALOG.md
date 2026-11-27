@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 410 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 412 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -872,6 +872,14 @@
 - 位置: https://github.com/Servosity/msp-skills
 - 调用: 未安装，收藏备查
 
+### [Shubhamsaboo/awesome-llm-apps（LLM 应用合集附带 agent 技能）](cards/external-collection/shubhamsaboo-awesome-llm-apps.md)
+
+- 一句话: 100+ AI Agent 与 RAG 应用合集仓，附带 agent_skills/ 目录下的 7 个 agent 技能：项目墓地、首读、范围蔓延检测、提交考古、依赖医生等。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/Shubhamsaboo/awesome-llm-apps
+- 调用: 未安装，收藏备查
+
 ### [SnailSploit/Claude-Red（进攻性安全技能库）](cards/external-collection/snailsploit-claude-red.md)
 
 - 一句话: 面向 Claude 技能系统的进攻性安全技能库：按攻击面分 23 类的方法论 SKILL.md，共 79 个。
@@ -1206,6 +1214,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/avivsinai/agent-message-queue
+- 调用: 未安装，收藏备查
+
+### [awalsh128/skills（开发工作流技能集）](cards/external-collection/awalsh128-skills.md)
+
+- 一句话: 作者日常开发工作流的 agent 技能集：npm 审计、建 README、审 PR、GitHub Actions、单元测试等，树内 14 个 SKILL.md。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/awalsh128/skills
 - 调用: 未安装，收藏备查
 
 ### [ayghri/i-have-adhd（ADHD 友好输出技能）](cards/external-collection/ayghri-i-have-adhd.md)
