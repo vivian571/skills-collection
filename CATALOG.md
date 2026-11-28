@@ -1,6 +1,6 @@
 # CATALOG · 技能总索引
 
-共 412 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
+共 417 张卡，7 个分类。本文件由 `scripts/build_catalog.py` 自动生成，不要手改。
 
 ## 写作与出版
 
@@ -238,6 +238,14 @@
 - 来源: 外部
 - 许可: 未标注（API 未返回 SPDX）
 - 位置: https://github.com/ChaseSunstrom/sampo
+- 调用: 未安装，收藏备查
+
+### [ChromeDevTools/chrome-devtools-mcp（Chrome DevTools 浏览器调试技能）](cards/external-collection/chromedevtools-chrome-devtools-mcp.md)
+
+- 一句话: Google Chrome 团队出品的浏览器调试 MCP：让 coding agent 驱动真实 Chrome 窗口，看控制台、网络请求与截图，附 8 个调试技能。
+- 来源: 外部
+- 许可: Apache-2.0
+- 位置: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - 调用: 未安装，收藏备查
 
 ### [Codewithaiyan/reforge-mcp（代码库分析 MCP 技能）](cards/external-collection/codewithaiyan-reforge-mcp.md)
@@ -776,6 +784,14 @@
 - 位置: https://github.com/OthmanAdi/planning-with-files
 - 调用: 未安装，收藏备查
 
+### [Owl-Listener/designer-skills（设计师技能合集 273 技能）](cards/external-collection/owl-listener-designer-skills.md)
+
+- 一句话: 不用写代码的设计师技能包：从用户研究、设计系统、UX 策略、UI 与交互设计，到原型测试、设计运营与视觉评审，共 273 个技能与 76 条命令，分属 5 个合集。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/Owl-Listener/designer-skills
+- 调用: 未安装，收藏备查
+
 ### [OyadotAI/oya-browser（浏览器控制平面技能）](cards/external-collection/oyadotai-oya-browser.md)
 
 - 一句话: 给 AI agent 的浏览器控制平面技能：统一 API 接 Oya Cloud、Browserbase、Steel 等，带持久身份与验证码处理，22 个 SKILL.md。
@@ -998,6 +1014,14 @@
 - 来源: 外部
 - 许可: MIT
 - 位置: https://github.com/abdelaalimouid/qgis-agent
+- 调用: 未安装，收藏备查
+
+### [abdiraimov-otabek/dashboard-design-skill（仪表盘设计技能）](cards/external-collection/abdiraimov-otabek-dashboard-design-skill.md)
+
+- 一句话: 教 coding agent 做出干净、不误导人的仪表盘的单技能：KPI 卡片、图表、日期选择器、排名列表与布局，并用真实截图自查后才收工。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/abdiraimov-otabek/dashboard-design-skill
 - 调用: 未安装，收藏备查
 
 ### [abhishakec/archistry（架构级 Salesforce 图表技能）](cards/external-collection/abhishakec-archistry.md)
@@ -2472,6 +2496,14 @@
 - 位置: https://github.com/mitsuhiko/gh-issue-sync
 - 调用: 未安装，收藏备查
 
+### [mjmirza/app-store-compliance（应用商店合规预审技能）](cards/external-collection/mjmirza-app-store-compliance.md)
+
+- 一句话: 在提交前先拦下 App Store 与 Google Play 的常见拒因：125 条拒因模式与修复的开放手册、预提交扫描脚本，加一个 AI coding agent 技能。
+- 来源: 外部
+- 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
+- 位置: https://github.com/mjmirza/app-store-compliance
+- 调用: 未安装，收藏备查
+
 ### [modelplan/modelplan（选模型选档位选套餐的技能）](cards/external-collection/modelplan-modelplan.md)
 
 - 一句话: 帮 agent 回答「哪个 AI 编码模型、用多大力度、买哪个套餐」的推荐技能，Claude Code 与 Codex 双份，共 6 个 SKILL.md。
@@ -2878,6 +2910,14 @@
 - 来源: 外部
 - 许可: NOASSERTION（仓库未声明标准 SPDX 许可）
 - 位置: https://github.com/rollingedition/agent-skills
+- 调用: 未安装，收藏备查
+
+### [runkids/skillshare（技能跨工具同步管理器）](cards/external-collection/runkids-skillshare.md)
+
+- 一句话: 给技能、agent、MCP、插件与 hook 一个统一的家：一处编辑，同步到 Claude Code、Codex、Pi、OpenCode 等多个 AI 工具，附技能安全审计与团队共享。
+- 来源: 外部
+- 许可: MIT
+- 位置: https://github.com/runkids/skillshare
 - 调用: 未安装，收藏备查
 
 ### [runxhq/runx（带治理的技能运行时）](cards/external-collection/runxhq-runx.md)
